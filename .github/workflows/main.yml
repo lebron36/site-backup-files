@@ -1,0 +1,24 @@
+name: Update Playlist
+on:
+  workflow_dispatch: # Позволяет запускать вручную кнопкой
+  schedule:
+    - cron: '0 0 * * *' # Запуск раз в сутки
+jobs:
+  run-java:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up JDK
+        uses: actions/setup-java@v3
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+      - name: Execute Script
+        run: java Main.java
+      - name: Push Result
+        run: |
+          git config --global user.name "AutoBot"
+          git config --global user.email "bot@github.com"
+          git add playlist.m3u
+          git commit -m "Updated playlist" || exit 0
+          git push
