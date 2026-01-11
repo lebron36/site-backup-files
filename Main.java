@@ -2,10 +2,11 @@ import java.io.*;
 import java.net.*;
 import java.nio.file.*;
 import java.util.*;
+import java.util.concurrent.*;
 import java.util.regex.*;
 
 public class Main {
-    // Ваши источники плейлистов
+    private static final String OUTPUT_FILE = "content.bin"; // Название-маскировка
     private static final String[] SOURCES = {
         "https://smolnp.github.io/IPTVru/IPTVru.m3u",
         "https://iptv-org.github.io/iptv/languages/rus.m3u",
@@ -16,96 +17,69 @@ public class Main {
         "https://raw.githubusercontent.com/Projects-Untitled/iptv-ru/refs/heads/main/index.m3u"
     };
 
-    // Класс для хранения данных канала
     static class Channel {
-        String name;
-        String logo;
-        String url;
-
+        String name, logo, url;
         Channel(String name, String logo, String url) {
-            this.name = name;
-            this.logo = logo;
-            this.url = url;
+            this.name = name; this.logo = logo; this.url = url;
         }
     }
 
     public static void main(String[] args) {
-        // Map для дедупликации (Ключ - название канала, значение - объект Channel)
-        Map<String, Channel> channelMap = new LinkedHashMap<>();
+        Map<String, Channel> channelMap = new ConcurrentHashMap<>();
 
-        for (String source : SOURCES) {
-            System.out.println("Загрузка источника: " + source);
-            parseM3U(source, channelMap);
-        }
+        // 1. Сбор данных из всех источников
+        Arrays.stream(SOURCES).parallel().forEach(source -> parseM3U(source, channelMap));
+        System.out.println("Найдено уникальных кандидатов: " + channelMap.size());
 
-        System.out.println("Всего найдено уникальных каналов: " + channelMap.size());
-        System.out.println("Начинаю проверку ссылок на работоспособность...");
+        // 2. Быстрая проверка ссылок в многопоточном режиме
+        List<String> finalLines = Collections.synchronizedList(new ArrayList<>());
+        finalLines.add("#EXTM3U");
 
-        List<String> finalPlaylist = new ArrayList<>();
-        finalPlaylist.add("#EXTM3U");
-
-        int count = 0;
-        for (Channel ch : channelMap.values()) {
+        System.out.println("Начинаю проверку работоспособности...");
+        channelMap.values().parallelStream().forEach(ch -> {
             if (isLinkWorking(ch.url)) {
-                String info = "#EXTINF:-1 tvg-logo=\"" + ch.logo + "\"," + ch.name;
-                finalPlaylist.add(info);
-                finalPlaylist.add(ch.url);
-                count++;
-                if (count % 10 == 0) System.out.println("Проверено рабочих: " + count);
+                finalLines.add("#EXTINF:-1 tvg-logo=\"" + ch.logo + "\"," + ch.name);
+                finalLines.add(ch.url);
             }
-        }
+        });
 
+        // 3. Сохранение результата и маскировочного файла
         try {
-            Files.write(Paths.get("playlist.m3u"), finalPlaylist);
-            System.out.println("Готово! Рабочих каналов сохранено: " + count);
+            Files.write(Paths.get(OUTPUT_FILE), finalLines);
+            Files.write(Paths.get("assets.bin"), 
+                Collections.singletonList("<html><body></body></html>"));
+            System.out.println("Успешно! Рабочих каналов: " + (finalLines.size() / 2));
         } catch (IOException e) {
-            System.err.println("Ошибка записи файла: " + e.getMessage());
+            e.printStackTrace();
         }
     }
 
-    private static void parseM3U(String urlAddress, Map<String, Channel> map) {
-        try (BufferedReader reader = new BufferedReader(new InputStreamReader(new URL(urlAddress).openStream()))) {
-            String line;
-            String currentInfo = null;
-            
-            // Регулярные выражения для логотипа и названия
-            Pattern logoPattern = Pattern.compile("tvg-logo=\"(.*?)\"");
-            
-            while ((line = reader.readLine()) != null) {
+    private static void parseM3U(String urlStr, Map<String, Channel> map) {
+        try (BufferedReader r = new BufferedReader(new InputStreamReader(new URL(urlStr).openStream()))) {
+            String line, info = null;
+            Pattern p = Pattern.compile("tvg-logo=\"(.*?)\"");
+            while ((line = r.readLine()) != null) {
                 line = line.trim();
-                if (line.startsWith("#EXTINF")) {
-                    currentInfo = line;
-                } else if (line.startsWith("http") && currentInfo != null) {
-                    // Извлекаем название канала (все после последней запятой в строке #EXTINF)
-                    String name = currentInfo.substring(currentInfo.lastIndexOf(",") + 1).trim();
-                    
-                    // Извлекаем логотип
-                    Matcher matcher = logoPattern.matcher(currentInfo);
-                    String logo = matcher.find() ? matcher.group(1) : "";
-
-                    // Если канала еще нет в базе, добавляем его
-                    if (!map.containsKey(name)) {
-                        map.put(name, new Channel(name, logo, line));
-                    }
-                    currentInfo = null;
+                if (line.startsWith("#EXTINF")) info = line;
+                else if (line.startsWith("http") && info != null) {
+                    String name = info.substring(info.lastIndexOf(",") + 1).trim();
+                    Matcher m = p.matcher(info);
+                    String logo = m.find() ? m.group(1) : "";
+                    map.putIfAbsent(name, new Channel(name, logo, line));
+                    info = null;
                 }
             }
-        } catch (Exception e) {
-            System.err.println("Ошибка при чтении " + urlAddress + ": " + e.getMessage());
-        }
+        } catch (Exception ignored) {}
     }
 
-    private static boolean isLinkWorking(String urlString) {
+    private static boolean isLinkWorking(String urlStr) {
         try {
-            HttpURLConnection connection = (HttpURLConnection) new URL(urlString).openConnection();
-            connection.setRequestMethod("GET");
-            connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64)");
-            connection.setConnectTimeout(3000); // 3 секунды на ожидание
-            connection.setReadTimeout(3000);
-            int responseCode = connection.getResponseCode();
-            return (responseCode == 200);
-        } catch (Exception e) {
-            return false;
-        }
+            HttpURLConnection c = (HttpURLConnection) new URL(urlStr).openConnection();
+            c.setRequestMethod("GET"); // Некоторые серверы не любят HEAD
+            c.setRequestProperty("User-Agent", "Mozilla/5.0");
+            c.setConnectTimeout(3000);
+            c.setReadTimeout(3000);
+            return (c.getResponseCode() == 200);
+        } catch (Exception e) { return false; }
     }
 }
