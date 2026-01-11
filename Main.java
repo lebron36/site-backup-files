@@ -7,7 +7,7 @@ import java.util.regex.*;
 
 public class Main {
     // Имена файлов должны в точности совпадать с теми, что в yml
-    private static final String OUTPUT_FILE = "assets.bin";
+    private static final String OUTPUT_FILE = "assets.txt";
     private static final String INDEX_FILE = "index.html";
 
     private static final String[] SOURCES = {
