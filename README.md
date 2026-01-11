@@ -1,2 +1,2 @@
-# my-smart-iptv
-IPTV Playlist
+# my-new-project
+New Project
