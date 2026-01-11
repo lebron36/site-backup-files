@@ -2,9 +2,9 @@ name: Update IPTV Assets
 
 on:
   schedule:
-    # Запуск каждые 6 часов (в 00:00, 06:00, 12:00, 18:00 по UTC)
-    - cron: '0 */6 * * *'
-  # Позволяет запускать бота вручную кнопкой во вкладке Actions
+    # Запуск каждые 12 часов (в 00:00 и 12:00 по UTC)
+    - cron: '0 */12 * * *'
+  # Позволяет запускать бота вручную кнопкой в любое время
   workflow_dispatch:
 
 permissions:
@@ -15,30 +15,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Скачиваем код из репозитория
+      # 1. Загружаем код репозитория
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2. Устанавливаем Java (версия 17 для стабильности)
+      # 2. Устанавливаем Java 17
       - name: Set up JDK 17
         uses: actions/setup-java@v3
         with:
           java-version: '17'
           distribution: 'temurin'
 
-      # 3. Компилируем и запускаем парсер
+      # 3. Компилируем и запускаем ваш Java-код
       - name: Run Scraper
         run: |
           javac Main.java
           java Main
 
-      # 4. Сохраняем изменения обратно в репозиторий
+      # 4. Сохраняем результаты (assets.bin и index.html) обратно в репозиторий
       - name: Commit and Push changes
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
-          # Добавляем наш скрытый файл и заглушку index.html
+          
+          # Добавляем файлы. Если файлы созданы, git их подхватит.
           git add assets.bin index.html
-          # Делаем коммит, только если файлы изменились
-          git commit -m "Automated update of IPTV assets" || echo "No changes to commit"
+          
+          # Фиксируем изменения. Если изменений нет, бот просто завершит работу без ошибки.
+          git commit -m "Automated update (12h cycle)" || echo "No changes to commit"
+          
+          # Отправляем данные в вашу ветку
           git push
