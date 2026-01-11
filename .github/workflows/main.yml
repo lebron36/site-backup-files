@@ -39,7 +39,7 @@ jobs:
           git config --global user.email "actions@github.com"
           
           # Добавляем файлы. Если файлы созданы, git их подхватит.
-          git add assets.bin index.html
+          git add assets.txt index.html
           
           # Фиксируем изменения. Если изменений нет, бот просто завершит работу без ошибки.
           git commit -m "Automated update (12h cycle)" || echo "No changes to commit"
