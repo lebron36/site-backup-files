@@ -1,24 +1,44 @@
-name: Update Playlist
+name: Update IPTV Assets
+
 on:
-  workflow_dispatch: # Позволяет запускать вручную кнопкой
   schedule:
-    - cron: '0 0 * * *' # Запуск раз в сутки
+    # Запуск каждые 6 часов (в 00:00, 06:00, 12:00, 18:00 по UTC)
+    - cron: '0 */6 * * *'
+  # Позволяет запускать бота вручную кнопкой во вкладке Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
-  run-java:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up JDK
+      # 1. Скачиваем код из репозитория
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. Устанавливаем Java (версия 17 для стабильности)
+      - name: Set up JDK 17
         uses: actions/setup-java@v3
         with:
           java-version: '17'
           distribution: 'temurin'
-      - name: Execute Script
-        run: java Main.java
-      - name: Push Result
+
+      # 3. Компилируем и запускаем парсер
+      - name: Run Scraper
         run: |
-          git config --global user.name "AutoBot"
-          git config --global user.email "bot@github.com"
-          git add playlist.m3u
-          git commit -m "Updated playlist" || exit 0
+          javac Main.java
+          java Main
+
+      # 4. Сохраняем изменения обратно в репозиторий
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "actions@github.com"
+          # Добавляем наш скрытый файл и заглушку index.html
+          git add assets.bin index.html
+          # Делаем коммит, только если файлы изменились
+          git commit -m "Automated update of IPTV assets" || echo "No changes to commit"
           git push
