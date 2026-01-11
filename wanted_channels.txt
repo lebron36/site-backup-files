@@ -341,8 +341,6 @@ Sochi Live HD
 Русское радио
 Хит FM
 Юмор FM
-loganettv sport
-telegram - t me/loganettv_original
 Беларусь 5 Интернет
 Бокс ТВ
 Бокс ТВ HD
@@ -353,7 +351,9 @@ telegram - t me/loganettv_original
 Матч! Планета
 Матч! Премьер
 Матч! Футбол 1 HD
+Матч! Футбол 1 
 Матч! Футбол 2 HD
+Матч! Футбол 2
 Матч! Футбол 3
 Матч! Футбол 3 HD
 Футбол
