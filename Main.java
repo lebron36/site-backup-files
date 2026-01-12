@@ -12,14 +12,13 @@ public class Main {
 
     // Твои 8 проверенных источников
     private static final String[] SOURCES = {
-        "https://smolnp.github.io/IPTVru/IPTVru.m3u",
-        "https://iptv-org.github.io/iptv/languages/rus.m3u",
-        "https://m3u.su/lgs",
-        "https://raw.githubusercontent.com/naggdd/iptv/refs/heads/main/ru.m3u",
-        "https://raw.githubusercontent.com/Bogdannix/iptv/refs/heads/main/Boiptv.m3u",
-        "https://raw.githubusercontent.com/UtMax/KazRusIPTV/refs/heads/main/KazRusIPTV.m3u8",
+        "https://raw.githubusercontent.com/Projects-Untitled/iptv-ru/refs/heads/main/index.m3u",
         "https://raw.githubusercontent.com/smolnp/IPTVru/refs/heads/gh-pages/IPTVmir.m3u8",
-        "https://raw.githubusercontent.com/Projects-Untitled/iptv-ru/refs/heads/main/index.m3u"
+        "https://raw.githubusercontent.com/UtMax/KazRusIPTV/refs/heads/main/KazRusIPTV.m3u8",
+        "https://raw.githubusercontent.com/Bogdannix/iptv/refs/heads/main/Boiptv.m3u",
+        "https://raw.githubusercontent.com/naggdd/iptv/refs/heads/main/ru.m3u",
+        "https://smolnp.github.io/IPTVru/IPTVru.m3u",
+        "https://iptv-org.github.io/iptv/languages/rus.m3u"
     };
 
     static class Channel {
@@ -88,4 +87,39 @@ public class Main {
             while ((line = r.readLine()) != null) {
                 line = line.trim();
                 if (line.startsWith("#EXTINF")) {
-                    info
+                    info = line;
+                } else if (line.startsWith("http") && info != null) {
+                    String name = info.substring(info.lastIndexOf(",") + 1).trim();
+                    
+                    Matcher mLogo = logoPat.matcher(info);
+                    String logo = mLogo.find() ? mLogo.group(1) : "";
+
+                    Matcher mGroup = groupPat.matcher(info);
+                    String group = mGroup.find() ? mGroup.group(1) : "Общие";
+
+                    Matcher mId = idPat.matcher(info);
+                    String tvgId = mId.find() ? mId.group(1) : name;
+
+                    map.putIfAbsent(name, new Channel(name, logo, line, group, tvgId));
+                    info = null;
+                }
+            }
+        } catch (Exception e) {
+            System.err.println("Ошибка чтения источника: " + urlStr);
+        }
+    }
+
+    private static boolean isLinkWorking(String urlStr) {
+        try {
+            HttpURLConnection c = (HttpURLConnection) new URL(urlStr).openConnection();
+            c.setRequestMethod("GET");
+            c.setRequestProperty("User-Agent", "Mozilla/5.0");
+            c.setConnectTimeout(3000);
+            c.setReadTimeout(3000);
+            int code = c.getResponseCode();
+            return (code >= 200 && code < 400);
+        } catch (Exception e) {
+            return false;
+        }
+    }
+}
