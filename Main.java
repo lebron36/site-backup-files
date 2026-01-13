@@ -14,6 +14,7 @@ public class Main {
     private static final String LOCAL_ADULT_SOURCE = "Erotika.m3u"; 
 
     private static final String[] SOURCES = {
+        "https://raw.githubusercontent.com/Husan1405/m3u/refs/heads/main/TeletochkaTVbetablocks.m3u",
         "https://smolnp.github.io/IPTVru/IPTVru.m3u",
         "https://iptv-org.github.io/iptv/languages/rus.m3u",
         "https://raw.githubusercontent.com/naggdd/iptv/refs/heads/main/ru.m3u",
