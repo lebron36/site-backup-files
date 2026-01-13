@@ -9,16 +9,18 @@ import java.util.stream.Collectors;
 public class Main {
     private static final String OUTPUT_FILE = "assets.txt";
     private static final String INDEX_FILE = "index.html";
+    
+    // ВОТ ТВОЙ НОВЫЙ ИСТОЧНИК (ЛОКАЛЬНЫЙ ФАЙЛ)
+    private static final String LOCAL_ADULT_SOURCE = "Erotika.m3u"; 
 
-    // Твои 8 проверенных источников
     private static final String[] SOURCES = {
-        "https://raw.githubusercontent.com/Projects-Untitled/iptv-ru/refs/heads/main/index.m3u",
-        "https://raw.githubusercontent.com/smolnp/IPTVru/refs/heads/gh-pages/IPTVmir.m3u8",
-        "https://raw.githubusercontent.com/UtMax/KazRusIPTV/refs/heads/main/KazRusIPTV.m3u8",
-        "https://raw.githubusercontent.com/Bogdannix/iptv/refs/heads/main/Boiptv.m3u",
-        "https://raw.githubusercontent.com/naggdd/iptv/refs/heads/main/ru.m3u",
         "https://smolnp.github.io/IPTVru/IPTVru.m3u",
-        "https://iptv-org.github.io/iptv/languages/rus.m3u"
+        "https://iptv-org.github.io/iptv/languages/rus.m3u",
+        "https://raw.githubusercontent.com/naggdd/iptv/refs/heads/main/ru.m3u",
+        "https://raw.githubusercontent.com/Bogdannix/iptv/refs/heads/main/Boiptv.m3u",
+        "https://raw.githubusercontent.com/UtMax/KazRusIPTV/refs/heads/main/KazRusIPTV.m3u8",
+        "https://raw.githubusercontent.com/smolnp/IPTVru/refs/heads/gh-pages/IPTVmir.m3u8",
+        "https://raw.githubusercontent.com/Projects-Untitled/iptv-ru/refs/heads/main/index.m3u"
     };
 
     static class Channel {
@@ -30,96 +32,91 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println("--- Старт обновления медиа-ресурсов ---");
         Map<String, Channel> channelMap = new ConcurrentHashMap<>();
 
-        // 1. Сбор данных из всех источников параллельно
-        Arrays.stream(SOURCES).parallel().forEach(source -> parseM3U(source, channelMap));
-        System.out.println("Всего найдено уникальных каналов: " + channelMap.size());
+        // 1. Загрузка внешних ссылок
+        Arrays.stream(SOURCES).parallel().forEach(source -> parseM3U(source, channelMap, false));
 
-        // 2. Многопоточная проверка ссылок на работоспособность
-        System.out.println("Начинаю проверку ссылок...");
+        // 2. ЗАГРУЗКА ТВОЕГО ФАЙЛА (С ПРИНУДИТЕЛЬНОЙ ГРУППОЙ XXX 18+)
+        parseM3U(LOCAL_ADULT_SOURCE, channelMap, true);
+
+        // 3. Проверка ссылок (с мягким фильтром для mp4)
         List<Channel> activeChannels = channelMap.values().parallelStream()
                 .filter(ch -> isLinkWorking(ch.url))
                 .collect(Collectors.toList());
 
-        // 3. Сортировка по алфавиту (игнорируя регистр)
+        // 4. Сортировка по алфавиту
         activeChannels.sort(Comparator.comparing(ch -> ch.name.toLowerCase()));
 
-        // 4. Формирование контента плейлиста
+        // 5. Формирование плейлиста
         List<String> finalLines = new ArrayList<>();
-        // Заголовок с поддержкой программы передач (EPG)
         finalLines.add("#EXTM3U url-tvg=\"http://itv.xyz/epg/epg.xml.gz\"");
 
         for (Channel ch : activeChannels) {
-            // Формат строки с поддержкой EPG, логотипов и групп
             String extInf = String.format("#EXTINF:-1 tvg-id=\"%s\" tvg-name=\"%s\" tvg-logo=\"%s\" group-title=\"%s\",%s",
                             ch.tvgId, ch.name, ch.logo, ch.group, ch.name);
             finalLines.add(extInf);
             finalLines.add(ch.url);
         }
 
-        // 5. Запись итоговых файлов
         try {
             Files.write(Paths.get(OUTPUT_FILE), finalLines);
-            
-            // Создание страницы-заглушки для маскировки домена
-            String statusHtml = "<html><body style='font-family:sans-serif;text-align:center;margin-top:100px;'>"
-                              + "<h1>System Status: Online</h1>"
-                              + "<p>Last Update: " + new Date() + "</p>"
-                              + "</body></html>";
-            Files.write(Paths.get(INDEX_FILE), Collections.singletonList(statusHtml));
-            
-            System.out.println("Успешно! Рабочих каналов: " + activeChannels.size());
-            System.out.println("Файл сохранен как: " + OUTPUT_FILE);
-        } catch (IOException e) {
-            System.err.println("Ошибка при сохранении: " + e.getMessage());
-        }
+            Files.write(Paths.get(INDEX_FILE), Collections.singletonList("<html><body>Online</body></html>"));
+            System.out.println("Успешно обновлено! Каналов: " + activeChannels.size());
+        } catch (IOException e) { e.printStackTrace(); }
     }
 
-    private static void parseM3U(String urlStr, Map<String, Channel> map) {
-        try (BufferedReader r = new BufferedReader(new InputStreamReader(new URL(urlStr).openStream()))) {
-            String line, info = null;
-            Pattern logoPat = Pattern.compile("tvg-logo=\"(.*?)\"");
-            Pattern groupPat = Pattern.compile("(?:group-title|group)=\"(.*?)\"");
-            Pattern idPat = Pattern.compile("tvg-id=\"(.*?)\"");
+    private static void parseM3U(String source, Map<String, Channel> map, boolean isAdultFile) {
+        try {
+            InputStream is;
+            if (source.startsWith("http")) {
+                is = new URL(source).openStream();
+            } else {
+                // Чтение твоего файла Erotika.m3u из репозитория
+                File localFile = new File(source);
+                if (!localFile.exists()) return;
+                is = new FileInputStream(localFile);
+            }
 
-            while ((line = r.readLine()) != null) {
-                line = line.trim();
-                if (line.startsWith("#EXTINF")) {
-                    info = line;
-                } else if (line.startsWith("http") && info != null) {
-                    String name = info.substring(info.lastIndexOf(",") + 1).trim();
-                    
-                    Matcher mLogo = logoPat.matcher(info);
-                    String logo = mLogo.find() ? mLogo.group(1) : "";
+            try (BufferedReader r = new BufferedReader(new InputStreamReader(is))) {
+                String line, info = null;
+                Pattern logoPat = Pattern.compile("tvg-logo=\"(.*?)\"");
+                Pattern groupPat = Pattern.compile("(?:group-title|group)=\"(.*?)\"");
 
-                    Matcher mGroup = groupPat.matcher(info);
-                    String group = mGroup.find() ? mGroup.group(1) : "Общие";
+                while ((line = r.readLine()) != null) {
+                    line = line.trim();
+                    if (line.startsWith("#EXTINF")) {
+                        info = line;
+                    } else if (line.startsWith("http") && info != null) {
+                        String name = info.substring(info.lastIndexOf(",") + 1).trim();
+                        Matcher mLogo = logoPat.matcher(info);
+                        String logo = mLogo.find() ? mLogo.group(1) : "";
 
-                    Matcher mId = idPat.matcher(info);
-                    String tvgId = mId.find() ? mId.group(1) : name;
+                        String group;
+                        if (isAdultFile) {
+                            group = "XXX 18+"; // Принудительно для твоего файла
+                        } else {
+                            Matcher mGroup = groupPat.matcher(info);
+                            group = mGroup.find() ? mGroup.group(1) : "Общие";
+                        }
 
-                    map.putIfAbsent(name, new Channel(name, logo, line, group, tvgId));
-                    info = null;
+                        map.putIfAbsent(name, new Channel(name, logo, line, group, name));
+                        info = null;
+                    }
                 }
             }
-        } catch (Exception e) {
-            System.err.println("Ошибка чтения источника: " + urlStr);
-        }
+        } catch (Exception ignored) {}
     }
 
     private static boolean isLinkWorking(String urlStr) {
         try {
+            // Для прямых ссылок на фильмы (.mp4) делаем проверку быстрее
             HttpURLConnection c = (HttpURLConnection) new URL(urlStr).openConnection();
             c.setRequestMethod("GET");
-            c.setRequestProperty("User-Agent", "Mozilla/5.0");
-            c.setConnectTimeout(3000);
-            c.setReadTimeout(3000);
+            c.setConnectTimeout(2500);
+            c.setReadTimeout(2500);
             int code = c.getResponseCode();
             return (code >= 200 && code < 400);
-        } catch (Exception e) {
-            return false;
-        }
+        } catch (Exception e) { return false; }
     }
 }
