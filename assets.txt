@@ -193,8 +193,6 @@ https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v2a1/mono.ts.m3u8
 https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MDkyNTYyOSwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMzIwODI5LCJzZXNzaW9uX2lkIjoiNWIwOGJiN2Y1YzM3NDA2ZDdlNjFjYWM0MmJjZTczZDAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qt4uNH0T0O4COAVNFrE95bbTPpPjZ7g2ZsRP6kuI_cQ
 #EXTINF:-1 tvg-id="AIVA TV HD orig" tvg-name="AIVA TV HD orig" tvg-logo="" group-title="HD Orig",AIVA TV HD orig
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9085/index.m3u8
-#EXTINF:-1 tvg-id="Ale Kino+ PL" tvg-name="Ale Kino+ PL" tvg-logo="" group-title="Poland",Ale Kino+ PL
-http://nl.m3u.life:9025/PL_ALE_KINO_PLUS/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Alpha Cinema" tvg-name="Alpha Cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="Alpha Funny" tvg-name="Alpha Funny" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Funny
@@ -231,6 +229,8 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/229/index.m3u8
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9022/index.m3u8
 #EXTINF:-1 tvg-id="Amediateka DAZN" tvg-name="Amediateka DAZN" tvg-logo="https://kino-static.tricolor.ru/media/v2/b7df0493-970c-432d-a8a4-30c00a29d896" group-title="Спортивные",Amediateka DAZN
 https://stream-msk-19.ott.tricolor.tv/dtv/id1040_MSKSG-PVR-1--Nash_sport30/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MDkyNTYyOSwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMzIwODI5LCJzZXNzaW9uX2lkIjoiNWIwOGJiN2Y1YzM3NDA2ZDdlNjFjYWM0MmJjZTczZDAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qt4uNH0T0O4COAVNFrE95bbTPpPjZ7g2ZsRP6kuI_cQ
+#EXTINF:-1 tvg-id="Angel 4K" tvg-name="Angel 4K" tvg-logo="" group-title="18+",Angel 4K
+http://nl.m3u.life:9025/angel_4k/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Angel TV" tvg-name="Angel TV" tvg-logo="https://iptvx.one/picons/angel-tv.png" group-title="Христианские",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Angel TV Russian (720p)" tvg-name="Angel TV Russian (720p)" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Russian (720p)
@@ -243,16 +243,12 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9187/index.m3u8
 https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Animal Planet  HD" tvg-name="Animal Planet  HD" tvg-logo="" group-title="Познавательные",Animal Planet  HD
 http://nl.m3u.life:9025/animal_planet_hd/index.m3u8?token=Happy_new_year2026
-#EXTINF:-1 tvg-id="Animal Planet  HD CE" tvg-name="Animal Planet  HD CE" tvg-logo="" group-title="Познавательные",Animal Planet  HD CE
-http://nl.m3u.life:9025/animal_planet_hd_ce/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="Познавательные",Animal Planet HD
 https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Animal Planet IL" tvg-name="Animal Planet IL" tvg-logo="" group-title="Israel",Animal Planet IL
 http://nl.m3u.life:9025/Animal_Planet_IL/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Anita Dark Forever" tvg-name="Anita Dark Forever" tvg-logo="" group-title="XXX 18+",Anita Dark Forever
 https://video1.tizam.cc/films/anita_dark_navsegda.mp4
-#EXTINF:-1 tvg-id="Antena PL" tvg-name="Antena PL" tvg-logo="" group-title="Poland",Antena PL
-http://nl.m3u.life:9025/PL_ANTENA_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Arena Esport HD RS" tvg-name="Arena Esport HD RS" tvg-logo="" group-title="спорт",Arena Esport HD RS
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/31597/index.m3u8
 #EXTINF:-1 tvg-id="Arena Fight HD RS" tvg-name="Arena Fight HD RS" tvg-logo="" group-title="спорт",Arena Fight HD RS
@@ -317,10 +313,8 @@ http://nl.m3u.life:9025/Star_Channel_IL/index.m3u8?token=Happy_new_year2026
 http://nl.m3u.life:9025/Aruch_Hayeladim_IL/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="ATP Tennis TV" tvg-name="ATP Tennis TV" tvg-logo="https://i2.wp.com/is4-ssl.mzstatic.com/image/thumb/Purple62/v4/60/ad/9d/60ad9dd1-b779-5511-2c61-a7fc8039525d/source/1280x1280bb.jpg" group-title="Спортивные",ATP Tennis TV
 http://49.0.64.96:8007/TENNIS
-#EXTINF:-1 tvg-id="ATV Bazmoc TV" tvg-name="ATV Bazmoc TV" tvg-logo="" group-title="Развлекательные",ATV Bazmoc TV
-http://s1.merlive.am/Filmzon/index.m3u8
-#EXTINF:-1 tvg-id="ATV Kinoman" tvg-name="ATV Kinoman" tvg-logo="" group-title="Кинозалы",ATV Kinoman
-http://s1.merlive.am/Kinoman/index.m3u8
+#EXTINF:-1 tvg-id="AXN PL" tvg-name="AXN PL" tvg-logo="" group-title="Poland",AXN PL
+http://nl.m3u.life:9025/PL_AXN/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Babes TV" tvg-name="Babes TV" tvg-logo="" group-title="18+",Babes TV
 http://nl.m3u.life:9025/XXX_BABES_TV_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Baby time" tvg-name="Baby time" tvg-logo="" group-title="Детские",Baby time
@@ -343,14 +337,8 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/6158/index.m3u8
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/6157/index.m3u8
 #EXTINF:-1 tvg-id="Baraza Music HD GR" tvg-name="Baraza Music HD GR" tvg-logo="" group-title="HD",Baraza Music HD GR
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/10077/index.m3u8
-#EXTINF:-1 tvg-id="BBC Brit PL" tvg-name="BBC Brit PL" tvg-logo="" group-title="Poland",BBC Brit PL
-http://nl.m3u.life:9025/PL_BBC_BRIT/index.m3u8?token=Happy_new_year2026
-#EXTINF:-1 tvg-id="BBC CBeebies" tvg-name="BBC CBeebies" tvg-logo="" group-title="Poland",BBC CBeebies
-http://nl.m3u.life:9025/PL_BBC_CBEEBIES/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="BBC Earth HD PL" tvg-name="BBC Earth HD PL" tvg-logo="" group-title="HD Orig",BBC Earth HD PL
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/6100/index.m3u8
-#EXTINF:-1 tvg-id="BBC Earth PL" tvg-name="BBC Earth PL" tvg-logo="" group-title="Poland",BBC Earth PL
-http://nl.m3u.life:9025/PL_BBC_EARTH_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="Информационные",BBC World News
 https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BCU Action HD" tvg-name="BCU Action HD" tvg-logo="" group-title="HD",BCU Action HD
@@ -453,8 +441,6 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/18016/index.m3u8
 http://109.75.59.241:8017/BigPlanet/index.m3u8
 #EXTINF:-1 tvg-id="Billiard TV" tvg-name="Billiard TV" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2021/09/billiard-tv-thumbnail.jpg" group-title="Спортивные",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
-#EXTINF:-1 tvg-id="Biznes 24 PL" tvg-name="Biznes 24 PL" tvg-logo="" group-title="Poland",Biznes 24 PL
-http://nl.m3u.life:9025/PL_BIZNES24_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Blue Hustler" tvg-logo="" group-title="18+",Blue Hustler
 http://nl.m3u.life:9025/blue_hustler_hd/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Bollywood" tvg-name="Bollywood" tvg-logo="" group-title="Кино и сериалы",Bollywood
@@ -543,8 +529,6 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/6105/index.m3u8
 #EXTINF:-1 tvg-id="Canal+ Cinema HD FR" tvg-name="Canal+ Cinema HD FR" tvg-logo="" group-title="HD",Canal+ Cinema HD FR
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/6004/index.m3u8
-#EXTINF:-1 tvg-id="Canal+ Discovery" tvg-name="Canal+ Discovery" tvg-logo="" group-title="Poland",Canal+ Discovery
-http://nl.m3u.life:9025/PL_CANALPLUS_DISCOVERY_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Canal+ Film HD PL" tvg-name="Canal+ Film HD PL" tvg-logo="" group-title="HD",Canal+ Film HD PL
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/6101/index.m3u8
 #EXTINF:-1 tvg-id="Canal+ HD FR" tvg-name="Canal+ HD FR" tvg-logo="" group-title="HD",Canal+ HD FR
@@ -565,6 +549,8 @@ http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 http://nl.m3u.life:9025/cartoon_classics/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="Детские",Cartoon Network
 http://nl.m3u.life:9025/cartoon_network/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Poland",Cartoon Network HD
+http://nl.m3u.life:9025/PL_CARTOON_NETWORK_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Cartoon Network HD orig" tvg-name="Cartoon Network HD orig" tvg-logo="" group-title="HD Orig",Cartoon Network HD orig
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9261/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="" group-title="Детские",Cartoonito
@@ -651,6 +637,8 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/31587/index.m3u8
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/31588/index.m3u8
 #EXTINF:-1 tvg-id="Cozy Vibes" tvg-name="Cozy Vibes" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Cozy Vibes
 https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8
+#EXTINF:-1 tvg-id="Crime + Investigation PL" tvg-name="Crime + Investigation PL" tvg-logo="" group-title="Poland",Crime + Investigation PL
+http://nl.m3u.life:9025/PL_CRIME_PLUS_INVESTIGATION/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="CT Sport" tvg-name="CT Sport" tvg-logo="" group-title="Спортивные",CT Sport
 http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CTV.BY HD" tvg-name="CTV.BY HD" tvg-logo="https://iptvx.one/picons/stv-by.png" group-title="Общественные",CTV.BY HD
@@ -671,8 +659,6 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/31576/index.m3u8
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/31577/index.m3u8
 #EXTINF:-1 tvg-id="Da Vinci" tvg-name="Da Vinci" tvg-logo="" group-title="Детские",Da Vinci
 http://158.101.222.193:88/georgia_play.php?id=davinci
-#EXTINF:-1 tvg-id="Da Vinci Learning PL" tvg-name="Da Vinci Learning PL" tvg-logo="" group-title="Poland",Da Vinci Learning PL
-http://nl.m3u.life:9025/PL_DAVINCI_LEARNING/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Dance FM" tvg-name="Dance FM" tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" group-title="Радио",Dance FM
 https://stream-msk-20.ott.tricolor.tv/dtv/id952_MSKSG-PVR-1--dfm/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MDkyNTYyOSwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMzIwODI5LCJzZXNzaW9uX2lkIjoiNWIwOGJiN2Y1YzM3NDA2ZDdlNjFjYWM0MmJjZTczZDAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qt4uNH0T0O4COAVNFrE95bbTPpPjZ7g2ZsRP6kuI_cQ
 #EXTINF:-1 tvg-id="Dance TV" tvg-name="Dance TV" tvg-logo="" group-title="Музыкальные",Dance TV
@@ -717,6 +703,8 @@ http://nl.m3u.life:9025/XXX_DESIRE_HD/index.m3u8?token=Happy_new_year2026
 https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MDkyNTYyOSwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMzIwODI5LCJzZXNzaW9uX2lkIjoiNWIwOGJiN2Y1YzM3NDA2ZDdlNjFjYWM0MmJjZTczZDAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qt4uNH0T0O4COAVNFrE95bbTPpPjZ7g2ZsRP6kuI_cQ
 #EXTINF:-1 tvg-id="DetectiveJam HD" tvg-name="DetectiveJam HD" tvg-logo="" group-title="HD",DetectiveJam HD
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/20209/index.m3u8
+#EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-logo="" group-title="Germany",Deutsche Welle
+http://nl.m3u.life:9025/DE_DW/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="DIGI Sport 1 HD RO" tvg-name="DIGI Sport 1 HD RO" tvg-logo="" group-title="спорт",DIGI Sport 1 HD RO
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/2523/index.m3u8
 #EXTINF:-1 tvg-id="DIGI Sport 2 HD RO" tvg-name="DIGI Sport 2 HD RO" tvg-logo="" group-title="спорт",DIGI Sport 2 HD RO
@@ -745,6 +733,8 @@ https://livetv.mylifeisgood.net.ru/channels/discovery.m3u8
 http://nl.m3u.life:9025/PL_DISCOVERY_LIFE_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Dizi" tvg-name="Dizi" tvg-logo="https://iptvx.one/picons/timeless-dizi.png" group-title="Кино и сериалы",Dizi
 http://188.237.47.212:6008
+#EXTINF:-1 tvg-id="Doco IL" tvg-name="Doco IL" tvg-logo="" group-title="Israel",Doco IL
+http://nl.m3u.life:9025/DOCO_IL/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="DocuBox HD" tvg-name="DocuBox HD" tvg-logo="" group-title="HD",DocuBox HD
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/968/index.m3u8
 #EXTINF:-1 tvg-id="Dorcel HD" tvg-name="Dorcel HD" tvg-logo="" group-title="18+",Dorcel HD
@@ -757,6 +747,8 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunkl
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Спортивные",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="Duck TV HD" tvg-name="Duck TV HD" tvg-logo="https://epg.iptvx.one/picons/ducktv.png" group-title="Детские",Duck TV HD
+http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA4NzI1ODAsImlhdCI6MTc2MDc4NjE4MCwiY2lkIjo2LCJ1aWQiOjk1NTQ2NjU2NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.QwSBXc8h98Pc67oXryvep-5SQFwxCtLiEq6bDxBEdjo&offset=3
 #EXTINF:-1 tvg-id="Duo4" tvg-name="Duo4" tvg-logo="" group-title="Прибалтика",Duo4
 http://nl.m3u.life:9025/duo_4/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Dusk HD" tvg-name="Dusk HD" tvg-logo="" group-title="18+",Dusk HD
@@ -767,8 +759,6 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1 tvg-id="DОСТОЕВСКИЙ (Достоевский)" tvg-name="DОСТОЕВСКИЙ (Достоевский)" tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg" group-title="Познавательные",DОСТОЕВСКИЙ (Достоевский)
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="E Entertainment HD" tvg-name="E Entertainment HD" tvg-logo="" group-title="Poland",E Entertainment HD
-http://nl.m3u.life:9025/PL_E_ENTERTAINMENT/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="E IL" tvg-name="E IL" tvg-logo="" group-title="Israel",E IL
 http://nl.m3u.life:9025/E_IL/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="E! HD RO" tvg-name="E! HD RO" tvg-logo="" group-title="HD",E! HD RO
@@ -809,6 +799,10 @@ http://nl.m3u.life:9025/Erez_Nehederet_IL/index.m3u8?token=Happy_new_year2026
 http://nl.m3u.life:9025/XXX_EROX_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Eroxxx HD" tvg-name="Eroxxx HD" tvg-logo="" group-title="18+",Eroxxx HD
 http://nl.m3u.life:9025/eroxxx_hd/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Eska TV Extra PL" tvg-name="Eska TV Extra PL" tvg-logo="" group-title="Poland",Eska TV Extra PL
+http://nl.m3u.life:9025/PL_ESKA_TV_EXTRA/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Eska TV PL" tvg-name="Eska TV PL" tvg-logo="" group-title="Poland",Eska TV PL
+http://nl.m3u.life:9025/PL_ESKA/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="ESPN 1 HD (USA)" tvg-name="ESPN 1 HD (USA)" tvg-logo="https://epg.iptvx.one/picons/espn-us.png" group-title="Спортивные",ESPN 1 HD (USA)
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 1 HD NL" tvg-name="ESPN 1 HD NL" tvg-logo="" group-title="спорт",ESPN 1 HD NL
@@ -897,8 +891,6 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 http://nl.m3u.life:9025/explorers_hd/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Extasy 4K" tvg-name="Extasy 4K" tvg-logo="" group-title="18+",Extasy 4K
 http://nl.m3u.life:9025/extasy_4k/index.m3u8?token=Happy_new_year2026
-#EXTINF:-1 tvg-id="Extasy HD" tvg-name="Extasy HD" tvg-logo="" group-title="18+",Extasy HD
-http://nl.m3u.life:9025/XXX_EXTASY_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Extreme Sports" tvg-name="Extreme Sports" tvg-logo="" group-title="спорт",Extreme Sports
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/144/index.m3u8
 #EXTINF:-1 tvg-id="Extreme Sports HD" tvg-name="Extreme Sports HD" tvg-logo="" group-title="спорт",Extreme Sports HD
@@ -953,6 +945,8 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/15232/index.m3u8
 #EXTINF:-1 tvg-id="FightBox HD" tvg-name="FightBox HD" tvg-logo="" group-title="спорт",FightBox HD
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/20027/index.m3u8
+#EXTINF:-1 tvg-id="Filmbox Action PL" tvg-name="Filmbox Action PL" tvg-logo="" group-title="Poland",Filmbox Action PL
+http://nl.m3u.life:9025/PL_FILMBOX_ACTION/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="FilmBox ArtHouse orig" tvg-name="FilmBox ArtHouse orig" tvg-logo="" group-title="HD Orig",FilmBox ArtHouse orig
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9150/index.m3u8
 #EXTINF:-1 tvg-id="FilmUADrama" tvg-name="FilmUADrama" tvg-logo="" group-title="Кино и сериалы",FilmUADrama
@@ -995,6 +989,8 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/918/index.m3u8
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/10025/index.m3u8
 #EXTINF:-1 tvg-id="Foody IL" tvg-name="Foody IL" tvg-logo="" group-title="Israel",Foody IL
 http://nl.m3u.life:9025/Foody_IL/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Fox Kids" tvg-name="Fox Kids" tvg-logo="" group-title="Детские",Fox Kids
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 tvg-id="Fox Life HD" tvg-name="Fox Life HD" tvg-logo="" group-title="Кино и сериалы",Fox Life HD
 http://188.237.47.212:6008
 #EXTINF:-1 tvg-id="FOX NEWS CHANNEL FHD" tvg-name="FOX NEWS CHANNEL FHD" tvg-logo="http://i115.fastpic.org/big/2021/0923/28/6c6a6cae8faf56699e1b067d6bc24a28.png" group-title="Новости",FOX NEWS CHANNEL FHD
@@ -1107,6 +1103,8 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9181/index.m3u8
 http://nl.m3u.life:9025/history2/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Hadi TV Azeri and Russian (720p)" tvg-name="Hadi TV Azeri and Russian (720p)" tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Religious",Hadi TV Azeri and Russian (720p)
 https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="" group-title="Poland",HBO2
+http://nl.m3u.life:9025/PL_HBO2_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="HDL" tvg-name="HDL" tvg-logo="https://i.imgur.com/tKgmhxh.png" group-title="Documentary",HDL
 http://31.148.48.15/HD_Life/index.m3u8
 #EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="https://iptvx.one/picons/hgtv.png" group-title="Познавательные",HGTV HD
@@ -1131,8 +1129,6 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9017/index.m3u8
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9236/index.m3u8
 #EXTINF:-1 tvg-id="Home Plus HD IL" tvg-name="Home Plus HD IL" tvg-logo="" group-title="Israel",Home Plus HD IL
 http://nl.m3u.life:9025/Home_Plus_IL/index.m3u8?token=Happy_new_year2026
-#EXTINF:-1 tvg-id="Hop IL" tvg-name="Hop IL" tvg-logo="" group-title="Israel",Hop IL
-http://nl.m3u.life:9025/Hop_IL/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Horse and Country" tvg-name="Horse and Country" tvg-logo="https://nederland.broadbandtvnews.com/wp-content/uploads/2012/06/horse-and-country.jpg" group-title="Спортивные",Horse and Country
 https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
 #EXTINF:-1 tvg-id="HOT 3 IL" tvg-name="HOT 3 IL" tvg-logo="" group-title="Israel",HOT 3 IL
@@ -1191,8 +1187,6 @@ http://nl.m3u.life:9025/imagin_comedy_IL/index.m3u8?token=Happy_new_year2026
 http://nl.m3u.life:9025/imagin_cooking_IL/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Imagin Doco IL" tvg-name="Imagin Doco IL" tvg-logo="" group-title="Israel",Imagin Doco IL
 http://nl.m3u.life:9025/imagin_doco_IL/index.m3u8?token=Happy_new_year2026
-#EXTINF:-1 tvg-id="Imagin Drama IL" tvg-name="Imagin Drama IL" tvg-logo="" group-title="Israel",Imagin Drama IL
-http://nl.m3u.life:9025/imagin_drama_IL/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Imagin Lifestyle IL" tvg-name="Imagin Lifestyle IL" tvg-logo="" group-title="Israel",Imagin Lifestyle IL
 http://nl.m3u.life:9025/imagin_lifestyle_IL/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Info TV HD" tvg-name="Info TV HD" tvg-logo="" group-title="Прибалтика",Info TV HD
@@ -1237,10 +1231,10 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="Iнтер" tvg-name="Iнтер" tvg-logo="" group-title="Украина",Iнтер
 http://nl.m3u.life:9025/inter_hd/index.m3u8?token=Happy_new_year2026
-#EXTINF:-1 tvg-id="J.E.K.A. Muzzik" tvg-name="J.E.K.A. Muzzik" tvg-logo="" group-title="Музыкальные",J.E.K.A. Muzzik
-http://nl.m3u.life:9025/j.e.k.a._muzzik/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Jibek Joly" tvg-name="Jibek Joly" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png" group-title="National",Jibek Joly
 https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" tvg-logo="" group-title="Детские",JimJam
+http://nl.m3u.life:9025/jimjam/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="JimJam orig" tvg-name="JimJam orig" tvg-logo="" group-title="HD Orig",JimJam orig
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9185/index.m3u8
 #EXTINF:-1 tvg-id="Joker: 90-ті" tvg-name="Joker: 90-ті" tvg-logo="" group-title="Joker",Joker: 90-ті
@@ -1251,6 +1245,8 @@ http://nl.m3u.life:9025/channel_20/index.m3u8?token=Happy_new_year2026
 http://nl.m3u.life:9025/channel_14/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker: Simpsons UA" tvg-name="Joker: Simpsons UA" tvg-logo="" group-title="Joker",Joker: Simpsons UA
 http://nl.m3u.life:9025/channel_6/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker: Wednesday" tvg-name="Joker: Wednesday" tvg-logo="" group-title="Joker",Joker: Wednesday
+http://nl.m3u.life:9025/channel_7/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker: Альф" tvg-name="Joker: Альф" tvg-logo="" group-title="Joker",Joker: Альф
 http://nl.m3u.life:9025/channel_3/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker: Бруклін 9-9" tvg-name="Joker: Бруклін 9-9" tvg-logo="" group-title="Joker",Joker: Бруклін 9-9
@@ -1259,8 +1255,14 @@ http://nl.m3u.life:9025/channel_34/index.m3u8?token=Happy_new_year2026
 http://nl.m3u.life:9025/channel_22/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker: Грімм" tvg-name="Joker: Грімм" tvg-logo="" group-title="Joker",Joker: Грімм
 http://nl.m3u.life:9025/channel_11/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker: Губка Боб" tvg-name="Joker: Губка Боб" tvg-logo="" group-title="Joker",Joker: Губка Боб
+http://nl.m3u.life:9025/channel_10/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker: Доктор Хаус" tvg-name="Joker: Доктор Хаус" tvg-logo="" group-title="Joker",Joker: Доктор Хаус
 http://nl.m3u.life:9025/channel_9/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker: Друзі" tvg-name="Joker: Друзі" tvg-logo="" group-title="Joker",Joker: Друзі
+http://nl.m3u.life:9025/channel_5/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker: Качині історії" tvg-name="Joker: Качині історії" tvg-logo="" group-title="Joker",Joker: Качині історії
+http://nl.m3u.life:9025/channel_17/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker: Останні з нас" tvg-name="Joker: Останні з нас" tvg-logo="" group-title="Joker",Joker: Останні з нас
 http://nl.m3u.life:9025/channel_8/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker: Про кохання" tvg-name="Joker: Про кохання" tvg-logo="" group-title="Joker",Joker: Про кохання
@@ -1269,36 +1271,92 @@ http://nl.m3u.life:9025/channel_13/index.m3u8?token=Happy_new_year2026
 http://nl.m3u.life:9025/channel_15/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker: Фантастика" tvg-name="Joker: Фантастика" tvg-logo="" group-title="Joker",Joker: Фантастика
 http://nl.m3u.life:9025/channel_12/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker: Фарго" tvg-name="Joker: Фарго" tvg-logo="" group-title="Joker",Joker: Фарго
+http://nl.m3u.life:9025/channel_4/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker: Футурама" tvg-name="Joker: Футурама" tvg-logo="" group-title="Joker",Joker: Футурама
 http://nl.m3u.life:9025/channel_16/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker: Шерлок" tvg-name="Joker: Шерлок" tvg-logo="" group-title="Joker",Joker: Шерлок
+http://nl.m3u.life:9025/channel_24/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker:Cinema" tvg-name="Joker:Cinema" tvg-logo="" group-title="Joker",Joker:Cinema
 http://nl.m3u.life:9025/channel_55/index.m3u8?token=Happy_new_year2026
-#EXTINF:-1 tvg-id="Joker:Беверлі Хілс" tvg-name="Joker:Беверлі Хілс" tvg-logo="" group-title="Joker",Joker:Беверлі Хілс
-http://nl.m3u.life:9025/channel_62/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Cinema2" tvg-name="Joker:Cinema2" tvg-logo="" group-title="Joker",Joker:Cinema2
+http://nl.m3u.life:9025/channel_56/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Аладдін" tvg-name="Joker:Аладдін" tvg-logo="" group-title="Joker",Joker:Аладдін
+http://nl.m3u.life:9025/channel_98/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Баффі винищувачка вампірів" tvg-name="Joker:Баффі винищувачка вампірів" tvg-logo="" group-title="Joker",Joker:Баффі винищувачка вампірів
+http://nl.m3u.life:9025/channel_78/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker:Ван Дамм" tvg-name="Joker:Ван Дамм" tvg-logo="" group-title="Joker",Joker:Ван Дамм
 http://nl.m3u.life:9025/channel_41/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Величне століття" tvg-name="Joker:Величне століття" tvg-logo="" group-title="Joker",Joker:Величне століття
+http://nl.m3u.life:9025/channel_40/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Відьмак" tvg-name="Joker:Відьмак" tvg-logo="" group-title="Joker",Joker:Відьмак
+http://nl.m3u.life:9025/channel_26/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker:Вітчайдушні домогосподарки" tvg-name="Joker:Вітчайдушні домогосподарки" tvg-logo="" group-title="Joker",Joker:Вітчайдушні домогосподарки
 http://nl.m3u.life:9025/channel_43/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker:Гострі картузи" tvg-name="Joker:Гострі картузи" tvg-logo="" group-title="Joker",Joker:Гострі картузи
 http://nl.m3u.life:9025/channel_25/index.m3u8?token=Happy_new_year2026
-#EXTINF:-1 tvg-id="Joker:Детектив" tvg-name="Joker:Детектив" tvg-logo="" group-title="Joker",Joker:Детектив
-http://nl.m3u.life:9025/channel_84/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Гравіті Фолз" tvg-name="Joker:Гравіті Фолз" tvg-logo="" group-title="Joker",Joker:Гравіті Фолз
+http://nl.m3u.life:9025/channel_47/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Жахи" tvg-name="Joker:Жахи" tvg-logo="" group-title="Joker",Joker:Жахи
+http://nl.m3u.life:9025/channel_68/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Загублені" tvg-name="Joker:Загублені" tvg-logo="" group-title="Joker",Joker:Загублені
+http://nl.m3u.life:9025/channel_73/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker:Зоряна брама" tvg-name="Joker:Зоряна брама" tvg-logo="" group-title="Joker",Joker:Зоряна брама
 http://nl.m3u.life:9025/channel_81/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Касл" tvg-name="Joker:Касл" tvg-logo="" group-title="Joker",Joker:Касл
+http://nl.m3u.life:9025/channel_33/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker:Коломбо" tvg-name="Joker:Коломбо" tvg-logo="" group-title="Joker",Joker:Коломбо
 http://nl.m3u.life:9025/channel_44/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Корона" tvg-name="Joker:Корона" tvg-logo="" group-title="Joker",Joker:Корона
+http://nl.m3u.life:9025/channel_71/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Краще подзвоніть Солу" tvg-name="Joker:Краще подзвоніть Солу" tvg-logo="" group-title="Joker",Joker:Краще подзвоніть Солу
+http://nl.m3u.life:9025/channel_88/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker:Мел Гіпсон" tvg-name="Joker:Мел Гіпсон" tvg-logo="" group-title="Joker",Joker:Мел Гіпсон
 http://nl.m3u.life:9025/channel_38/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Офіс" tvg-name="Joker:Офіс" tvg-logo="" group-title="Joker",Joker:Офіс
+http://nl.m3u.life:9025/channel_74/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Паралельні світи" tvg-name="Joker:Паралельні світи" tvg-logo="" group-title="Joker",Joker:Паралельні світи
+http://nl.m3u.life:9025/channel_69/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker:Пограбування" tvg-name="Joker:Пограбування" tvg-logo="" group-title="Joker",Joker:Пограбування
 http://nl.m3u.life:9025/channel_67/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker:Пуаро Агати Крісті" tvg-name="Joker:Пуаро Агати Крісті" tvg-logo="" group-title="Joker",Joker:Пуаро Агати Крісті
 http://nl.m3u.life:9025/channel_31/index.m3u8?token=Happy_new_year2026
-#EXTINF:-1 tvg-id="Joker:Пуститися берега" tvg-name="Joker:Пуститися берега" tvg-logo="" group-title="Joker",Joker:Пуститися берега
-http://nl.m3u.life:9025/channel_37/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker:Південний Парк" tvg-name="Joker:Південний Парк" tvg-logo="" group-title="Joker",Joker:Південний Парк
 http://nl.m3u.life:9025/channel_49/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Пінгвіни Мадагаскару" tvg-name="Joker:Пінгвіни Мадагаскару" tvg-logo="" group-title="Joker",Joker:Пінгвіни Мадагаскару
+http://nl.m3u.life:9025/channel_93/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Район Мелроуз" tvg-name="Joker:Район Мелроуз" tvg-logo="" group-title="Joker",Joker:Район Мелроуз
+http://nl.m3u.life:9025/channel_79/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Робокар Полі" tvg-name="Joker:Робокар Полі" tvg-logo="" group-title="Joker",Joker:Робокар Полі
+http://nl.m3u.life:9025/channel_51/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Русалонька і друзі" tvg-name="Joker:Русалонька і друзі" tvg-logo="" group-title="Joker",Joker:Русалонька і друзі
+http://nl.m3u.life:9025/channel_97/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Рік і Морті" tvg-name="Joker:Рік і Морті" tvg-logo="" group-title="Joker",Joker:Рік і Морті
+http://nl.m3u.life:9025/channel_63/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Joker:Секретні матеріали" tvg-name="Joker:Секретні матеріали" tvg-logo="" group-title="Joker",Joker:Секретні матеріали
 http://nl.m3u.life:9025/channel_30/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Серіал" tvg-name="Joker:Серіал" tvg-logo="" group-title="Joker",Joker:Серіал
+http://nl.m3u.life:9025/channel_59/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Спадкоємці" tvg-name="Joker:Спадкоємці" tvg-logo="" group-title="Joker",Joker:Спадкоємці
+http://nl.m3u.life:9025/channel_70/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Сімянин/ Гріфіни" tvg-name="Joker:Сімянин/ Гріфіни" tvg-logo="" group-title="Joker",Joker:Сімянин/ Гріфіни
+http://nl.m3u.life:9025/channel_48/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Темрява" tvg-name="Joker:Темрява" tvg-logo="" group-title="Joker",Joker:Темрява
+http://nl.m3u.life:9025/channel_89/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Тімон і Бумба" tvg-name="Joker:Тімон і Бумба" tvg-logo="" group-title="Joker",Joker:Тімон і Бумба
+http://nl.m3u.life:9025/channel_92/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Усі жінки відьми" tvg-name="Joker:Усі жінки відьми" tvg-logo="" group-title="Joker",Joker:Усі жінки відьми
+http://nl.m3u.life:9025/channel_60/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Флінстоуни" tvg-name="Joker:Флінстоуни" tvg-logo="" group-title="Joker",Joker:Флінстоуни
+http://nl.m3u.life:9025/channel_95/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Формула 1. Жени щоб вижити" tvg-name="Joker:Формула 1. Жени щоб вижити" tvg-logo="" group-title="Общие",Joker:Формула 1. Жени щоб вижити
+http://nl.m3u.life:9025/channel_82/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Фінеас і Ферб" tvg-name="Joker:Фінеас і Ферб" tvg-logo="" group-title="Joker",Joker:Фінеас і Ферб
+http://nl.m3u.life:9025/channel_66/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Швидкість" tvg-name="Joker:Швидкість" tvg-logo="" group-title="Joker",Joker:Швидкість
+http://nl.m3u.life:9025/channel_87/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="Joker:Історично-документальний" tvg-name="Joker:Історично-документальний" tvg-logo="" group-title="Joker",Joker:Історично-документальний
+http://nl.m3u.life:9025/channel_58/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Junior IL" tvg-name="Junior IL" tvg-logo="" group-title="Israel",Junior IL
 http://nl.m3u.life:9025/Junior_IL/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Kabel Eins HD DE" tvg-name="Kabel Eins HD DE" tvg-logo="" group-title="HD",Kabel Eins HD DE
@@ -1327,12 +1385,12 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/10028/index.m3u8
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9003/index.m3u8
 #EXTINF:-1 tvg-id="Kino 24" tvg-name="Kino 24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="Кино и сериалы",Kino 24
 http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
+#EXTINF:-1 tvg-id="Kino Jam" tvg-name="Kino Jam" tvg-logo="https://static.goodgame.ru/files/avatars/av_1651532_atYl.jpg" group-title="Кино и сериалы",Kino Jam
+http://195.9.195.3:8080/hls/210182.m3u8
 #EXTINF:-1 tvg-id="Kino Polska" tvg-name="Kino Polska" tvg-logo="" group-title="Poland",Kino Polska
 http://nl.m3u.life:9025/PL_KINO_POLSKA_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Kino Polska HD PL" tvg-name="Kino Polska HD PL" tvg-logo="" group-title="HD",Kino Polska HD PL
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/6088/index.m3u8
-#EXTINF:-1 tvg-id="Kino TV PL" tvg-name="Kino TV PL" tvg-logo="" group-title="Poland",Kino TV PL
-http://nl.m3u.life:9025/PL_KINO_TV/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Kinojam 1 HD" tvg-name="Kinojam 1 HD" tvg-logo="" group-title="Кино и сериалы",Kinojam 1 HD
 http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MDkyNTYyOSwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMzIwODI5LCJzZXNzaW9uX2lkIjoiNWIwOGJiN2Y1YzM3NDA2ZDdlNjFjYWM0MmJjZTczZDAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qt4uNH0T0O4COAVNFrE95bbTPpPjZ7g2ZsRP6kuI_cQ
 #EXTINF:-1 tvg-id="Kinojam 2 HD" tvg-name="Kinojam 2 HD" tvg-logo="" group-title="Кино и сериалы",Kinojam 2 HD
@@ -1607,8 +1665,6 @@ http://nl.m3u.life:9025/MM_SPORT_HD/index.m3u8?token=Happy_new_year2026
 http://nl.m3u.life:9025/MM_STIVEN_KING_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="MM Супергерои HD" tvg-name="MM Супергерои HD" tvg-logo="" group-title="Кино-каналы",MM Супергерои HD
 http://nl.m3u.life:9025/MM_SUPER_GIROUE_HD/index.m3u8?token=Happy_new_year2026
-#EXTINF:-1 tvg-id="MM Триллер HD" tvg-name="MM Триллер HD" tvg-logo="" group-title="Кино-каналы",MM Триллер HD
-http://nl.m3u.life:9025/MM_TRILER_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="MM Ужастик HD" tvg-name="MM Ужастик HD" tvg-logo="" group-title="Кино-каналы",MM Ужастик HD
 http://nl.m3u.life:9025/MM_UZAS_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="MM Ужасы Classic HD" tvg-name="MM Ужасы Classic HD" tvg-logo="" group-title="Кино-каналы",MM Ужасы Classic HD
@@ -1647,8 +1703,6 @@ http://nl.m3u.life:9025/MS_PRISONS_HD/index.m3u8?token=Happy_new_year2026
 http://nl.m3u.life:9025/MS_TOONS_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="MS YOUNG BLOOD HD" tvg-name="MS YOUNG BLOOD HD" tvg-logo="" group-title="Кино-каналы",MS YOUNG BLOOD HD
 http://nl.m3u.life:9025/MS_YOUNG_BLOOD_HD/index.m3u8?token=Happy_new_year2026
-#EXTINF:-1 tvg-id="MTS Muzzik" tvg-name="MTS Muzzik" tvg-logo="" group-title="Музыкальные",MTS Muzzik
-http://nl.m3u.life:9025/mts_muzzik/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="MTV 80s" tvg-name="MTV 80s" tvg-logo="" group-title="Музыкальные",MTV 80s
 http://213.169.39.30:5137
 #EXTINF:-1 tvg-id="MTV 90s" tvg-name="MTV 90s" tvg-logo="" group-title="Музыкальные",MTV 90s
@@ -1713,6 +1767,8 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
 #EXTINF:-1 tvg-id="NHL (Интересные моменты)" tvg-name="NHL (Интересные моменты)" tvg-logo="https://bonus-betting.ru/wp-content/uploads/2021/10/nhl-logo.png" group-title="Спортивные",NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL Network HD" tvg-name="NHL Network HD" tvg-logo="" group-title="Спортивные",NHL Network HD
+http://nl.m3u.life:9025/nhl_network_hd/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="NHL Network HD US" tvg-name="NHL Network HD US" tvg-logo="" group-title="спорт",NHL Network HD US
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/7328/index.m3u8
 #EXTINF:-1 tvg-id="Nick Jr IL" tvg-name="Nick Jr IL" tvg-logo="" group-title="Israel",Nick Jr IL
@@ -2001,6 +2057,8 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9280/index.m3u8
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/6062/index.m3u8
 #EXTINF:-1 tvg-id="RTL Zwei HD DE" tvg-name="RTL Zwei HD DE" tvg-logo="" group-title="HD",RTL Zwei HD DE
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/6065/index.m3u8
+#EXTINF:-1 tvg-id="RTVI" tvg-name="RTVI" tvg-logo="" group-title="Информационные",RTVI
+http://nl.m3u.life:9025/rtvi/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="RTVi" tvg-name="RTVi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Общественные",RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:-1 tvg-id="RTVi HD orig" tvg-name="RTVi HD orig" tvg-logo="" group-title="HD Orig",RTVi HD orig
@@ -2103,8 +2161,6 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky 1 AU" tvg-name="Sky 1 AU" tvg-logo="" group-title="спорт",Sky 1 AU
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/6122/index.m3u8
-#EXTINF:-1 tvg-id="Sky Cinema Action" tvg-name="Sky Cinema Action" tvg-logo="" group-title="Germany",Sky Cinema Action
-http://nl.m3u.life:9025/sky_cinema_action/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Sky Cinema Family HD" tvg-name="Sky Cinema Family HD" tvg-logo="" group-title="Germany",Sky Cinema Family HD
 http://nl.m3u.life:9025/sky_cinema_family/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Sky Crime" tvg-name="Sky Crime" tvg-logo="" group-title="Germany",Sky Crime
@@ -2401,8 +2457,6 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/11071/index.m3u8
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 tvg-id="STS Love" tvg-name="STS Love" tvg-logo="https://i.imgur.com/YBVZoDd.png" group-title="Family",STS Love
 http://194.143.148.28:8080/CTC_LOVE/index.m3u8
-#EXTINF:-1 tvg-id="Sumiko" tvg-name="Sumiko" tvg-logo="" group-title="Развлекательные",Sumiko
-https://mhd128.iptv2022.com/p/dFiDQM4DW8Q326kQqr_uKQ,1760821245/streaming/sumiko/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="Super Polsat HD PL" tvg-name="Super Polsat HD PL" tvg-logo="" group-title="HD",Super Polsat HD PL
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/6109/index.m3u8
 #EXTINF:-1 tvg-id="Super Tennis FHD IT" tvg-name="Super Tennis FHD IT" tvg-logo="" group-title="HD",Super Tennis FHD IT
@@ -2445,6 +2499,8 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://nl.m3u.life:9025/tiji/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Tiji TV orig" tvg-name="Tiji TV orig" tvg-logo="" group-title="HD Orig",Tiji TV orig
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9180/index.m3u8
+#EXTINF:-1 tvg-id="Tiktak Muzzik" tvg-name="Tiktak Muzzik" tvg-logo="" group-title="Музыкальные",Tiktak Muzzik
+http://nl.m3u.life:9025/tiktak_muzzik/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Timeless Dizi Channel HD" tvg-name="Timeless Dizi Channel HD" tvg-logo="" group-title="Кино и сериалы",Timeless Dizi Channel HD
 http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 tvg-id="Tivibu Spor 3 HD TR" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="" group-title="спорт",Tivibu Spor 3 HD TR
@@ -2527,14 +2583,10 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/7355/index.m3u8
 https://stream1.tv41.ru/hls/live.m3u8
 #EXTINF:-1 tvg-id="TV BRICS" tvg-name="TV BRICS" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Общественные",TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TV BRICS HD" tvg-name="TV BRICS HD" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Общественные",TV BRICS HD
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV BRICS Russian (1080p)" tvg-name="TV BRICS Russian (1080p)" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS Russian (1080p)
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Maná Russkiy (1080p)" tvg-name="TV Maná Russkiy (1080p)" tvg-logo="https://i.imgur.com/fACHqmY.png" group-title="Religious",TV Maná Russkiy (1080p)
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TV PRO" tvg-name="TV PRO" tvg-logo="https://i.imgur.com/sbuSefI.png" group-title="Undefined",TV PRO
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="TV XXI" tvg-name="TV XXI" tvg-logo="https://i.imgur.com/Fja4bWt.png" group-title="Undefined",TV XXI
 http://31.148.48.15/TV_XXI/index.m3u8
 #EXTINF:-1 tvg-id="TV Губерния (Воронеж)" tvg-name="TV Губерния (Воронеж)" tvg-logo="" group-title="Региональные",TV Губерния (Воронеж)
@@ -2553,8 +2605,6 @@ http://nl.m3u.life:9025/tv3_hd_ee/index.m3u8?token=Happy_new_year2026
 http://nl.m3u.life:9025/tv3_hd_lv/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="TV3 Lietuva HD" tvg-name="TV3 Lietuva HD" tvg-logo="" group-title="Прибалтика",TV3 Lietuva HD
 http://nl.m3u.life:9025/tv3_hd_lt/index.m3u8?token=Happy_new_year2026
-#EXTINF:-1 tvg-id="TV3 Life" tvg-name="TV3 Life" tvg-logo="" group-title="Прибалтика",TV3 Life
-http://nl.m3u.life:9025/tv3_life_hd_lv/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="TV3 Sport SE" tvg-name="TV3 Sport SE" tvg-logo="" group-title="спорт",TV3 Sport SE
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/12100/index.m3u8
 #EXTINF:-1 tvg-id="TV4 Hits HD SE" tvg-name="TV4 Hits HD SE" tvg-logo="" group-title="спорт",TV4 Hits HD SE
@@ -2581,6 +2631,8 @@ http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
 #EXTINF:-1 tvg-id="Türkmenistan (406p) [Not 24/7]" tvg-name="Türkmenistan (406p) [Not 24/7]" tvg-logo="https://i.imgur.com/iBBpBx4.png" group-title="General",Türkmenistan (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch007.m3u8
+#EXTINF:-1 tvg-id="Udar" tvg-name="Udar" tvg-logo="" group-title="Спортивные",Udar
+http://nl.m3u.life:9025/udar/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="UFA" tvg-name="UFA" tvg-logo="" group-title="Спортивные",UFA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 tvg-id="UFA TV HD" tvg-name="UFA TV HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/3f/5c/ac3f5c30-98c6-03fa-6fc0-a6bff88868ee/App_Icon-marketing.lsr/1200x630bb.png" group-title="Спортивные",UFA TV HD
@@ -2885,6 +2937,8 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/2560/index.m3u8
 http://nl.m3u.life:9025/Zoom_IL/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Zoom Toon IL" tvg-name="Zoom Toon IL" tvg-logo="" group-title="Israel",Zoom Toon IL
 http://nl.m3u.life:9025/Zoom_Toon_IL/index.m3u8?token=Happy_new_year2026
+#EXTINF:-1 tvg-id="ZZ TV Muzzik" tvg-name="ZZ TV Muzzik" tvg-logo="" group-title="Музыкальные",ZZ TV Muzzik
+http://nl.m3u.life:9025/zz_tv_muzzik/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Zоопарк HD" tvg-name="Zоопарк HD" tvg-logo="" group-title="HD",Zоопарк HD
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9097/index.m3u8
 #EXTINF:-1 tvg-id="Zоопарк orig" tvg-name="Zоопарк orig" tvg-logo="" group-title="HD Orig",Zоопарк orig
@@ -3229,8 +3283,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
 #EXTINF:-1 tvg-id="ВОТ ТВ (Липецк)" tvg-name="ВОТ ТВ (Липецк)" tvg-logo="https://i.ibb.co/0s6DKsX/f2ec107b59b42881f3764152249a7fc9.jpg" group-title="Региональные",ВОТ ТВ (Липецк)
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
-#EXTINF:-1 tvg-id="Время" tvg-name="Время" tvg-logo="https://iptvx.one/picons/vremia.png" group-title="Общественные",Время
-https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
 #EXTINF:-1 tvg-id="Время orig" tvg-name="Время orig" tvg-logo="" group-title="HD Orig",Время orig
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9298/index.m3u8
 #EXTINF:-1 tvg-id="Время Н" tvg-name="Время Н" tvg-logo="https://i.ibb.co/ByRjgQW/vremyan-logo-twitter-200x200.jpg" group-title="Региoнальные",Время Н
@@ -3549,6 +3601,8 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/2074/index.m3u8
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9039/index.m3u8
 #EXTINF:-1 tvg-id="Живи Активно" tvg-name="Живи Активно" tvg-logo="https://iptvx.one/picons/zhivi-aktivno.png" group-title="Хобби и увлечения",Живи Активно
 http://185.57.68.33/40/mpegts
+#EXTINF:-1 tvg-id="Живи активно" tvg-name="Живи активно" tvg-logo="" group-title="Познавательные",Живи активно
+http://nl.m3u.life:9025/zhivi_aktivno_hd/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Живи активно HD" tvg-name="Живи активно HD" tvg-logo="" group-title="Познавательные",Живи активно HD
 http://stream-msk-06.ott.tricolor.tv/dtv/id836_MSKSG-PVR-1--Zhivi_aktivno/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MDkyNTYyOSwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMzIwODI5LCJzZXNzaW9uX2lkIjoiNWIwOGJiN2Y1YzM3NDA2ZDdlNjFjYWM0MmJjZTczZDAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qt4uNH0T0O4COAVNFrE95bbTPpPjZ7g2ZsRP6kuI_cQ
 #EXTINF:-1 tvg-id="ЖИВИ!" tvg-name="ЖИВИ!" tvg-logo="https://i.imgur.com/LPqySGk.png" group-title="Lifestyle",ЖИВИ!
@@ -3959,6 +4013,8 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9128/index.m3u8
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 tvg-id="Китай ТВ HD" tvg-name="Китай ТВ HD" tvg-logo="https://iptvx.one/picons/rus-hualiang-tv.png" group-title="Развлекательные",Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 tvg-id="Київ ТВ" tvg-name="Київ ТВ" tvg-logo="" group-title="Общие",Київ ТВ
+http://nl.m3u.life:9025/kiiv_tv/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="КЛУБ ВИНКС" tvg-name="КЛУБ ВИНКС" tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/bodo-borodo.webp" group-title="Кинозалы 2",КЛУБ ВИНКС
 https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MDkyNTYyOSwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMzIwODI5LCJzZXNzaW9uX2lkIjoiNWIwOGJiN2Y1YzM3NDA2ZDdlNjFjYWM0MmJjZTczZDAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qt4uNH0T0O4COAVNFrE95bbTPpPjZ7g2ZsRP6kuI_cQ
 #EXTINF:-1 tvg-id="Ключ" tvg-name="Ключ" tvg-logo="https://iptvx.one/picons/kluch.png" group-title="Развлекательные",Ключ
@@ -3983,8 +4039,6 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/912/index.m3u8
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9005/index.m3u8
 #EXTINF:-1 tvg-id="Комедия orig" tvg-name="Комедия orig" tvg-logo="" group-title="HD Orig",Комедия orig
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9144/index.m3u8
-#EXTINF:-1 tvg-id="Конгресс" tvg-name="Конгресс" tvg-logo="" group-title="Познавательные",Конгресс
-http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="Конгресс ТВ" tvg-name="Конгресс ТВ" tvg-logo="https://iptvx.one/picons/kongresstv.png" group-title="Общественные",Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="Конный Мир" tvg-name="Конный Мир" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="Спортивные",Конный Мир
@@ -4157,6 +4211,8 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9143/index.m3u8
 https://video1.tizam.cc/films/Love-In-An-Elevator.mp4
 #EXTINF:-1 tvg-id="Ля-минор ТВ orig" tvg-name="Ля-минор ТВ orig" tvg-logo="" group-title="HD Orig",Ля-минор ТВ orig
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9174/index.m3u8
+#EXTINF:-1 tvg-id="Лёва" tvg-name="Лёва" tvg-logo="" group-title="Детские",Лёва
+http://nl.m3u.life:9025/lyova/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="М24" tvg-name="М24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="Информационные",М24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1 tvg-id="Магнат" tvg-name="Магнат" tvg-logo="" group-title="Общие",Магнат
@@ -4189,6 +4245,8 @@ https://video2.tizam.cc/files/1540033/massazhistka.mp4
 https://video2.tizam.cc/files/1499171/private_matador_5__the_sex_trip.mp4
 #EXTINF:-1 tvg-id="Матур ТВ (1080p)" tvg-name="Матур ТВ (1080p)" tvg-logo="https://i.imgur.com/Pg7K7eV.png" group-title="Music",Матур ТВ (1080p)
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 tvg-id="Матч Планета" tvg-name="Матч Планета" tvg-logo="" group-title="Спортивные",Матч Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 tvg-id="Матч ТВ" tvg-name="Матч ТВ" tvg-logo="" group-title="спорт",Матч ТВ
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/535/index.m3u8
 #EXTINF:-1 tvg-id="Матч ТВ +0 (Белгород)" tvg-name="Матч ТВ +0 (Белгород)" tvg-logo="" group-title="спорт",Матч ТВ +0 (Белгород)
@@ -4517,6 +4575,8 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Мультимузыка orig" tvg-name="Мультимузыка orig" tvg-logo="" group-title="HD Orig",Мультимузыка orig
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9262/index.m3u8
+#EXTINF:-1 tvg-id="МультСезон" tvg-name="МультСезон" tvg-logo="" group-title="Детские",МультСезон
+http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA4NzI1ODAsImlhdCI6MTc2MDc4NjE4MCwiY2lkIjo2LCJ1aWQiOjk1NTQ2NjU2NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.QwSBXc8h98Pc67oXryvep-5SQFwxCtLiEq6bDxBEdjo&offset=3
 #EXTINF:-1 tvg-id="МультСказки" tvg-name="МультСказки" tvg-logo="" group-title="Кинозалы IPTVPLAY",МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="Муравленко 24" tvg-name="Муравленко 24" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1569900834559.jpg" group-title="Региoнальные",Муравленко 24
@@ -5059,6 +5119,8 @@ http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/7253/index.m3u8
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9201/index.m3u8
 #EXTINF:-1 tvg-id="Первый канал Европа" tvg-name="Первый канал Европа" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
+#EXTINF:-1 tvg-id="Первый Космический HD" tvg-name="Первый Космический HD" tvg-logo="" group-title="Познавательные",Первый Космический HD
+http://nl.m3u.life:9025/PERVYJ_KOSMICESKIJ_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Первый космический HD orig" tvg-name="Первый космический HD orig" tvg-logo="" group-title="HD Orig",Первый космический HD orig
 http://e5d965d6.edmonst.net/iptv/EFPN9GDP58DU8B/9049/index.m3u8
 #EXTINF:-1 tvg-id="Первый Крымский" tvg-name="Первый Крымский" tvg-logo="" group-title="Региональные",Первый Крымский
@@ -5661,66 +5723,20 @@ https://cityeden.catcast.tv/content/47515/index.m3u8
 https://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем - КиноАзия" tvg-name="Сити Эдем - КиноАзия" tvg-logo="" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем - КиноАрт" tvg-name="Сити Эдем - КиноАрт" tvg-logo="" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноАрт
-https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем - КиноДетектив" tvg-name="Сити Эдем - КиноДетектив" tvg-logo="" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем - КиноДок" tvg-name="Сити Эдем - КиноДок" tvg-logo="" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем - КиноДрама" tvg-name="Сити Эдем - КиноДрама" tvg-logo="" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем - КиноКлассика" tvg-name="Сити Эдем - КиноКлассика" tvg-logo="" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем - КиноКомедия" tvg-name="Сити Эдем - КиноКомедия" tvg-logo="" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем - КиноМистика" tvg-name="Сити Эдем - КиноМистика" tvg-logo="" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем - КиноСемья" tvg-name="Сити Эдем - КиноСемья" tvg-logo="" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноСемья
 https://autopilot.catcast.tv/content/38128/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем - КиноФантастика" tvg-name="Сити Эдем - КиноФантастика" tvg-logo="" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем - Классическая Музыка" tvg-name="Сити Эдем - Классическая Музыка" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png" group-title="Кинозалы Сити Эдем",Сити Эдем - Классическая Музыка
 https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем - МедЗдрав" tvg-name="Сити Эдем - МедЗдрав" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" group-title="Кинозалы Сити Эдем",Сити Эдем - МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем - Сиртаки ТВ" tvg-name="Сити Эдем - Сиртаки ТВ" tvg-logo="https://www.cityeden.info/logotv/sirtaki_tv.png" group-title="Кинозалы Сити Эдем",Сити Эдем - Сиртаки ТВ
-https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем - Христианский" tvg-name="Сити Эдем - Христианский" tvg-logo="" group-title="Кинозалы Сити Эдем",Сити Эдем - Христианский
-https://autopilot.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем Meditation Music [Not 24/7]" tvg-name="Сити Эдем Meditation Music [Not 24/7]" tvg-logo="https://i.imgur.com/HPWevWb.png" group-title="Music",Сити Эдем Meditation Music [Not 24/7]
-https://cityeden.catcast.tv/content/47410/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем Play Христианский Музыкальный [Not 24/7]" tvg-name="Сити Эдем Play Христианский Музыкальный [Not 24/7]" tvg-logo="https://i.imgur.com/ozEqob9.png" group-title="Music",Сити Эдем Play Христианский Музыкальный [Not 24/7]
-https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем АвтоГид [Not 24/7]" tvg-name="Сити Эдем АвтоГид [Not 24/7]" tvg-logo="https://i.imgur.com/qpe8L27.png" group-title="Auto",Сити Эдем АвтоГид [Not 24/7]
-https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем Бирма Play [Not 24/7]" tvg-name="Сити Эдем Бирма Play [Not 24/7]" tvg-logo="https://i.imgur.com/38Q5L5W.png" group-title="Music",Сити Эдем Бирма Play [Not 24/7]
-https://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем КиноАзия [Not 24/7]" tvg-name="Сити Эдем КиноАзия [Not 24/7]" tvg-logo="https://i.imgur.com/gaket4B.png" group-title="Movies",Сити Эдем КиноАзия [Not 24/7]
-https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем КиноАрт [Not 24/7]" tvg-name="Сити Эдем КиноАрт [Not 24/7]" tvg-logo="https://i.imgur.com/67CWCtz.png" group-title="Movies",Сити Эдем КиноАрт [Not 24/7]
 https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем КиноДетектив [Not 24/7]" tvg-name="Сити Эдем КиноДетектив [Not 24/7]" tvg-logo="https://i.imgur.com/9rKHwBV.png" group-title="Movies",Сити Эдем КиноДетектив [Not 24/7]
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем КиноДок [Not 24/7]" tvg-name="Сити Эдем КиноДок [Not 24/7]" tvg-logo="https://i.imgur.com/itRbMX3.png" group-title="Documentary;Series",Сити Эдем КиноДок [Not 24/7]
-https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем КиноКлассика [Not 24/7]" tvg-name="Сити Эдем КиноКлассика [Not 24/7]" tvg-logo="https://i.imgur.com/0qGCS1S.png" group-title="Movies",Сити Эдем КиноКлассика [Not 24/7]
 https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем КиноКомедия [Not 24/7]" tvg-name="Сити Эдем КиноКомедия [Not 24/7]" tvg-logo="https://i.imgur.com/Aga2XVA.png" group-title="Movies",Сити Эдем КиноКомедия [Not 24/7]
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем КиноМистика [Not 24/7]" tvg-name="Сити Эдем КиноМистика [Not 24/7]" tvg-logo="https://i.imgur.com/s1Pid0K.png" group-title="Movies",Сити Эдем КиноМистика [Not 24/7]
-https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем КиноФантастика [Not 24/7]" tvg-name="Сити Эдем КиноФантастика [Not 24/7]" tvg-logo="https://i.imgur.com/I64FeIO.png" group-title="Movies",Сити Эдем КиноФантастика [Not 24/7]
 https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем КиноЭкшен [Not 24/7]" tvg-name="Сити Эдем КиноЭкшен [Not 24/7]" tvg-logo="https://i.imgur.com/uuzuvD0.png" group-title="Movies",Сити Эдем КиноЭкшен [Not 24/7]
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем Классическая Музыка [Not 24/7]" tvg-name="Сити Эдем Классическая Музыка [Not 24/7]" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Music",Сити Эдем Классическая Музыка [Not 24/7]
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем МедЗдрав [Not 24/7]" tvg-name="Сити Эдем МедЗдрав [Not 24/7]" tvg-logo="https://i.imgur.com/BM4E0Kr.png" group-title="Lifestyle",Сити Эдем МедЗдрав [Not 24/7]
-https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем Рецепты Гурмана [Not 24/7]" tvg-name="Сити Эдем Рецепты Гурмана [Not 24/7]" tvg-logo="https://i.imgur.com/wR0pvRc.png" group-title="Cooking",Сити Эдем Рецепты Гурмана [Not 24/7]
 https://cityeden.catcast.tv/content/47516/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем Сиртаки ТВ [Not 24/7]" tvg-name="Сити Эдем Сиртаки ТВ [Not 24/7]" tvg-logo="https://i.imgur.com/V3MTfyc.png" group-title="Music",Сити Эдем Сиртаки ТВ [Not 24/7]
-https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем ТВ Христианский [Not 24/7]" tvg-name="Сити Эдем ТВ Христианский [Not 24/7]" tvg-logo="https://i.imgur.com/X9kACKi.png" group-title="General;Religious",Сити Эдем ТВ Христианский [Not 24/7]
 https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="Скорая помощь" tvg-name="Скорая помощь" tvg-logo="" group-title="Кино и сериалы",Скорая помощь
@@ -5879,8 +5895,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
 #EXTINF:-1 tvg-id="Суббота (+7)" tvg-name="Суббота (+7)" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="Популярные (региональные)",Суббота (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 tvg-id="Суббота +4" tvg-name="Суббота +4" tvg-logo="" group-title="Развлекательные",Суббота +4
-http://nl.m3u.life:9025/subbota_+4/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Суббота HD" tvg-name="Суббота HD" tvg-logo="" group-title="Развлекательные",Суббота HD
 http://nl.m3u.life:9025/subbota_hd/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Суббота!" tvg-name="Суббота!" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="Undefined",Суббота!
@@ -6001,12 +6015,8 @@ http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_TVK24/variant.m3u8
 #EXTINF:-1 tvg-id="ТВК Красноярск HD" tvg-name="ТВК Красноярск HD" tvg-logo="https://pbs.twimg.com/profile_images/1168810402253328384/8dTHHwcG_200x200.jpg" group-title="Региoнальные",ТВК Красноярск HD
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_TVK24/variant.m3u8
-#EXTINF:-1 tvg-id="Твое TV HD" tvg-name="Твое TV HD" tvg-logo="https://i.imgur.com/kKAM7dP.png" group-title="Entertainment",Твое TV HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="Твое ТВ Юмор" tvg-name="Твое ТВ Юмор" tvg-logo="https://smotret.tv/images/tvoe-tv-yumor.webp" group-title="Comedy",Твое ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-id="Твоё ТВ" tvg-name="Твоё ТВ" tvg-logo="" group-title="Развлекательные",Твоё ТВ
-http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="Твоё ТВ HD" tvg-name="Твоё ТВ HD" tvg-logo="" group-title="Кино-каналы",Твоё ТВ HD
 http://nl.m3u.life:9025/tvoyo_tv_hd/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 tvg-id="Твоё ТВ HD - Юмор" tvg-name="Твоё ТВ HD - Юмор" tvg-logo="" group-title="Кино-каналы",Твоё ТВ HD - Юмор
