@@ -1,48 +1,54 @@
-name: Update IPTV Assets
+name: Update IPTV Playlist
 
 on:
   schedule:
-    # Автоматический запуск каждые 12 часов (в 00:00 и 12:00 по UTC)
-    - cron: '0 */12 * * *'
-  # Позволяет запускать бота вручную кнопкой во вкладке Actions
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    # Запуск каждые 6 часов (можно настроить под себя)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Позволяет запускать обновление вручную кнопкой
 
 jobs:
-  build:
+  update-playlist:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Клонируем ваш репозиторий на виртуальную машину
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Важно для корректного выполнения git pull
 
-      # 2. Устанавливаем среду Java (версия 17)
       - name: Set up JDK 17
-        uses: actions/setup-java@v3
+        uses: actions/setup-java@v4
         with:
           java-version: '17'
           distribution: 'temurin'
 
-      # 3. Компилируем и запускаем вашу программу
       - name: Run Scraper
         run: |
           javac Main.java
           java Main
+        # Твой лог подтверждает, что javac Main.java успешно находит каналы
 
-      # 4. Сохраняем обновленные файлы обратно в GitHub
       - name: Commit and Push changes
         run: |
+          # Настройка бота
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
           
-          # Добавляем наш текстовый плейлист и маскировочную страницу
-          git add assets.txt index.html
+          # Добавляем все измененные файлы, включая твой m3u плейлист
+          git add .
           
-          # Создаем коммит. Если файлы не изменились, бот просто пропустит этот шаг.
-          git commit -m "Automated update: Sorted & Grouped with EPG" || echo "No changes to commit"
+          # Проверяем, есть ли изменения, чтобы не создавать пустые коммиты
+          if git diff --staged --quiet; then
+            echo "Изменений не обнаружено. Пропускаем push."
+            exit 0
+          fi
           
-          # Пушим изменения в ветку main
-          git push
+          git commit -m "Automated update: Sorted & Grouped with EPG (4900+ channels)"
+          
+          # ИСПРАВЛЕНИЕ ОШИБКИ: Сначала забираем изменения из GitHub, чтобы избежать конфликта
+          git pull --rebase origin main
+          
+          # Отправляем обновленный плейлист в репозиторий
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
