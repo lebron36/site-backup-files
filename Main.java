@@ -12,16 +12,9 @@ public class Main {
     private static final String LOCAL_ADULT_SOURCE = "Erotika.m3u"; 
 
     private static final String[] SOURCES = {
-        "https://raw.githubusercontent.com/Husan1405/m3u/refs/heads/main/TeletochkaTVbetablocks.m3u",
-        "https://voxlist.short.gy/m3u",
-        "https://raw.githubusercontent.com/Spirt007/Tvru/refs/heads/Master/Rus.m3u",
-        "https://smolnp.github.io/IPTVru/IPTVru.m3u",
-        "https://iptv-org.github.io/iptv/languages/rus.m3u",
-        "https://raw.githubusercontent.com/naggdd/iptv/refs/heads/main/ru.m3u",
-        "https://raw.githubusercontent.com/Bogdannix/iptv/refs/heads/main/Boiptv.m3u",
-        "https://raw.githubusercontent.com/UtMax/KazRusIPTV/refs/heads/main/KazRusIPTV.m3u8",
-        "https://raw.githubusercontent.com/smolnp/IPTVru/refs/heads/gh-pages/IPTVmir.m3u8",
-        "https://raw.githubusercontent.com/Projects-Untitled/iptv-ru/refs/heads/main/index.m3u"
+        "https://raw.githubusercontent.com/777nightman777/FreeIpTV/refs/heads/main/CloudFlare%20Inc.m3u",
+        "https://raw.githubusercontent.com/777nightman777/FreeIpTV/refs/heads/main/PeersTV.m3u",
+        "https://raw.githubusercontent.com/Spirt007/Tvru/refs/heads/Master/Rus.m3u"
     };
 
     static class Channel {
