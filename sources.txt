@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/777nightman777/FreeIpTV/refs/heads/main/CloudFlare%20Inc.m3u
+https://raw.githubusercontent.com/777nightman777/FreeIpTV/refs/heads/main/PeersTV.m3u
 https://github.com/IPTVSHARED/VeronaTV
 https://github.com/Dimonovich/TV
 https://raw.githubusercontent.com/Husan1405/m3u/refs/heads/main/TeletochkaTVbetablocks.m3u
