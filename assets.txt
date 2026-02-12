@@ -37,8 +37,6 @@ http://v4.proofix.ru:80/7tv-live/index.m3u8
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/8_kanal/16/playlist.m3u8
 #EXTINF:-1 tvg-id="8 канал Красноярский край" tvg-name="8 канал Красноярский край" tvg-logo="https://peers.tv/data/illustrations/ills/2023/04/17/347361/347361837.png" group-title="PeersTV",8 канал Красноярский край
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ya1pm/16/playlist.m3u8
-#EXTINF:-1 tvg-id="Alpha Cinema" tvg-name="Alpha Cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Cinema
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="Alpha Funny" tvg-name="Alpha Funny" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-id="Alpha Moretime" tvg-name="Alpha Moretime" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Moretime
@@ -181,6 +179,8 @@ http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Nickelodeon HD
 https://livetv.mylifeisgood.net.ru/channels/nickelodeon-hd.m3u8
+#EXTINF:-1 tvg-id="O'zbekiston" tvg-name="O'zbekiston" tvg-logo="https://i.imgur.com/QUIIhTD.png" group-title="Новости",O'zbekiston
+https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Paramount Channel
 https://livetv.mylifeisgood.net.ru/channels/paramount_channel.m3u8
 #EXTINF:-1 tvg-id="Paramount Comedy" tvg-name="Paramount Comedy" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Paramount Comedy
@@ -283,8 +283,6 @@ https://7pal.short.gy/tntspts4
 https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
 #EXTINF:-1 tvg-id="Trash" tvg-name="Trash" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Trash
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
-#EXTINF:-1 tvg-id="Trash TV" tvg-name="Trash TV" tvg-logo="https://iptvx.one/picons/trashtv.png" group-title="Фильмы,сериалы",Trash TV
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 tvg-id="Travel Adventure" tvg-name="Travel Adventure" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/04/101323/101323942.png" group-title="PeersTV",Travel Adventure
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/travad/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Travel Adventure HD" tvg-name="Travel Adventure HD" tvg-logo="https://peers.tv/data/illustrations/ills/2013/11/06/25843/25843964.png" group-title="PeersTV",Travel Adventure HD
@@ -293,8 +291,6 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/travel_ad
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="TV BRICS" tvg-name="TV BRICS" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Общественные",TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TV XXI" tvg-name="TV XXI" tvg-logo="https://iptvx.one/picons/tvxxi.png" group-title="Фильмы,сериалы",TV XXI
-http://31.148.48.15/TV_XXI/index.m3u8
 #EXTINF:-1 tvg-id="TV1 KG HD (Кыргызстан)" tvg-name="TV1 KG HD (Кыргызстан)" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png" group-title="Развлекательные",TV1 KG HD (Кыргызстан)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV1000 Action HD" tvg-name="TV1000 Action HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",TV1000 Action HD
@@ -661,10 +657,10 @@ https://video1.tizam.cc/old_films/AlteredAssholes3.mp4
 https://video2.tizam.cc/files/1665118/ikskalibur__povelitel_seksa_2_1cd.mp4
 #EXTINF:-1 tvg-id="Иллюзион+" tvg-name="Иллюзион+" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/30/103163/103163491.png" group-title="PeersTV",Иллюзион+
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8
-#EXTINF:-1 tvg-id="Иллюзион+ HD" tvg-name="Иллюзион+ HD" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="Фильмы,сериалы",Иллюзион+ HD
-http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1 tvg-id="Империя чувств" tvg-name="Империя чувств" tvg-logo="" group-title="XXX 18+",Империя чувств
 https://video1.tizam.cc/old_films/Pure_iperiya_uvstv.mp4
+#EXTINF:-1 tvg-id="Индийское Кино" tvg-name="Индийское Кино" tvg-logo="https://iptvx.one/picons/indijskoe-kino.png" group-title="Фильмы,сериалы",Индийское Кино
+http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="Индийское кино" tvg-name="Индийское кино" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/06/103672/103672832.png" group-title="PeersTV",Индийское кино
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Индия" tvg-name="Индия" tvg-logo="https://peers.tv/data/illustrations/ills/2023/01/11/334580/334580839.png" group-title="PeersTV",Индия
@@ -901,6 +897,12 @@ https://video1.tizam.cc/films/Lavengeancedunepute.mp4
 https://video2.tizam.cc/files/2102644/mechty_devstvennits_2.mp4
 #EXTINF:-1 tvg-id="Мир" tvg-name="Мир" tvg-logo="https://peers.tv/data/illustrations/ills/2013/11/06/25842/25842280.png" group-title="PeersTV",Мир
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/mir/16/playlist.m3u8
+#EXTINF:-1 tvg-id="Мир (+2)" tvg-name="Мир (+2)" tvg-logo="https://epg.iptvx.one/picons/mir-pl2.png" group-title="Будущее",Мир (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF:-1 tvg-id="Мир (+4)" tvg-name="Мир (+4)" tvg-logo="https://epg.iptvx.one/picons/mir-pl4.png" group-title="Будущее",Мир (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+#EXTINF:-1 tvg-id="Мир (+7)" tvg-name="Мир (+7)" tvg-logo="https://epg.iptvx.one/picons/mir-pl7.png" group-title="Будущее",Мир (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 tvg-id="Мир +7" tvg-name="Мир +7" tvg-logo="https://epg.iptvx.one/picons/mir-pl7.png" group-title="Общественные",Мир +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 tvg-id="Мир 24" tvg-name="Мир 24" tvg-logo="https://peers.tv/data/illustrations/ills/2018/02/16/117332/117332522.png" group-title="PeersTV",Мир 24
@@ -915,8 +917,6 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/mirhd/16/
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-id="Мир зрелых красоток" tvg-name="Мир зрелых красоток" tvg-logo="" group-title="XXX 18+",Мир зрелых красоток
 https://video1.tizam.cc/old_films/Cougarland.mp4
-#EXTINF:-1 tvg-id="Мир Сериала" tvg-name="Мир Сериала" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="Фильмы,сериалы",Мир Сериала
-http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 tvg-id="Модель Через Постель" tvg-name="Модель Через Постель" tvg-logo="" group-title="XXX 18+",Модель Через Постель
 https://video2.tizam.cc/films/Covergirl.mp4
 #EXTINF:-1 tvg-id="Мой Первый Раз" tvg-name="Мой Первый Раз" tvg-logo="" group-title="XXX 18+",Мой Первый Раз
@@ -977,8 +977,6 @@ https://vod.tuva.ru/nauka2/index.m3u8
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Наша Сибирь" tvg-name="Наша Сибирь" tvg-logo="https://peers.tv/data/illustrations/ills/2017/10/20/106791/106791136.png" group-title="PeersTV",Наша Сибирь
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8
-#EXTINF:-1 tvg-id="Наша сибирь 4K" tvg-name="Наша сибирь 4K" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Наша сибирь 4K
-https://livetv.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
 #EXTINF:-1 tvg-id="Наша Сибирь HD" tvg-name="Наша Сибирь HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Наша Сибирь HD
 https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 #EXTINF:-1 tvg-id="Наша Тема HD" tvg-name="Наша Тема HD" tvg-logo="https://peers.tv/data/illustrations/ills/2019/06/11/162732/162732471.png" group-title="PeersTV",Наша Тема HD
@@ -1201,8 +1199,6 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/russkayan
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Русский детектив" tvg-name="Русский детектив" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/21/104703/104703522.png" group-title="PeersTV",Русский детектив
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8
-#EXTINF:-1 tvg-id="Русский детектив*" tvg-name="Русский детектив*" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Фильмы,сериалы",Русский детектив*
-http://31148.rafail1982.uz/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 tvg-id="Русский иллюзион" tvg-name="Русский иллюзион" tvg-logo="https://peers.tv/data/illustrations/ills/2024/10/04/436401/436401975.png" group-title="PeersTV",Русский иллюзион
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Русский институт 4" tvg-name="Русский институт 4" tvg-logo="" group-title="XXX 18+",Русский институт 4
@@ -1361,6 +1357,8 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/tv3/16/pl
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/tv3_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="ТВ21" tvg-name="ТВ21" tvg-logo="https://peers.tv/data/illustrations/ills/2023/08/04/365167/365167569.png" group-title="PeersTV",ТВ21
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/tv21/16/playlist.m3u8
+#EXTINF:-1 tvg-id="ТВ21+" tvg-name="ТВ21+" tvg-logo="https://assets.iptv2022.com/static/channel/10697/logo_256_1660892137.png" group-title="WINK+Aрхив",ТВ21+
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
 #EXTINF:-1 tvg-id="ТВ3" tvg-name="ТВ3" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 tvg-id="ТВ3 HD" tvg-name="ТВ3 HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",ТВ3 HD
@@ -1409,14 +1407,14 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/kultura/1
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/rossija/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал 86 Сургут" tvg-name="Телеканал 86 Сургут" tvg-logo="https://iptvx.one/picons/86-surgut.png" group-title="Региональные",Телеканал 86 Сургут
 https://sitv.ru/hls/s86.m3u8
-#EXTINF:-1 tvg-id="Телеканал Футбол" tvg-name="Телеканал Футбол" tvg-logo="https://iptvx.one/picons/football-ru.png" group-title="Спортивные",Телеканал Футбол
-http://31.148.48.15/Futbol_HD/index.m3u8
 #EXTINF:-1 tvg-id="Телекафе" tvg-name="Телекафе" tvg-logo="https://peers.tv/data/illustrations/ills/2018/02/12/116949/116949730.png" group-title="PeersTV",Телекафе
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/telekafe/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Телекомпания НТВ" tvg-name="Телекомпания НТВ" tvg-logo="https://peers.tv/data/illustrations/ills/2016/05/30/70554/70554232.png" group-title="PeersTV",Телекомпания НТВ
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ntv/16/playlist.m3u8
 #EXTINF:-1 tvg-id="ТИВИКОМ" tvg-name="ТИВИКОМ" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/14/102078/102078574.png" group-title="PeersTV",ТИВИКОМ
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/tivikom/16/playlist.m3u8
+#EXTINF:-1 tvg-id="ТКР Рязань" tvg-name="ТКР Рязань" tvg-logo="https://epg.iptvx.one/picons/trk-ryazan.png" group-title="Региональные",ТКР Рязань
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ТНВ Планета" tvg-name="ТНВ Планета" tvg-logo="https://epg.iptvx.one/picons/tnv.png" group-title="Региональные",ТНВ Планета
 http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ТНВ Татарстан" tvg-name="ТНВ Татарстан" tvg-logo="https://epg.iptvx.one/picons/tnv-tat.png" group-title="Региональные",ТНВ Татарстан
