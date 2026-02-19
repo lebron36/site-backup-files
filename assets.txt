@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="http://itv.xyz/epg/epg.xml.gz"
-#EXTINF:-1 tvg-id=".Black HD" tvg-name=".Black HD" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Фильмы,сериалы",.Black HD
-http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1 tvg-id="12 Канал Омск" tvg-name="12 Канал Омск" tvg-logo="https://iptvx.one/picons/12-omsk.png" group-title="Региональные",12 Канал Омск
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="1HD" tvg-name="1HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",1HD
@@ -95,8 +93,6 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ipark/16/
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 tvg-id="Da Vinci" tvg-name="Da Vinci" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Da Vinci
 https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8
-#EXTINF:-1 tvg-id="DanceHits80" tvg-name="DanceHits80" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="Музыкальные",DanceHits80
-http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-logo="https://iptvx.one/picons/deutsche-welle-de.png" group-title="Новости",Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="Discovery channel HD" tvg-name="Discovery channel HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Discovery channel HD
@@ -885,8 +881,8 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/match_nas
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/match_football1_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Матч! Футбол 2 HD" tvg-name="Матч! Футбол 2 HD" tvg-logo="https://peers.tv/data/illustrations/ills/2018/04/10/123495/123495348.png" group-title="PeersTV",Матч! Футбол 2 HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/match_football2_hd/16/playlist.m3u8
-#EXTINF:-1 tvg-id="Матч! Футбол 3 HD" tvg-name="Матч! Футбол 3 HD" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD
-http://185.57.68.33/110/mpegts
+#EXTINF:-1 tvg-id="Матч! Футбол 3 HD" tvg-name="Матч! Футбол 3 HD" tvg-logo="https://peers.tv/data/illustrations/ills/2018/04/10/123495/123495381.png" group-title="PeersTV",Матч! Футбол 3 HD
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/match_football3_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Матч!ТВ" tvg-name="Матч!ТВ" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-id="Мать и Дочь" tvg-name="Мать и Дочь" tvg-logo="" group-title="XXX 18+",Мать и Дочь
@@ -1113,12 +1109,16 @@ https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-id="Первый Космический HD" tvg-name="Первый Космический HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Первый Космический HD
 https://livetv.mylifeisgood.net.ru/channels/firstspace.m3u8
+#EXTINF:-1 tvg-id="Первый крымский" tvg-name="Первый крымский" tvg-logo="https://epg.iptvx.one/picons/pervy-krymsky.png" group-title="Региональные",Первый крымский
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-id="Первый музыкальный HD" tvg-name="Первый музыкальный HD" tvg-logo="https://iptvx.one/picons/1muz.png" group-title="Общие",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="Перец Int" tvg-name="Перец Int" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец Int
 http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 tvg-id="Петербург - 5 канал" tvg-name="Петербург - 5 канал" tvg-logo="https://peers.tv/data/illustrations/ills/2017/02/16/89112/89112167.png" group-title="PeersTV",Петербург - 5 канал
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/5kanal/16/playlist.m3u8
+#EXTINF:-1 tvg-id="Пингвин" tvg-name="Пингвин" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png" group-title="Детские",Пингвин
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Победа" tvg-name="Победа" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Фильмы,сериалы",Победа
 https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 tvg-id="Победа HD" tvg-name="Победа HD" tvg-logo="https://peers.tv/data/illustrations/ills/2022/05/24/303899/303899547.png" group-title="PeersTV",Победа HD
