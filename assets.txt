@@ -13,8 +13,12 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 https://livetv.mylifeisgood.net.ru/channels/ch360news.m3u8
 #EXTINF:-1 tvg-id="360°" tvg-name="360°" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",360°
 https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
+#EXTINF:-1 tvg-id="360° Новости" tvg-name="360° Новости" tvg-logo="https://iptvx.one/picons/360-news.png" group-title="Новости",360° Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-id="365 Дней HD" tvg-name="365 Дней HD" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/01/101141/101141622.png" group-title="PeersTV",365 Дней HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/365_days/16/playlist.m3u8
+#EXTINF:-1 tvg-id="365 Дней ТВ" tvg-name="365 Дней ТВ" tvg-logo="https://iptvx.one/picons/365-dnej.png" group-title="Познавательные",365 Дней ТВ
+http://158.101.222.193:88/georgia_play.php?id=365day
 #EXTINF:-1 tvg-id="40 лет Замужняя но раскрепощенная" tvg-name="40 лет Замужняя но раскрепощенная" tvg-logo="" group-title="XXX 18+",40 лет Замужняя но раскрепощенная
 https://video2.tizam.cc/files/2284674/zamuzhnyaya_no_raskreposhchennaya.mp4
 #EXTINF:-1 tvg-id="49 КАНАЛ" tvg-name="49 КАНАЛ" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/01/101141/101141610.png" group-title="PeersTV",49 КАНАЛ
@@ -291,8 +295,6 @@ https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
 #EXTINF:-1 tvg-id="TV1000 Русское Кино HD" tvg-name="TV1000 Русское Кино HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",TV1000 Русское Кино HD
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
-#EXTINF:-1 tvg-id="Ultra" tvg-name="Ultra" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Радио",Ultra
-http://nashe1.hostingradio.ru/ultra-64.mp3
 #EXTINF:-1 tvg-id="VHS-ка HD" tvg-name="VHS-ка HD" tvg-logo="https://peers.tv/data/illustrations/ills/2024/07/12/422818/422818951.png" group-title="PeersTV",VHS-ка HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/vhs_ka_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat Explore HD" tvg-name="Viasat Explore HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Viasat Explore HD
@@ -449,8 +451,6 @@ https://video2.tizam.cc/files/2103041/venice_masquerade.mp4
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 tvg-id="Ветта 24 Пермь" tvg-name="Ветта 24 Пермь" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Региональные",Ветта 24 Пермь
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 tvg-id="Видеокассета HD" tvg-name="Видеокассета HD" tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 tvg-id="Визит в попу" tvg-name="Визит в попу" tvg-logo="" group-title="XXX 18+",Визит в попу
 https://video2.tizam.cc/files/2102604/vizit_v_popu.mp4
 #EXTINF:-1 tvg-id="Вместе РФ" tvg-name="Вместе РФ" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="Общественные",Вместе РФ
@@ -489,8 +489,6 @@ https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/glazami_turista_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Гламурные сучки 2" tvg-name="Гламурные сучки 2" tvg-logo="" group-title="XXX 18+",Гламурные сучки 2
 https://video1.tizam.cc/vk/GlamourGirls2.mp4
-#EXTINF:-1 tvg-id="Городской Телеканал-Ярославль" tvg-name="Городской Телеканал-Ярославль" tvg-logo="https://iptvx.one/picons/gorodskoy-yaroslavl.png" group-title="Региональные",Городской Телеканал-Ярославль
-https://gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-id="Горячие Ленты" tvg-name="Горячие Ленты" tvg-logo="" group-title="XXX 18+",Горячие Ленты
 https://video1.tizam.cc/old_films/SexTapes.mp4
 #EXTINF:-1 tvg-id="Горячие поцелуи" tvg-name="Горячие поцелуи" tvg-logo="" group-title="XXX 18+",Горячие поцелуи
@@ -985,8 +983,6 @@ https://vod.tuva.ru/nauka2/index.m3u8
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Наша Сибирь" tvg-name="Наша Сибирь" tvg-logo="https://peers.tv/data/illustrations/ills/2017/10/20/106791/106791136.png" group-title="PeersTV",Наша Сибирь
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8
-#EXTINF:-1 tvg-id="Наша сибирь 4K" tvg-name="Наша сибирь 4K" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Наша сибирь 4K
-https://livetv.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
 #EXTINF:-1 tvg-id="Наша Сибирь HD" tvg-name="Наша Сибирь HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Наша Сибирь HD
 https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 #EXTINF:-1 tvg-id="Наша Тема" tvg-name="Наша Тема" tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="Досуг",Наша Тема
@@ -1480,7 +1476,7 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="Телеканал "Матч ТВ"" tvg-name="Телеканал "Матч ТВ"" tvg-logo="https://peers.tv/data/illustrations/ills/2019/11/11/178770/178770118.png" group-title="PeersTV",Телеканал "Матч ТВ"
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sport/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал "Общественное телевидение России"" tvg-name="Телеканал "Общественное телевидение России"" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/03/198504/198504724.png" group-title="PeersTV",Телеканал "Общественное телевидение России"
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/otvrus/126/playlist.m3u8
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/otvrus/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал "Россия - Культура"" tvg-name="Телеканал "Россия - Культура"" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/01/198300/198300803.png" group-title="PeersTV",Телеканал "Россия - Культура"
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/kultura/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал "Россия"" tvg-name="Телеканал "Россия"" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png" group-title="PeersTV",Телеканал "Россия"
@@ -1499,6 +1495,8 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/tivikom/1
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ТНВ Планета" tvg-name="ТНВ Планета" tvg-logo="https://epg.iptvx.one/picons/tnv.png" group-title="Региональные",ТНВ Планета
 http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ТНВ Татарстан" tvg-name="ТНВ Татарстан" tvg-logo="https://epg.iptvx.one/picons/tnv-tat.png" group-title="Региональные",ТНВ Татарстан
+http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 tvg-id="ТНТ" tvg-name="ТНТ" tvg-logo="https://peers.tv/data/illustrations/ills/2020/05/26/205643/205643194.png" group-title="PeersTV",ТНТ
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/tnt/16/playlist.m3u8
 #EXTINF:-1 tvg-id="ТНТ (+2)" tvg-name="ТНТ (+2)" tvg-logo="https://epg.iptvx.one/picons/tnt-pl2.png" group-title="Будущее",ТНТ (+2)
