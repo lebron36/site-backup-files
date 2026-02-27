@@ -47,6 +47,8 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-id="Alpha Moretime" tvg-name="Alpha Moretime" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 tvg-id="Amedia 1 HD" tvg-name="Amedia 1 HD" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Фильмы,сериалы",Amedia 1 HD
+http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 tvg-id="Amedia 2 HD" tvg-name="Amedia 2 HD" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="Фильмы,сериалы",Amedia 2 HD
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 tvg-id="Amedia Hit HD" tvg-name="Amedia Hit HD" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Премьеры,хиты",Amedia Hit HD
@@ -453,8 +455,6 @@ https://video2.tizam.cc/files/2103041/venice_masquerade.mp4
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 tvg-id="Ветта 24 Пермь" tvg-name="Ветта 24 Пермь" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Региональные",Ветта 24 Пермь
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 tvg-id="Видеокассета HD" tvg-name="Видеокассета HD" tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 tvg-id="Визит в попу" tvg-name="Визит в попу" tvg-logo="" group-title="XXX 18+",Визит в попу
 https://video2.tizam.cc/files/2102604/vizit_v_popu.mp4
 #EXTINF:-1 tvg-id="Вместе РФ" tvg-name="Вместе РФ" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="Общественные",Вместе РФ
@@ -941,6 +941,8 @@ https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 https://video1.tizam.cc/vk/EiskalteAngel.mp4
 #EXTINF:-1 tvg-id="Москва 24" tvg-name="Москва 24" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Москва 24
 https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
+#EXTINF:-1 tvg-id="Мосфильм. Золотая коллекция" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы,сериалы",Мосфильм. Золотая коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="Мосфильм. Золотая коллекция HD" tvg-name="Мосфильм. Золотая коллекция HD" tvg-logo="https://peers.tv/data/illustrations/ills/2021/02/17/239730/239730041.png" group-title="PeersTV",Мосфильм. Золотая коллекция HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Моя Планета" tvg-name="Моя Планета" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Моя Планета
@@ -989,8 +991,6 @@ https://vod.tuva.ru/nauka2/index.m3u8
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Наша Сибирь" tvg-name="Наша Сибирь" tvg-logo="https://peers.tv/data/illustrations/ills/2017/10/20/106791/106791136.png" group-title="PeersTV",Наша Сибирь
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8
-#EXTINF:-1 tvg-id="Наша сибирь 4K" tvg-name="Наша сибирь 4K" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Наша сибирь 4K
-https://livetv.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
 #EXTINF:-1 tvg-id="Наша Сибирь HD" tvg-name="Наша Сибирь HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Наша Сибирь HD
 https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 #EXTINF:-1 tvg-id="Наша Тема" tvg-name="Наша Тема" tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="Досуг",Наша Тема
@@ -1331,8 +1331,6 @@ https://cityeden.catcast.tv/content/47400/index.m3u8
 https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем Сиртаки ТВ [Not 24/7]" tvg-name="Сити Эдем Сиртаки ТВ [Not 24/7]" tvg-logo="https://i.imgur.com/V3MTfyc.png" group-title="Сити Эдем",Сити Эдем Сиртаки ТВ [Not 24/7]
 https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем ТелеНовелла [Not 24/7]" tvg-name="Сити Эдем ТелеНовелла [Not 24/7]" tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="Сити Эдем",Сити Эдем ТелеНовелла [Not 24/7]
-https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-id="Сказки Зайки" tvg-name="Сказки Зайки" tvg-logo="https://peers.tv/data/illustrations/ills/2019/02/07/151601/151601439.png" group-title="PeersTV",Сказки Зайки
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Слайд" tvg-name="Слайд" tvg-logo="" group-title="XXX 18+",Слайд
@@ -1371,6 +1369,8 @@ https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Страна FM" tvg-name="Страна FM" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыкальные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="СТРК" tvg-name="СТРК" tvg-logo="https://iptvx.one/picons/strk.png" group-title="Развлекательные",СТРК
+http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="Строительство нового ЛДС" tvg-name="Строительство нового ЛДС" tvg-logo="https://peers.tv/data/illustrations/ills/2020/09/25/219757/219757572.png" group-title="PeersTV",Строительство нового ЛДС
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/stroitelstvo_novogo_lds/16/playlist.m3u8
 #EXTINF:-1 tvg-id="СТС" tvg-name="СТС" tvg-logo="https://peers.tv/data/illustrations/ills/2017/10/27/107313/107313226.png" group-title="PeersTV",СТС
