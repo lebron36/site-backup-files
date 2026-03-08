@@ -43,10 +43,10 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-id="Alpha Moretime" tvg-name="Alpha Moretime" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 tvg-id="Amedia 1 HD" tvg-name="Amedia 1 HD" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Фильмы,сериалы",Amedia 1 HD
-http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 tvg-id="Amedia 2 HD" tvg-name="Amedia 2 HD" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="Фильмы,сериалы",Amedia 2 HD
 http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 tvg-id="Amedia Hit HD" tvg-name="Amedia Hit HD" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Премьеры,хиты",Amedia Hit HD
+http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 tvg-id="Ani" tvg-name="Ani" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/01/101141/101141646.png" group-title="PeersTV",Ani
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ani/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Animal Planet HD
@@ -701,6 +701,8 @@ https://video1.tizam.cc/files/2483437/everybody_loves_lucy.mp4
 https://video2.tizam.cc/files/1406827/kazino_royal._seksualnoe_chtivo_._perevod.mp4
 #EXTINF:-1 tvg-id="Как Научить Жену Чувственности 2 (2016)" tvg-name="Как Научить Жену Чувственности 2 (2016)" tvg-logo="" group-title="XXX 18+",Как Научить Жену Чувственности 2 (2016)
 https://video3.tizam.cc/films/how-to-train-a-hotwife-2-porn.mp4
+#EXTINF:-1 tvg-id="Калейдоскоп ТВ" tvg-name="Калейдоскоп ТВ" tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="Развлекательные",Калейдоскоп ТВ
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="Камчатка HD" tvg-name="Камчатка HD" tvg-logo="https://epg.iptvx.one/picons/kamcha-1.png" group-title="Региональные",Камчатка HD
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
 #EXTINF:-1 tvg-id="Капитан Фантастика" tvg-name="Капитан Фантастика" tvg-logo="https://peers.tv/data/illustrations/ills/2019/06/06/162309/162309593.png" group-title="PeersTV",Капитан Фантастика
@@ -763,6 +765,8 @@ https://video2.tizam.cc/films/LACOLLECTIONNEUSE.mp4
 https://video3.tizam.cc/films/team-player.mp4
 #EXTINF:-1 tvg-id="Комедия" tvg-name="Комедия" tvg-logo="https://peers.tv/data/illustrations/ills/2016/05/25/70173/70173308.png" group-title="PeersTV",Комедия
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/komediya/16/playlist.m3u8
+#EXTINF:-1 tvg-id="Конгресс ТВ" tvg-name="Конгресс ТВ" tvg-logo="https://epg.iptvx.one/picons/kongresstv.png" group-title="Общественные",Конгресс ТВ
+http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="Королева ночи" tvg-name="Королева ночи" tvg-logo="" group-title="XXX 18+",Королева ночи
 https://video1.tizam.cc/films/DrugQueen.mp4
 #EXTINF:-1 tvg-id="Королева слонов 2 Сахара" tvg-name="Королева слонов 2 Сахара" tvg-logo="" group-title="XXX 18+",Королева слонов 2 Сахара
@@ -1057,8 +1061,6 @@ https://video3.tizam.cc/films/l-education-de-la-jeune-clea.mp4
 https://video3.tizam.cc/films/many-faces-of-pj-sparxx-the-porn.mp4
 #EXTINF:-1 tvg-id="ОК!" tvg-name="ОК!" tvg-logo="https://peers.tv/data/illustrations/ills/2023/05/30/355545/355545587.png" group-title="PeersTV",ОК!
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ok/16/playlist.m3u8
-#EXTINF:-1 tvg-id="Окко.Спорт 2" tvg-name="Окко.Спорт 2" tvg-logo="https://epg.iptvx.one/picons/okko-sport-2.png" group-title="Спортивные",Окко.Спорт 2
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Она предпочитает постарше" tvg-name="Она предпочитает постарше" tvg-logo="" group-title="XXX 18+",Она предпочитает постарше
 https://video2.tizam.cc/files/2239187/molodoy__18_let__opyt.mp4
 #EXTINF:-1 tvg-id="ОРТРК-12 КАНАЛ" tvg-name="ОРТРК-12 КАНАЛ" tvg-logo="https://peers.tv/data/illustrations/ills/2019/11/11/178769/178769979.png" group-title="PeersTV",ОРТРК-12 КАНАЛ
@@ -1237,6 +1239,8 @@ https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_RD_ROSTOVPAPA/variant.m3u8
 #EXTINF:-1 tvg-id="РТВ HD" tvg-name="РТВ HD" tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png" group-title="Региональные",РТВ HD
 https://e10-ll.facecast.net/rtv/0.m3u8
+#EXTINF:-1 tvg-id="РТР-Планета Азия" tvg-name="РТР-Планета Азия" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png" group-title="Общественные",РТР-Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
 #EXTINF:-1 tvg-id="Русская ночь" tvg-name="Русская ночь" tvg-logo="https://peers.tv/data/illustrations/ills/2023/07/27/363921/363921872.png" group-title="PeersTV",Русская ночь
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Русский бестселлер" tvg-name="Русский бестселлер" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/21/104703/104703505.png" group-title="PeersTV",Русский бестселлер
