@@ -133,6 +133,8 @@ https://7pal.short.gy/fox502au
 https://7pal.short.gy/fox503au
 #EXTINF:-1 tvg-id="Fox Sports 504 🛡️" tvg-name="Fox Sports 504 🛡️" tvg-logo="" group-title="Спортивные",Fox Sports 504 🛡️
 https://7pal.short.gy/fox504au
+#EXTINF:-1 tvg-id="Fox Sports 505 🛡️" tvg-name="Fox Sports 505 🛡️" tvg-logo="" group-title="Спортивные",Fox Sports 505 🛡️
+https://7pal.short.gy/fox505au
 #EXTINF:-1 tvg-id="Fox Sports 506 🛡️" tvg-name="Fox Sports 506 🛡️" tvg-logo="" group-title="Спортивные",Fox Sports 506 🛡️
 https://7pal.short.gy/fox506au
 #EXTINF:-1 tvg-id="Fox Sports 507 🛡️" tvg-name="Fox Sports 507 🛡️" tvg-logo="" group-title="Спортивные",Fox Sports 507 🛡️
