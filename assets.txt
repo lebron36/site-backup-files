@@ -417,6 +417,8 @@ https://video2.tizam.cc/files/2103041/venice_masquerade.mp4
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 tvg-id="Ветта 24 Пермь" tvg-name="Ветта 24 Пермь" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Региональные",Ветта 24 Пермь
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-id="Видеокассета HD" tvg-name="Видеокассета HD" tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 tvg-id="Визит в попу" tvg-name="Визит в попу" tvg-logo="" group-title="XXX 18+",Визит в попу
 https://video2.tizam.cc/files/2102604/vizit_v_popu.mp4
 #EXTINF:-1 tvg-id="Вместе РФ" tvg-name="Вместе РФ" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="Общественные",Вместе РФ
@@ -795,8 +797,6 @@ https://video1.tizam.cc/old_films/ThePrivateLifeoflizHoneyrus.mp4
 https://video1.tizam.cc/films/PrivateLifeofMercedes.mp4
 #EXTINF:-1 tvg-id="Личная жизнь Риты Фалтояно" tvg-name="Личная жизнь Риты Фалтояно" tvg-logo="" group-title="XXX 18+",Личная жизнь Риты Фалтояно
 https://video2.tizam.cc/files/2398767/lichnaya_zhizn_rity_faltoyano.mp4
-#EXTINF:-1 tvg-id="Луганск 24" tvg-name="Луганск 24" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Региональные",Луганск 24
-https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-id="Лукреция" tvg-name="Лукреция" tvg-logo="" group-title="XXX 18+",Лукреция
 https://video2.tizam.cc/files/2053010/lucretia___rache_einer_herzogin.mp4
 #EXTINF:-1 tvg-id="Лучшее от Трейси Лордс" tvg-name="Лучшее от Трейси Лордс" tvg-logo="" group-title="XXX 18+",Лучшее от Трейси Лордс
@@ -837,6 +837,8 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sport_1_h
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/boets/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Матч! Игра" tvg-name="Матч! Игра" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/21/104703/104703539.png" group-title="PeersTV",Матч! Игра
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8
+#EXTINF:-1 tvg-id="Матч! Планета" tvg-name="Матч! Планета" tvg-logo="https://iptvx.one/picons/match-planeta.png" group-title="Спортивные",Матч! Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="Матч! Страна" tvg-logo="https://peers.tv/data/illustrations/ills/2019/03/04/153654/153654010.png" group-title="PeersTV",Матч! Страна
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Матч! Футбол 1 HD" tvg-name="Матч! Футбол 1 HD" tvg-logo="https://peers.tv/data/illustrations/ills/2018/04/10/123495/123495326.png" group-title="PeersTV",Матч! Футбол 1 HD
