@@ -39,8 +39,6 @@ https://video2.tizam.cc/files/2206650/5_ottenkov_privat___5_shades_of_private.mp
 http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 tvg-id="8 канал" tvg-name="8 канал" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/01/101141/101141591.png" group-title="PeersTV",8 канал
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/8_kanal/16/playlist.m3u8
-#EXTINF:-1 tvg-id="8 канал Красноярский край" tvg-name="8 канал Красноярский край" tvg-logo="https://peers.tv/data/illustrations/ills/2023/04/17/347361/347361837.png" group-title="PeersTV",8 канал Красноярский край
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ya1pm/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Alpha Cinema" tvg-name="Alpha Cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="Alpha Funny" tvg-name="Alpha Funny" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Funny
@@ -635,6 +633,8 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/illyuzion
 http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1 tvg-id="Империя чувств" tvg-name="Империя чувств" tvg-logo="" group-title="XXX 18+",Империя чувств
 https://video1.tizam.cc/old_films/Pure_iperiya_uvstv.mp4
+#EXTINF:-1 tvg-id="Индийское Кино" tvg-name="Индийское Кино" tvg-logo="https://iptvx.one/picons/indijskoe-kino.png" group-title="Фильмы,сериалы",Индийское Кино
+http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="Индийское кино" tvg-name="Индийское кино" tvg-logo="https://peers.tv/data/illustrations/ills/2017/09/06/103672/103672832.png" group-title="PeersTV",Индийское кино
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Индия" tvg-name="Индия" tvg-logo="https://peers.tv/data/illustrations/ills/2023/01/11/334580/334580839.png" group-title="PeersTV",Индия
@@ -1103,8 +1103,6 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 https://video2.tizam.cc/files/1648990/printsessy_mafii.mp4
 #EXTINF:-1 tvg-id="ПРНК" tvg-name="ПРНК" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="Общественные",ПРНК
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
-#EXTINF:-1 tvg-id="Про Жизнь" tvg-name="Про Жизнь" tvg-logo="https://peers.tv/data/illustrations/ills/2021/04/13/248437/248437926.png" group-title="PeersTV",Про Жизнь
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/pro_zhizn/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Продвижение" tvg-name="Продвижение" tvg-logo="https://peers.tv/data/illustrations/ills/2021/01/20/236197/236197079.png" group-title="PeersTV",Продвижение
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/prodvizhenie/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Психология" tvg-name="Психология" tvg-logo="https://peers.tv/data/illustrations/ills/2024/10/04/436402/436402001.png" group-title="PeersTV",Психология
@@ -1227,8 +1225,6 @@ https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 tvg-id="Салям УФА" tvg-name="Салям УФА" tvg-logo="https://iptvx.one/picons/salam.png" group-title="Региональные",Салям УФА
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 tvg-id="Самотлор" tvg-name="Самотлор" tvg-logo="https://peers.tv/data/illustrations/ills/2019/11/15/179004/179004102.png" group-title="PeersTV",Самотлор
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/samotlor/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Санкт-Петербург" tvg-name="Санкт-Петербург" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Санкт-Петербург
 https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
 #EXTINF:-1 tvg-id="Сапфир" tvg-name="Сапфир" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Сапфир
