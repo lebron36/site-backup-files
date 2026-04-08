@@ -215,8 +215,6 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/russia_to
 https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:-1 tvg-id="sci-fi" tvg-name="sci-fi" tvg-logo="https://peers.tv/data/illustrations/ills/2021/07/06/260589/260589457.png" group-title="PeersTV",sci-fi
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8
-#EXTINF:-1 tvg-id="Setanta Sports 1 Georgia" tvg-name="Setanta Sports 1 Georgia" tvg-logo="https://epg.iptvx.one/picons/setanta1-ge.png" group-title="Спортивные",Setanta Sports 1 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 tvg-id="Setanta Sports 2 Georgia" tvg-name="Setanta Sports 2 Georgia" tvg-logo="https://epg.iptvx.one/picons/setanta2-ge.png" group-title="Спортивные",Setanta Sports 2 Georgia
 http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1 tvg-id="Silk Way" tvg-name="Silk Way" tvg-logo="https://peers.tv/data/illustrations/ills/2023/08/01/364828/364828731.png" group-title="PeersTV",Silk Way
@@ -225,8 +223,12 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/kazakh_tv
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Star Media" tvg-name="Star Media" tvg-logo="https://img.hhcdn.ru/employer-logo/446267.png" group-title="Кинозалы",Star Media
 https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Start Air" tvg-name="Start Air" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="Фильмы,сериалы",Start Air
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-id="Start Air HD" tvg-name="Start Air HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 tvg-id="Start World" tvg-name="Start World" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Фильмы,сериалы",Start World
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-id="Start World HD" tvg-name="Start World HD" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Start World HD
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-id="Suspense" tvg-name="Suspense" tvg-logo="https://peers.tv/data/illustrations/ills/2024/07/12/422818/422818977.png" group-title="PeersTV",Suspense
@@ -579,8 +581,6 @@ https://video2.tizam.cc/files/2102867/zhenshchina_v_krasnom.mp4
 https://video1.tizam.cc/new_films/zhenwina_yagodka_40.mp4
 #EXTINF:-1 tvg-id="Женщины в черном 2" tvg-name="Женщины в черном 2" tvg-logo="" group-title="XXX 18+",Женщины в черном 2
 https://video1.tizam.cc/files/2469432/women_in_black_2.mp4
-#EXTINF:-1 tvg-id="Живая планета" tvg-name="Живая планета" tvg-logo="https://peers.tv/data/illustrations/ills/2017/10/20/106785/106785594.png" group-title="PeersTV",Живая планета
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/zhivaya_planeta/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Живая природа" tvg-name="Живая природа" tvg-logo="" group-title="CloudFlare Inc (VPN 🇷🇺)",Живая природа
 https://livetv.mylifeisgood.net.ru/channels/jivyapriroda.m3u8
 #EXTINF:-1 tvg-id="Живи" tvg-name="Живи" tvg-logo="https://peers.tv/data/illustrations/ills/2017/08/04/101331/101331400.png" group-title="PeersTV",Живи
@@ -1099,8 +1099,6 @@ https://livetv.mylifeisgood.net.ru/channels/adventureshd.m3u8
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 tvg-id="Принцессы мафии" tvg-name="Принцессы мафии" tvg-logo="" group-title="XXX 18+",Принцессы мафии
 https://video2.tizam.cc/files/1648990/printsessy_mafii.mp4
-#EXTINF:-1 tvg-id="ПРНК" tvg-name="ПРНК" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="Общественные",ПРНК
-https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 tvg-id="Про Жизнь" tvg-name="Про Жизнь" tvg-logo="https://peers.tv/data/illustrations/ills/2021/04/13/248437/248437926.png" group-title="PeersTV",Про Жизнь
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/pro_zhizn/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Продвижение" tvg-name="Продвижение" tvg-logo="https://peers.tv/data/illustrations/ills/2021/01/20/236197/236197079.png" group-title="PeersTV",Продвижение
@@ -1271,14 +1269,14 @@ https://cityeden.catcast.tv/content/45269/index.m3u8
 https://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем КиноКомедия [Not 24/7]" tvg-name="Сити Эдем КиноКомедия [Not 24/7]" tvg-logo="https://i.imgur.com/Aga2XVA.png" group-title="Сити Эдем",Сити Эдем КиноКомедия [Not 24/7]
 https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 tvg-id="Сити Эдем КиноМистика [Not 24/7]" tvg-name="Сити Эдем КиноМистика [Not 24/7]" tvg-logo="https://i.imgur.com/s1Pid0K.png" group-title="Сити Эдем",Сити Эдем КиноМистика [Not 24/7]
+https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем КиноФантастика [Not 24/7]" tvg-name="Сити Эдем КиноФантастика [Not 24/7]" tvg-logo="https://i.imgur.com/I64FeIO.png" group-title="Сити Эдем",Сити Эдем КиноФантастика [Not 24/7]
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем КиноЭкшен [Not 24/7]" tvg-name="Сити Эдем КиноЭкшен [Not 24/7]" tvg-logo="https://i.imgur.com/uuzuvD0.png" group-title="Сити Эдем",Сити Эдем КиноЭкшен [Not 24/7]
 https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем МедЗдрав [Not 24/7]" tvg-name="Сити Эдем МедЗдрав [Not 24/7]" tvg-logo="https://i.imgur.com/BM4E0Kr.png" group-title="Сити Эдем",Сити Эдем МедЗдрав [Not 24/7]
 https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем Сиртаки ТВ [Not 24/7]" tvg-name="Сити Эдем Сиртаки ТВ [Not 24/7]" tvg-logo="https://i.imgur.com/V3MTfyc.png" group-title="Сити Эдем",Сити Эдем Сиртаки ТВ [Not 24/7]
-https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 tvg-id="Сказки Зайки" tvg-name="Сказки Зайки" tvg-logo="https://peers.tv/data/illustrations/ills/2019/02/07/151601/151601439.png" group-title="PeersTV",Сказки Зайки
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Слайд" tvg-name="Слайд" tvg-logo="" group-title="XXX 18+",Слайд
