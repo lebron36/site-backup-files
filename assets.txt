@@ -327,6 +327,8 @@ https://video2.tizam.cc/files/2103041/venice_masquerade.mp4
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 tvg-id="Ветта 24 Пермь" tvg-name="Ветта 24 Пермь" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Региональные",Ветта 24 Пермь
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-id="Видеокассета HD" tvg-name="Видеокассета HD" tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы,сериалы",Видеокассета HD
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 tvg-id="Визит в попу" tvg-name="Визит в попу" tvg-logo="" group-title="XXX 18+",Визит в попу
 https://video2.tizam.cc/files/2102604/vizit_v_popu.mp4
 #EXTINF:-1 tvg-id="Вместе РФ" tvg-name="Вместе РФ" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="Общественные",Вместе РФ
@@ -363,8 +365,6 @@ https://video2.tizam.cc/files/1620727/gde_to_na_dikom_zapade.mp4
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/glazami_turista_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Гламурные сучки 2" tvg-name="Гламурные сучки 2" tvg-logo="" group-title="XXX 18+",Гламурные сучки 2
 https://video1.tizam.cc/vk/GlamourGirls2.mp4
-#EXTINF:-1 tvg-id="Городской Телеканал-Ярославль" tvg-name="Городской Телеканал-Ярославль" tvg-logo="https://iptvx.one/picons/gorodskoy-yaroslavl.png" group-title="Региональные",Городской Телеканал-Ярославль
-https://gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-id="Горячие Ленты" tvg-name="Горячие Ленты" tvg-logo="" group-title="XXX 18+",Горячие Ленты
 https://video1.tizam.cc/old_films/SexTapes.mp4
 #EXTINF:-1 tvg-id="Горячие поцелуи" tvg-name="Горячие поцелуи" tvg-logo="" group-title="XXX 18+",Горячие поцелуи
@@ -511,8 +511,6 @@ https://video2.tizam.cc/films/Golden-Triangle.mp4
 https://video1.tizam.cc/files/817255/ptitsa_udovolstviya.mp4
 #EXTINF:-1 tvg-id="Идеальная секретарша 3 Новенькая" tvg-name="Идеальная секретарша 3 Новенькая" tvg-logo="" group-title="XXX 18+",Идеальная секретарша 3 Новенькая
 https://video1.tizam.cc/new_films/ThePerfectSecretary3.mp4
-#EXTINF:-1 tvg-id="Известия" tvg-name="Известия" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Новости",Известия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="Известия HD" tvg-name="Известия HD" tvg-logo="https://peers.tv/data/illustrations/ills/2022/04/15/299911/299911004.png" group-title="PeersTV",Известия HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Извращённые пары" tvg-name="Извращённые пары" tvg-logo="" group-title="XXX 18+",Извращённые пары
@@ -623,8 +621,6 @@ https://video2.tizam.cc/films/LACOLLECTIONNEUSE.mp4
 https://video3.tizam.cc/films/team-player.mp4
 #EXTINF:-1 tvg-id="Комедия" tvg-name="Комедия" tvg-logo="https://peers.tv/data/illustrations/ills/2016/05/25/70173/70173308.png" group-title="PeersTV",Комедия
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/komediya/16/playlist.m3u8
-#EXTINF:-1 tvg-id="Конгресс ТВ" tvg-name="Конгресс ТВ" tvg-logo="https://epg.iptvx.one/picons/kongresstv.png" group-title="Общественные",Конгресс ТВ
-http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="Королева ночи" tvg-name="Королева ночи" tvg-logo="" group-title="XXX 18+",Королева ночи
 https://video1.tizam.cc/films/DrugQueen.mp4
 #EXTINF:-1 tvg-id="Королева слонов 2 Сахара" tvg-name="Королева слонов 2 Сахара" tvg-logo="" group-title="XXX 18+",Королева слонов 2 Сахара
@@ -719,6 +715,8 @@ https://video2.tizam.cc/files/1499171/private_matador_5__the_sex_trip.mp4
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/nashfootballhd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Матч ТВ HD" tvg-name="Матч ТВ HD" tvg-logo="https://peers.tv/data/illustrations/ills/2019/11/11/178770/178770123.png" group-title="PeersTV",Матч ТВ HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/match_tv_hd/16/playlist.m3u8
+#EXTINF:-1 tvg-id="Матч!" tvg-name="Матч!" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Матч! HD" tvg-name="Матч! HD" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 tvg-id="МАТЧ! Арена HD" tvg-name="МАТЧ! Арена HD" tvg-logo="https://peers.tv/data/illustrations/ills/2016/01/25/62690/62690894.png" group-title="PeersTV",МАТЧ! Арена HD
@@ -1294,7 +1292,7 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="Телеканал "Матч ТВ"" tvg-name="Телеканал "Матч ТВ"" tvg-logo="https://peers.tv/data/illustrations/ills/2019/11/11/178770/178770118.png" group-title="PeersTV",Телеканал "Матч ТВ"
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sport/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал "Общественное телевидение России"" tvg-name="Телеканал "Общественное телевидение России"" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/03/198504/198504724.png" group-title="PeersTV",Телеканал "Общественное телевидение России"
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/otvrus/16/playlist.m3u8
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/otvrus/126/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал "Россия - Культура"" tvg-name="Телеканал "Россия - Культура"" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/01/198300/198300803.png" group-title="PeersTV",Телеканал "Россия - Культура"
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/kultura/16/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал "Россия"" tvg-name="Телеканал "Россия"" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png" group-title="PeersTV",Телеканал "Россия"
