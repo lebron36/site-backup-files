@@ -137,6 +137,8 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/gulli_gir
 https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
 #EXTINF:-1 tvg-id="History2" tvg-name="History2" tvg-logo="https://epg.iptvx.one/picons/h2.png" group-title="Познавательные",History2
 https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
+#EXTINF:-1 tvg-id="HollywooD HD" tvg-name="HollywooD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",HollywooD HD
+http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
 #EXTINF:-1 tvg-id="IPTVPLAY Великая Отечественная HD" tvg-name="IPTVPLAY Великая Отечественная HD" tvg-logo="" group-title="Кинозалы",IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="IPTVPLAY ИНТЕРНЫ" tvg-name="IPTVPLAY ИНТЕРНЫ" tvg-logo="" group-title="Кинозалы",IPTVPLAY ИНТЕРНЫ
@@ -255,6 +257,8 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/vhs_ka_hd
 https://a3569457567-s70378.cdn.ngenix.net/viasat_explore/2/index.m3u8
 #EXTINF:-1 tvg-id="Viasat History HD" tvg-name="Viasat History HD" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Познавательные",Viasat History HD
 https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
+#EXTINF:-1 tvg-id="Viasat Nature HD" tvg-name="Viasat Nature HD" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="Познавательные",Viasat Nature HD
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 tvg-id="Viasat Sport" tvg-name="Viasat Sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="Спортивные",Viasat Sport
 http://178.134.1.158:8081/viasatsport/index.m3u8
 #EXTINF:-1 tvg-id="viju Explore HD" tvg-name="viju Explore HD" tvg-logo="https://peers.tv/data/illustrations/ills/2023/03/13/342409/342409070.png" group-title="PeersTV",viju Explore HD
@@ -355,8 +359,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="Беларусь 5" tvg-name="Беларусь 5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Спортивные",Беларусь 5
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
-#EXTINF:-1 tvg-id="Беларусь 5 HD" tvg-name="Беларусь 5 HD" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Спортивные",Беларусь 5 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Белгород 24" tvg-name="Белгород 24" tvg-logo="https://iptvx.one/picons/belgorod24.png" group-title="Региональные",Белгород 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-id="БелРос" tvg-name="БелРос" tvg-logo="https://iptvx.one/picons/belros.png" group-title="Беларусь",БелРос
@@ -897,12 +899,12 @@ https://video3.tizam.cc/films/future-darkly-artifamily.mp4
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Мужское Кино HD" tvg-name="Мужское Кино HD" tvg-logo="https://peers.tv/data/illustrations/ills/2022/05/13/302741/302741734.png" group-title="PeersTV",Мужское Кино HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/muzhskoe_kino_hd/16/playlist.m3u8
+#EXTINF:-1 tvg-id="Мужской" tvg-name="Мужской" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="Досуг",Мужской
+http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 tvg-id="Муз ТВ" tvg-name="Муз ТВ" tvg-logo="https://peers.tv/data/illustrations/ills/2021/10/31/279056/279056228.png" group-title="PeersTV",Муз ТВ
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/muz_tvnew/16/playlist.m3u8
 #EXTINF:-1 tvg-id="МУЗЫКА LIVE" tvg-name="МУЗЫКА LIVE" tvg-logo="https://peers.tv/data/illustrations/ills/2025/04/22/472551/472551439.png" group-title="PeersTV",МУЗЫКА LIVE
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/la_minor/16/playlist.m3u8
-#EXTINF:-1 tvg-id="Музыка Первого" tvg-name="Музыка Первого" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="Музыкальные",Музыка Первого
-http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 tvg-id="Мульт" tvg-name="Мульт" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт
 http://31.148.48.15/Mult_HD/index.m3u8
 #EXTINF:-1 tvg-id="МУЛЬТ" tvg-name="МУЛЬТ" tvg-logo="https://peers.tv/data/illustrations/ills/2019/02/07/151601/151601443.png" group-title="PeersTV",МУЛЬТ
