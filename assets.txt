@@ -195,8 +195,6 @@ https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
 #EXTINF:-1 tvg-id="World Fashion Channel" tvg-name="World Fashion Channel" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png" group-title="Досуг",World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
-#EXTINF:-1 tvg-id="АВТО 24" tvg-name="АВТО 24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Досуг",АВТО 24
-http://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Автобус Секса" tvg-name="Автобус Секса" tvg-logo="" group-title="XXX 18+",Автобус Секса
 https://video1.tizam.cc/files/2435684/the_sex_bus.mp4
 #EXTINF:-1 tvg-id="Авторадио" tvg-name="Авторадио" tvg-logo="https://epgx.site/p/avtoradio.png" group-title="Радио",Авторадио
@@ -553,8 +551,6 @@ https://video2.tizam.cc/files/1398746/kokosovyy_ray.mp4
 https://video2.tizam.cc/films/LACOLLECTIONNEUSE.mp4
 #EXTINF:-1 tvg-id="Командный Игрок" tvg-name="Командный Игрок" tvg-logo="" group-title="XXX 18+",Командный Игрок
 https://video3.tizam.cc/films/team-player.mp4
-#EXTINF:-1 tvg-id="Конгресс ТВ" tvg-name="Конгресс ТВ" tvg-logo="https://epg.iptvx.one/picons/kongresstv.png" group-title="Общественные",Конгресс ТВ
-http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="Королева ночи" tvg-name="Королева ночи" tvg-logo="" group-title="XXX 18+",Королева ночи
 https://video1.tizam.cc/films/DrugQueen.mp4
 #EXTINF:-1 tvg-id="Королева слонов 2 Сахара" tvg-name="Королева слонов 2 Сахара" tvg-logo="" group-title="XXX 18+",Королева слонов 2 Сахара
@@ -727,8 +723,6 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="Наш кинопоказ HD" tvg-name="Наш кинопоказ HD" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" group-title="Фильмы и сериалы",Наш кинопоказ HD
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2434/index.m3u8
-#EXTINF:-1 tvg-id="Наша Тема" tvg-name="Наша Тема" tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="Досуг",Наша Тема
-http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 tvg-id="Наше радио" tvg-name="Наше радио" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio" group-title="Радио",Наше радио
 http://nashe1.hostingradio.ru/nashespb128.mp3
 #EXTINF:-1 tvg-id="НВК Саха HD" tvg-name="НВК Саха HD" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="Региональные",НВК Саха HD
@@ -1175,5 +1169,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-id="Югра" tvg-name="Югра" tvg-logo="https://iptvx.one/picons/yugra.png" group-title="Региональные",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
+http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
