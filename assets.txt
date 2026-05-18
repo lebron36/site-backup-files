@@ -95,8 +95,6 @@ http://31.148.48.15/Fan/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Фильмы и сериалы",Fox Life
 https://a3569457567-s70378.cdn.ngenix.net/fox_life/1/index.m3u8
-#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Новости",France 24
-https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 tvg-id="Galaxy TV" tvg-name="Galaxy TV" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="Познавательные",Galaxy TV
 https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://epg.iptvx.one/picons/history.png" group-title="Познавательные",History
@@ -165,8 +163,6 @@ https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 tvg-id="Setanta Sports 2" tvg-name="Setanta Sports 2" tvg-logo="https://epg.iptvx.one/picons/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TLC Finland" tvg-name="TLC Finland" tvg-logo="https://i.imgur.com/0d5hP3A.png" group-title="Развлекательные",TLC Finland
-https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="Turkmenistan Sport" tvg-name="Turkmenistan Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814" group-title="Спортивные",Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="TV BRICS" tvg-name="TV BRICS" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Общественные",TV BRICS
@@ -185,8 +181,6 @@ http://178.134.1.158:8081/viasatsport/index.m3u8
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Viju TV1000 Action" tvg-name="Viju TV1000 Action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Фильмы и сериалы",Viju TV1000 Action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 tvg-id="Viju TV1000 Русское" tvg-name="Viju TV1000 Русское" tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" group-title="Фильмы и сериалы",Viju TV1000 Русское
-https://stream8.cinerama.uz/1059/mono.m3u8
 #EXTINF:-1 tvg-id="Viju+ comedy HD" tvg-name="Viju+ comedy HD" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="Фильмы и сериалы",Viju+ comedy HD
 https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
 #EXTINF:-1 tvg-id="Viju+ Megahit HD" tvg-name="Viju+ Megahit HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Премьеры и хиты",Viju+ Megahit HD
@@ -475,6 +469,8 @@ https://video2.tizam.cc/films/Golden-Triangle.mp4
 https://video1.tizam.cc/files/817255/ptitsa_udovolstviya.mp4
 #EXTINF:-1 tvg-id="Идеальная секретарша 3 Новенькая" tvg-name="Идеальная секретарша 3 Новенькая" tvg-logo="" group-title="XXX 18+",Идеальная секретарша 3 Новенькая
 https://video1.tizam.cc/new_films/ThePerfectSecretary3.mp4
+#EXTINF:-1 tvg-id="Известия" tvg-name="Известия" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Новости",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="Извращённые пары" tvg-name="Извращённые пары" tvg-logo="" group-title="XXX 18+",Извращённые пары
 https://video1.tizam.cc/films/Trouble-Scambio-di-co.mp4
 #EXTINF:-1 tvg-id="Измена" tvg-name="Измена" tvg-logo="" group-title="XXX 18+",Измена
@@ -1177,7 +1173,5 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-id="Югра" tvg-name="Югра" tvg-logo="https://iptvx.one/picons/yugra.png" group-title="Региональные",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
-http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
