@@ -57,8 +57,6 @@ http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMH
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://iptvx.one/picons/cnn.png" group-title="Новости",CNN
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 tvg-id="Da Vinci" tvg-name="Da Vinci" tvg-logo="https://epg.iptvx.one/picons/da-vinci.png" group-title="Познавательные",Da Vinci
-http://tv.ttk.mx:9188
 #EXTINF:-1 tvg-id="DanceHits80" tvg-name="DanceHits80" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="Музыкальные",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-logo="https://iptvx.one/picons/deutsche-welle-de.png" group-title="Новости",Deutsche Welle
@@ -75,8 +73,6 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/144/index.m3u8
 #EXTINF:-1 tvg-id="FAN" tvg-name="FAN" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="Фильмы и сериалы",FAN
 http://31.148.48.15/Fan/index.m3u8
-#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Новости",France 24
-https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 tvg-id="HollywooD HD" tvg-name="HollywooD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",HollywooD HD
 http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
 #EXTINF:-1 tvg-id="IPTVPLAY Великая Отечественная HD" tvg-name="IPTVPLAY Великая Отечественная HD" tvg-logo="" group-title="Кинозалы",IPTVPLAY Великая Отечественная HD
@@ -685,8 +681,6 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="Наш кинопоказ HD" tvg-name="Наш кинопоказ HD" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" group-title="Фильмы и сериалы",Наш кинопоказ HD
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2434/index.m3u8
-#EXTINF:-1 tvg-id="Наша Тема" tvg-name="Наша Тема" tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="Досуг",Наша Тема
-http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 tvg-id="Наше радио" tvg-name="Наше радио" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio" group-title="Радио",Наше радио
 http://nashe1.hostingradio.ru/nashespb128.mp3
 #EXTINF:-1 tvg-id="НВК Саха HD" tvg-name="НВК Саха HD" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="Региональные",НВК Саха HD
@@ -1077,8 +1071,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 tvg-id="ТНТ (+7)" tvg-name="ТНТ (+7)" tvg-logo="https://epg.iptvx.one/picons/tnt-pl7.png" group-title="Будущее",ТНТ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 tvg-id="ТНТ HD" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ HD
-http://tv.ttk.mx:9128
 #EXTINF:-1 tvg-id="ТНТ4" tvg-name="ТНТ4" tvg-logo="https://epg.iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 tvg-id="ТНТ4 (+2)" tvg-name="ТНТ4 (+2)" tvg-logo="https://epg.iptvx.one/picons/tnt4-pl2.png" group-title="Будущее",ТНТ4 (+2)
