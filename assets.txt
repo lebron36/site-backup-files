@@ -431,6 +431,8 @@ https://video2.tizam.cc/films/Golden-Triangle.mp4
 https://video1.tizam.cc/files/817255/ptitsa_udovolstviya.mp4
 #EXTINF:-1 tvg-id="Идеальная секретарша 3 Новенькая" tvg-name="Идеальная секретарша 3 Новенькая" tvg-logo="" group-title="XXX 18+",Идеальная секретарша 3 Новенькая
 https://video1.tizam.cc/new_films/ThePerfectSecretary3.mp4
+#EXTINF:-1 tvg-id="Известия" tvg-name="Известия" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Новости",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="Извращённые пары" tvg-name="Извращённые пары" tvg-logo="" group-title="XXX 18+",Извращённые пары
 https://video1.tizam.cc/films/Trouble-Scambio-di-co.mp4
 #EXTINF:-1 tvg-id="Измена" tvg-name="Измена" tvg-logo="" group-title="XXX 18+",Измена
@@ -1097,6 +1099,8 @@ http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/159/index.m3u8
 http://31.148.48.15/Tochka_TV/index.m3u8
 #EXTINF:-1 tvg-id="Три парня и одна девушка" tvg-name="Три парня и одна девушка" tvg-logo="" group-title="XXX 18+",Три парня и одна девушка
 https://video3.tizam.cc/films/31-three-guys-on-one-girl.mp4
+#EXTINF:-1 tvg-id="ТСВ" tvg-name="ТСВ" tvg-logo="https://iptvx.one/picons/tcb.png" group-title="Общественные",ТСВ
+https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 tvg-id="Тюменское время" tvg-name="Тюменское время" tvg-logo="https://iptvx.one/picons/tumenskoe-vremia.png" group-title="Региональные",Тюменское время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1 tvg-id="Тётина гостеприимность История Райли Рейес" tvg-name="Тётина гостеприимность История Райли Рейес" tvg-logo="" group-title="XXX 18+",Тётина гостеприимность История Райли Рейес
