@@ -69,6 +69,8 @@ http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-id="Europa Plus TV HD" tvg-name="Europa Plus TV HD" tvg-logo="https://iptvx.one/picons/europa-plus-tv.png" group-title="Музыкальные",Europa Plus TV HD
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 HD" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="Eurosport 2 HD" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спортивные",Eurosport 2 HD
 http://46.32.176.50/eurosport2/index.m3u8
 #EXTINF:-1 tvg-id="Extreme Sports" tvg-name="Extreme Sports" tvg-logo="https://iptvx.one/picons/extreme-sports.png" group-title="Спортивные",Extreme Sports
@@ -77,6 +79,8 @@ http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/144/index.m3u8
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Фильмы и сериалы",Fox Life
 https://s70378.cdn.ngenix.net/fox_life/2/index.m3u8
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Новости",France 24
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 tvg-id="HollywooD HD" tvg-name="HollywooD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",HollywooD HD
 http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
 #EXTINF:-1 tvg-id="IPTVPLAY Великая Отечественная HD" tvg-name="IPTVPLAY Великая Отечественная HD" tvg-logo="" group-title="Кинозалы",IPTVPLAY Великая Отечественная HD
@@ -141,6 +145,8 @@ http://nashe1.hostingradio.ru/ultra-64.mp3
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-id="Viasat Nature HD" tvg-name="Viasat Nature HD" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="Познавательные",Viasat Nature HD
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 tvg-id="Viasat Sport" tvg-name="Viasat Sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="Спортивные",Viasat Sport
+http://178.134.1.158:8081/viasatsport/index.m3u8
 #EXTINF:-1 tvg-id="Viju TV1000" tvg-name="Viju TV1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Фильмы и сериалы",Viju TV1000
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Viju TV1000 Action" tvg-name="Viju TV1000 Action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Фильмы и сериалы",Viju TV1000 Action
@@ -635,6 +641,8 @@ https://video1.tizam.cc/vk/EiskalteAngel.mp4
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1 tvg-id="Москва. Доверие" tvg-name="Москва. Доверие" tvg-logo="https://iptvx.one/picons/doverie.png" group-title="Региональные",Москва. Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 tvg-id="Мосфильм. Золотая коллекция" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы и сериалы",Мосфильм. Золотая коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="Моя Планета" tvg-name="Моя Планета" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Познавательные",Моя Планета
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 #EXTINF:-1 tvg-id="Мрачное Будущее КиберСемья" tvg-name="Мрачное Будущее КиберСемья" tvg-logo="" group-title="XXX 18+",Мрачное Будущее КиберСемья
@@ -811,6 +819,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
 #EXTINF:-1 tvg-id="Пятый канал +7" tvg-name="Пятый канал +7" tvg-logo="https://epg.iptvx.one/picons/5kanal-ru-pl7.png" group-title="Будущее",Пятый канал +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:-1 tvg-id="Пятый канал Int." tvg-name="Пятый канал Int." tvg-logo="https://epg.iptvx.one/picons/piaty-int.png" group-title="Общественные",Пятый канал Int.
+http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 tvg-id="Работяги Из Жизни Сантехников" tvg-name="Работяги Из Жизни Сантехников" tvg-logo="" group-title="XXX 18+",Работяги Из Жизни Сантехников
 https://video1.tizam.cc/films/DirtyMenAtWork.mp4
 #EXTINF:-1 tvg-id="Радио Европа Плюс" tvg-name="Радио Европа Плюс" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png" group-title="Радио",Радио Европа Плюс
@@ -845,8 +855,6 @@ https://video1.tizam.cc/old_films/Fatal-Orchid-2-RUS.mp4
 https://video1.tizam.cc/old_films/Luxurious4.mp4
 #EXTINF:-1 tvg-id="Россия 1" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 tvg-id="Россия Культура" tvg-name="Россия Культура" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Общественные",Россия Культура
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="Россия-1 +2" tvg-name="Россия-1 +2" tvg-logo="https://epg.iptvx.one/picons/rossia1-pl2.png" group-title="Будущее",Россия-1 +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 tvg-id="Россия-1 +4" tvg-name="Россия-1 +4" tvg-logo="https://epg.iptvx.one/picons/rossia1-pl4.png" group-title="Будущее",Россия-1 +4
