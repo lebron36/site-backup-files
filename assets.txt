@@ -33,6 +33,8 @@ http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 https://s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
 #EXTINF:-1 tvg-id="Amedia 2 HD" tvg-name="Amedia 2 HD" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="Фильмы и сериалы",Amedia 2 HD
 http://31.148.48.15:80/A2/index.m3u8
+#EXTINF:-1 tvg-id="Amedia Hit HD" tvg-name="Amedia Hit HD" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Премьеры и хиты",Amedia Hit HD
+http://tv.woobl.ru/amedia_hit_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 tvg-id="Amedia Premium HD" tvg-name="Amedia Premium HD" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Премьеры и хиты",Amedia Premium HD
 http://31.148.48.15/Amedia_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="Angel TV" tvg-name="Angel TV" tvg-logo="https://iptvx.one/picons/angel-tv.png" group-title="Музыкальные",Angel TV
@@ -149,6 +151,8 @@ http://178.134.1.158:8081/viasatsport/index.m3u8
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Viju TV1000 Action" tvg-name="Viju TV1000 Action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Фильмы и сериалы",Viju TV1000 Action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 tvg-id="Viju TV1000 Новелла" tvg-name="Viju TV1000 Новелла" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="Фильмы и сериалы",Viju TV1000 Новелла
+http://cdn.kubteltv.workers.dev/?ID=381
 #EXTINF:-1 tvg-id="Viju TV1000 Русское" tvg-name="Viju TV1000 Русское" tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" group-title="Фильмы и сериалы",Viju TV1000 Русское
 https://stream8.cinerama.uz/1059/mono.m3u8
 #EXTINF:-1 tvg-id="Viju+ comedy HD" tvg-name="Viju+ comedy HD" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="Фильмы и сериалы",Viju+ comedy HD
@@ -269,8 +273,6 @@ https://video2.tizam.cc/files/1097179/voditelskaya_dochka_1chast.mp4
 https://video2.tizam.cc/files/2102618/voennaya_strast.mp4
 #EXTINF:-1 tvg-id="Возвращение Домой" tvg-name="Возвращение Домой" tvg-logo="" group-title="XXX 18+",Возвращение Домой
 https://video2.tizam.cc/files/2212308/rawhide___vozvrashchenie_domoy__2003.mp4
-#EXTINF:-1 tvg-id="Волга" tvg-name="Волга" tvg-logo="https://iptvx.one/picons/volga.png" group-title="Региональные",Волга
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-id="Волгоград 24" tvg-name="Волгоград 24" tvg-logo="https://iptvx.one/picons/volgograd-24.png" group-title="Региональные",Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_102_1f3a2163/chunklist.m3u8
 #EXTINF:-1 tvg-id="Волшебные рисунки" tvg-name="Волшебные рисунки" tvg-logo="" group-title="XXX 18+",Волшебные рисунки
