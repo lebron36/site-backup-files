@@ -61,8 +61,6 @@ http://46.32.176.50/rusong/index.m3u8
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinema HD" tvg-name="Cinema HD" tvg-logo="https://iptvx.one/picons/cinema.png" group-title="Фильмы и сериалы",Cinema HD
 http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 tvg-id="Da Vinci" tvg-name="Da Vinci" tvg-logo="https://epg.iptvx.one/picons/da-vinci.png" group-title="Познавательные",Da Vinci
-http://tv.ttk.mx:9188
 #EXTINF:-1 tvg-id="DanceHits80" tvg-name="DanceHits80" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="Музыкальные",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные",Discovery Channel HD
@@ -203,12 +201,6 @@ https://video1.tizam.cc/films/Dreams-Of-A-Gigolo.mp4
 https://video1.tizam.cc/old_films/The-Fugitive-2.mp4
 #EXTINF:-1 tvg-id="Беларусь 1 HD" tvg-name="Беларусь 1 HD" tvg-logo="https://iptvx.one/picons/belarus1hd.png" group-title="Беларусь",Беларусь 1 HD
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 tvg-id="Беларусь 2 HD" tvg-name="Беларусь 2 HD" tvg-logo="https://iptvx.one/picons/belarus2hd.png" group-title="Беларусь",Беларусь 2 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="Беларусь 24" tvg-name="Беларусь 24" tvg-logo="https://iptvx.one/picons/belarus24.png" group-title="Беларусь",Беларусь 24
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Беларусь 3 HD" tvg-name="Беларусь 3 HD" tvg-logo="https://iptvx.one/picons/belarus3hd.png" group-title="Беларусь",Беларусь 3 HD
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="Беларусь 5" tvg-name="Беларусь 5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Спортивные",Беларусь 5
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="Беларусь 5 HD" tvg-name="Беларусь 5 HD" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Спортивные",Беларусь 5 HD
@@ -667,6 +659,8 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="Наш кинопоказ HD" tvg-name="Наш кинопоказ HD" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" group-title="Фильмы и сериалы",Наш кинопоказ HD
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2434/index.m3u8
+#EXTINF:-1 tvg-id="НВК Саха HD" tvg-name="НВК Саха HD" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="Региональные",НВК Саха HD
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-id="Не разговаривай с незнакомцами чистое табу" tvg-name="Не разговаривай с незнакомцами чистое табу" tvg-logo="" group-title="XXX 18+",Не разговаривай с незнакомцами чистое табу
 https://video3.tizam.cc/films/don-t-talk-to-strangers.mp4
 #EXTINF:-1 tvg-id="Не учите меня жить" tvg-name="Не учите меня жить" tvg-logo="" group-title="XXX 18+",Не учите меня жить
@@ -701,6 +695,8 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="НТВ Сериал" tvg-name="НТВ Сериал" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="НТВ",НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="НТВ Стиль" tvg-name="НТВ Стиль" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="НТВ",НТВ Стиль
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="НТВ Хит" tvg-name="НТВ Хит" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="НТВ",НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="НТВ*" tvg-name="НТВ*" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="НТВ",НТВ*
@@ -739,8 +735,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 http://46.32.176.50/perviy/index.m3u8
 #EXTINF:-1 tvg-id="Первый вегетарианский" tvg-name="Первый вегетарианский" tvg-logo="https://iptvx.one/picons/pervy-vegetariansky.png" group-title="Досуг",Первый вегетарианский
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/833/index.m3u8
-#EXTINF:-1 tvg-id="Первый информационный" tvg-name="Первый информационный" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="Новости",Первый информационный
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Первый канал" tvg-name="Первый канал" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eurasia-kz.png" group-title="Общественные",Первый канал
 http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 #EXTINF:-1 tvg-id="Первый канал (+4)" tvg-name="Первый канал (+4)" tvg-logo="https://epg.iptvx.one/picons/pervy-pl4.png" group-title="Будущее",Первый канал (+4)
@@ -923,8 +917,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Сплетник" tvg-name="Сплетник" tvg-logo="" group-title="XXX 18+",Сплетник
 https://video1.tizam.cc/vk/tattle_tale.mp4
-#EXTINF:-1 tvg-id="СТВ Беларусь" tvg-name="СТВ Беларусь" tvg-logo="https://iptvx.one/picons/stv-by.png" group-title="Беларусь",СТВ Беларусь
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Страна FM" tvg-name="Страна FM" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыкальные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="СТС" tvg-name="СТС" tvg-logo="https://epg.iptvx.one/picons/sts.png" group-title="Развлекательные",СТС
@@ -1019,8 +1011,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 tvg-id="ТНТ (+7)" tvg-name="ТНТ (+7)" tvg-logo="https://epg.iptvx.one/picons/tnt-pl7.png" group-title="Будущее",ТНТ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 tvg-id="ТНТ HD" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ HD
-http://tv.ttk.mx:9128
 #EXTINF:-1 tvg-id="ТНТ4" tvg-name="ТНТ4" tvg-logo="https://epg.iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 tvg-id="ТНТ4 (+2)" tvg-name="ТНТ4 (+2)" tvg-logo="https://epg.iptvx.one/picons/tnt4-pl2.png" group-title="Будущее",ТНТ4 (+2)
@@ -1041,8 +1031,6 @@ http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/159/index.m3u8
 http://31.148.48.15/Tochka_TV/index.m3u8
 #EXTINF:-1 tvg-id="Три парня и одна девушка" tvg-name="Три парня и одна девушка" tvg-logo="" group-title="XXX 18+",Три парня и одна девушка
 https://video3.tizam.cc/films/31-three-guys-on-one-girl.mp4
-#EXTINF:-1 tvg-id="ТСВ" tvg-name="ТСВ" tvg-logo="https://iptvx.one/picons/tcb.png" group-title="Общественные",ТСВ
-https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 tvg-id="Тюменское время" tvg-name="Тюменское время" tvg-logo="https://iptvx.one/picons/tumenskoe-vremia.png" group-title="Региональные",Тюменское время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1 tvg-id="Тётина гостеприимность История Райли Рейес" tvg-name="Тётина гостеприимность История Райли Рейес" tvg-logo="" group-title="XXX 18+",Тётина гостеприимность История Райли Рейес
