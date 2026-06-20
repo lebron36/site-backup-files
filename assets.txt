@@ -371,8 +371,6 @@ https://video1.tizam.cc/films/doch_nachal_nika_tyur_my.mp4
 https://video1.tizam.cc/films/drakula.mp4
 #EXTINF:-1 tvg-id="Дьявол и Мисс Джонс" tvg-name="Дьявол и Мисс Джонс" tvg-logo="" group-title="XXX 18+",Дьявол и Мисс Джонс
 https://video1.tizam.cc/old_films/The-New-Devil-In-Miss-Jones-2005-R-DVDRip.mp4
-#EXTINF:-1 tvg-id="Евразия Орск" tvg-name="Евразия Орск" tvg-logo="https://epg.iptvx.one/picons/evrasia.png" group-title="Региональные",Евразия Орск
-https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 tvg-id="Еврокино HD" tvg-name="Еврокино HD" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Фильмы и сериалы",Еврокино HD
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="Еда" tvg-name="Еда" tvg-logo="https://iptvx.one/picons/eda.png" group-title="Досуг",Еда
