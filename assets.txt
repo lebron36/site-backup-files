@@ -37,8 +37,6 @@ http://31.148.48.15:80/A2/index.m3u8
 http://tv.woobl.ru/amedia_hit_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 tvg-id="Amedia Premium HD" tvg-name="Amedia Premium HD" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Премьеры и хиты",Amedia Premium HD
 http://31.148.48.15/Amedia_Premium_HD/index.m3u8
-#EXTINF:-1 tvg-id="Angel TV" tvg-name="Angel TV" tvg-logo="https://iptvx.one/picons/angel-tv.png" group-title="Музыкальные",Angel TV
-https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Детские",Ani
 http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="Познавательные",Animal Planet HD
@@ -79,6 +77,8 @@ http://31.148.48.15/Fan/index.m3u8
 https://s70378.cdn.ngenix.net/fox_life/2/index.m3u8
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Новости",France 24
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+#EXTINF:-1 tvg-id="HollywooD HD" tvg-name="HollywooD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",HollywooD HD
+http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
 #EXTINF:-1 tvg-id="IPTVPLAY Великая Отечественная HD" tvg-name="IPTVPLAY Великая Отечественная HD" tvg-logo="" group-title="Кинозалы",IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="IPTVPLAY МУЛЬТСКАЗКИ HD" tvg-name="IPTVPLAY МУЛЬТСКАЗКИ HD" tvg-logo="" group-title="Кинозалы",IPTVPLAY МУЛЬТСКАЗКИ HD
@@ -221,8 +221,6 @@ https://video2.tizam.cc/files/2284441/styuardessy_hotesses_de_l_air.mp4
 https://video2.tizam.cc/files/2398820/britanskie_devstvennye_zadnitsy.mp4
 #EXTINF:-1 tvg-id="Брянская губерния HD" tvg-name="Брянская губерния HD" tvg-logo="https://iptvx.one/picons/brianskaya-gubernia.png" group-title="Региональные",Брянская губерния HD
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
-#EXTINF:-1 tvg-id="БСТ Братск" tvg-name="БСТ Братск" tvg-logo="https://iptvx.one/picons/bst-bratsk.png" group-title="Региональные",БСТ Братск
-http://bst.bratsk.ru/hls/bst2/index.m3u8
 #EXTINF:-1 tvg-id="БСТ Уфа" tvg-name="БСТ Уфа" tvg-logo="https://iptvx.one/picons/bst.png" group-title="Региональные",БСТ Уфа
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="Будущая мама" tvg-name="Будущая мама" tvg-logo="" group-title="XXX 18+",Будущая мама
@@ -373,8 +371,6 @@ https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="Еда" tvg-name="Еда" tvg-logo="https://iptvx.one/picons/eda.png" group-title="Досуг",Еда
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/6009/index.m3u8
-#EXTINF:-1 tvg-id="Енисей регион" tvg-name="Енисей регион" tvg-logo="https://iptvx.one/picons/enisey-region.png" group-title="Региональные",Енисей регион
-https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Женская Тюрьма" tvg-name="Женская Тюрьма" tvg-logo="" group-title="XXX 18+",Женская Тюрьма
 https://video2.tizam.cc/files/2301955/unizheniya_v_zhenskoy_tyurme___penitenziario_femminile_1995.mp4
 #EXTINF:-1 tvg-id="Женщина в красном" tvg-name="Женщина в красном" tvg-logo="" group-title="XXX 18+",Женщина в красном
@@ -625,6 +621,8 @@ http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 https://video3.tizam.cc/films/future-darkly-artifamily.mp4
 #EXTINF:-1 tvg-id="МТВ Волгоград" tvg-name="МТВ Волгоград" tvg-logo="https://iptvx.one/picons/mtv-volgograd.png" group-title="Региональные",МТВ Волгоград
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Мужской" tvg-name="Мужской" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="Досуг",Мужской
+http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 tvg-id="Мульт" tvg-name="Мульт" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт
 http://31.148.48.15/Mult_HD/index.m3u8
 #EXTINF:-1 tvg-id="Мульт и Музыка" tvg-name="Мульт и Музыка" tvg-logo="https://iptvx.one/picons/multimuzyka.png" group-title="Детские",Мульт и Музыка
@@ -1065,7 +1063,5 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-id="Ю ТВ" tvg-name="Ю ТВ" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю ТВ
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_U_SPB/variant.m3u8
-#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
-http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
