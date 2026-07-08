@@ -211,8 +211,6 @@ https://video2.tizam.cc/files/2284441/styuardessy_hotesses_de_l_air.mp4
 https://video2.tizam.cc/files/2398820/britanskie_devstvennye_zadnitsy.mp4
 #EXTINF:-1 tvg-id="Брянская губерния HD" tvg-name="Брянская губерния HD" tvg-logo="https://iptvx.one/picons/brianskaya-gubernia.png" group-title="Региональные",Брянская губерния HD
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
-#EXTINF:-1 tvg-id="БСТ Братск" tvg-name="БСТ Братск" tvg-logo="https://iptvx.one/picons/bst-bratsk.png" group-title="Региональные",БСТ Братск
-http://bst.bratsk.ru/hls/bst2/index.m3u8
 #EXTINF:-1 tvg-id="БСТ Уфа" tvg-name="БСТ Уфа" tvg-logo="https://iptvx.one/picons/bst.png" group-title="Региональные",БСТ Уфа
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="Будущая мама" tvg-name="Будущая мама" tvg-logo="" group-title="XXX 18+",Будущая мама
@@ -233,8 +231,6 @@ https://video2.tizam.cc/files/2103041/venice_masquerade.mp4
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="Визит в попу" tvg-name="Визит в попу" tvg-logo="" group-title="XXX 18+",Визит в попу
 https://video2.tizam.cc/files/2102604/vizit_v_popu.mp4
-#EXTINF:-1 tvg-id="Вместе РФ" tvg-name="Вместе РФ" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="Общественные",Вместе РФ
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Водительская дочка" tvg-name="Водительская дочка" tvg-logo="" group-title="XXX 18+",Водительская дочка
 https://video2.tizam.cc/files/1097179/voditelskaya_dochka_1chast.mp4
 #EXTINF:-1 tvg-id="Военная страсть" tvg-name="Военная страсть" tvg-logo="" group-title="XXX 18+",Военная страсть
@@ -715,8 +711,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTINF:-1 tvg-id="Первый канал (+9)" tvg-name="Первый канал (+9)" tvg-logo="https://epg.iptvx.one/picons/pervy-pl9.png" group-title="Будущее",Первый канал (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="Первый канал HD" tvg-name="Первый канал HD" tvg-logo="https://epg.iptvx.one/picons/pervy.png" group-title="Общественные",Первый канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 tvg-id="Первый канал Европа" tvg-name="Первый канал Европа" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eu.png" group-title="Общественные",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-id="Первый космический" tvg-name="Первый космический" tvg-logo="https://epg.iptvx.one/picons/kosmichesky.png" group-title="Познавательные",Первый космический
@@ -1039,7 +1033,5 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-id="Ю ТВ" tvg-name="Ю ТВ" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю ТВ
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_U_SPB/variant.m3u8
-#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
-http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
