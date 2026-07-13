@@ -597,8 +597,6 @@ https://video2.tizam.cc/films/The-Young-Like-It-Hot.mp4
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 #EXTINF:-1 tvg-id="Морозные Ангелы" tvg-name="Морозные Ангелы" tvg-logo="" group-title="XXX 18+",Морозные Ангелы
 https://video1.tizam.cc/vk/EiskalteAngel.mp4
-#EXTINF:-1 tvg-id="Москва 24" tvg-name="Москва 24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="Региональные",Москва 24
-https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1 tvg-id="Москва. Доверие" tvg-name="Москва. Доверие" tvg-logo="https://iptvx.one/picons/doverie.png" group-title="Региональные",Москва. Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-id="Моя Планета" tvg-name="Моя Планета" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Познавательные",Моя Планета
@@ -865,8 +863,6 @@ https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923a
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 #EXTINF:-1 tvg-id="Смотрим 100% Любовь" tvg-name="Смотрим 100% Любовь" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="Кинозалы",Смотрим 100% Любовь
 https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
-#EXTINF:-1 tvg-id="Смотрим 100% Мужское" tvg-name="Смотрим 100% Мужское" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="Кинозалы",Смотрим 100% Мужское
-https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
 #EXTINF:-1 tvg-id="Смотрим 100% Праздник" tvg-name="Смотрим 100% Праздник" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="Кинозалы",Смотрим 100% Праздник
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
 #EXTINF:-1 tvg-id="Смотрим Кино и сериалы" tvg-name="Смотрим Кино и сериалы" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" group-title="Кинозалы",Смотрим Кино и сериалы
@@ -1037,7 +1033,5 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-id="Ю ТВ" tvg-name="Ю ТВ" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю ТВ
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_U_SPB/variant.m3u8
-#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
-http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
