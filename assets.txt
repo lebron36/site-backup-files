@@ -267,8 +267,6 @@ https://video2.tizam.cc/files/1646390/gaya_3___vyhodnye_v_bolone.mp4
 https://video2.tizam.cc/files/1620727/gde_to_na_dikom_zapade.mp4
 #EXTINF:-1 tvg-id="Гламурные сучки 2" tvg-name="Гламурные сучки 2" tvg-logo="" group-title="XXX 18+",Гламурные сучки 2
 https://video1.tizam.cc/vk/GlamourGirls2.mp4
-#EXTINF:-1 tvg-id="Городской Телеканал-Ярославль" tvg-name="Городской Телеканал-Ярославль" tvg-logo="https://iptvx.one/picons/gorodskoy-yaroslavl.png" group-title="Региональные",Городской Телеканал-Ярославль
-https://gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-id="Горячие Ленты" tvg-name="Горячие Ленты" tvg-logo="" group-title="XXX 18+",Горячие Ленты
 https://video1.tizam.cc/old_films/SexTapes.mp4
 #EXTINF:-1 tvg-id="Горячие поцелуи" tvg-name="Горячие поцелуи" tvg-logo="" group-title="XXX 18+",Горячие поцелуи
@@ -1039,5 +1037,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-id="Ю ТВ" tvg-name="Ю ТВ" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю ТВ
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_U_SPB/variant.m3u8
+#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
+http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
