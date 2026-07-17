@@ -265,8 +265,6 @@ https://video2.tizam.cc/files/1646390/gaya_3___vyhodnye_v_bolone.mp4
 https://video2.tizam.cc/files/1620727/gde_to_na_dikom_zapade.mp4
 #EXTINF:-1 tvg-id="Гламурные сучки 2" tvg-name="Гламурные сучки 2" tvg-logo="" group-title="XXX 18+",Гламурные сучки 2
 https://video1.tizam.cc/vk/GlamourGirls2.mp4
-#EXTINF:-1 tvg-id="Городской Телеканал-Ярославль" tvg-name="Городской Телеканал-Ярославль" tvg-logo="https://iptvx.one/picons/gorodskoy-yaroslavl.png" group-title="Региональные",Городской Телеканал-Ярославль
-https://gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-id="Горячие Ленты" tvg-name="Горячие Ленты" tvg-logo="" group-title="XXX 18+",Горячие Ленты
 https://video1.tizam.cc/old_films/SexTapes.mp4
 #EXTINF:-1 tvg-id="Горячие поцелуи" tvg-name="Горячие поцелуи" tvg-logo="" group-title="XXX 18+",Горячие поцелуи
@@ -355,6 +353,8 @@ https://video1.tizam.cc/films/doch_nachal_nika_tyur_my.mp4
 https://video1.tizam.cc/films/drakula.mp4
 #EXTINF:-1 tvg-id="Дьявол и Мисс Джонс" tvg-name="Дьявол и Мисс Джонс" tvg-logo="" group-title="XXX 18+",Дьявол и Мисс Джонс
 https://video1.tizam.cc/old_films/The-New-Devil-In-Miss-Jones-2005-R-DVDRip.mp4
+#EXTINF:-1 tvg-id="Евразия Орск" tvg-name="Евразия Орск" tvg-logo="https://epg.iptvx.one/picons/evrasia.png" group-title="Региональные",Евразия Орск
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 tvg-id="Еврокино HD" tvg-name="Еврокино HD" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Фильмы и сериалы",Еврокино HD
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="Еда" tvg-name="Еда" tvg-logo="https://iptvx.one/picons/eda.png" group-title="Досуг",Еда
@@ -741,6 +741,8 @@ https://video3.tizam.cc/films/educating-reeves-porn-1.mp4
 https://video2.tizam.cc/files/1456459/stalker.mp4
 #EXTINF:-1 tvg-id="Приключения HD" tvg-name="Приключения HD" tvg-logo="http://epg.it999.ru/img2/2311.png" group-title="Досуг",Приключения HD
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/920/index.m3u8
+#EXTINF:-1 tvg-id="Прима Красноярск" tvg-name="Прима Красноярск" tvg-logo="https://iptvx.one/picons/prima.png" group-title="Региональные",Прима Красноярск
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 tvg-id="Принцессы мафии" tvg-name="Принцессы мафии" tvg-logo="" group-title="XXX 18+",Принцессы мафии
 https://video2.tizam.cc/files/1648990/printsessy_mafii.mp4
 #EXTINF:-1 tvg-id="ПРНК" tvg-name="ПРНК" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="Общественные",ПРНК
