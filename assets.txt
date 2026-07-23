@@ -31,8 +31,6 @@ https://s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
 http://31.148.48.15:80/A2/index.m3u8
 #EXTINF:-1 tvg-id="Amedia Premium HD" tvg-name="Amedia Premium HD" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Премьеры и хиты",Amedia Premium HD
 http://31.148.48.15/Amedia_Premium_HD/index.m3u8
-#EXTINF:-1 tvg-id="Angel TV" tvg-name="Angel TV" tvg-logo="https://iptvx.one/picons/angel-tv.png" group-title="Музыкальные",Angel TV
-https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Детские",Ani
 http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="Познавательные",Animal Planet HD
@@ -1039,7 +1037,5 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-id="Ю ТВ" tvg-name="Ю ТВ" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю ТВ
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_U_SPB/variant.m3u8
-#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
-http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
