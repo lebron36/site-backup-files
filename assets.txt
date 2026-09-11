@@ -393,8 +393,6 @@ https://video2.tizam.cc/files/2284683/malyshki_za_50.mp4
 https://video2.tizam.cc/files/1605326/devushki_iz_vysshego_obshchestva.mp4
 #EXTINF:-1 tvg-id="Девушки Мафии (2007)" tvg-name="Девушки Мафии (2007)" tvg-logo="" group-title="XXX 18+",Девушки Мафии (2007)
 https://video3.tizam.cc/films/mafia-girlz-porn.mp4
-#EXTINF:-1 tvg-id="Девятка" tvg-name="Девятка" tvg-logo="https://iptvx.one/picons/deviatka.png" group-title="Развлекательные",Девятка
-http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Деньги Ненужны Секс Бесплатный" tvg-name="Деньги Ненужны Секс Бесплатный" tvg-logo="" group-title="XXX 18+",Деньги Ненужны Секс Бесплатный
 https://video2.tizam.cc/files/2105633/private_money_for_nothing_sex_for_free.mp4
 #EXTINF:-1 tvg-id="Детский мир" tvg-name="Детский мир" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-title="Детские",Детский мир
