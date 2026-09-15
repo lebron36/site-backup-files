@@ -117,6 +117,8 @@ http://stream.mcquack.net/455/index.m3u8
 https://video1.tizam.cc/films/PrivateMovies41FuckyNewYear.mp4
 #EXTINF:-1 tvg-id="Private Film 25 Apocalypse Climax" tvg-name="Private Film 25 Apocalypse Climax" tvg-logo="" group-title="XXX 18+",Private Film 25 Apocalypse Climax
 https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
+#EXTINF:-1 tvg-id="Qazaqstan International" tvg-name="Qazaqstan International" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Новости",Qazaqstan International
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="RAZ 1" tvg-name="RAZ 1" tvg-logo="https://epg.iptvx.one/picons/raz1.png" group-title="Развлекательные",RAZ 1
 http://stream.mcquack.net/463/index.m3u8
 #EXTINF:-1 tvg-id="RAZ 2" tvg-name="RAZ 2" tvg-logo="https://epg.iptvx.one/picons/raz2.png" group-title="Развлекательные",RAZ 2
@@ -141,8 +143,6 @@ http://stream.mcquack.net/164/index.m3u8
 https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTД" tvg-name="RTД" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Общественные",RTД
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 tvg-id="RU.TV" tvg-name="RU.TV" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="Музыкальные",RU.TV
-http://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
 #EXTINF:-1 tvg-id="Russia Today" tvg-name="Russia Today" tvg-logo="https://iptvx.one/picons/rt-news.png" group-title="Новости",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="SeleCaoTV Сериалы" tvg-name="SeleCaoTV Сериалы" tvg-logo="" group-title="Кинозалы",SeleCaoTV Сериалы
@@ -379,6 +379,8 @@ https://video2.tizam.cc/files/2284683/malyshki_za_50.mp4
 https://video2.tizam.cc/files/1605326/devushki_iz_vysshego_obshchestva.mp4
 #EXTINF:-1 tvg-id="Девушки Мафии (2007)" tvg-name="Девушки Мафии (2007)" tvg-logo="" group-title="XXX 18+",Девушки Мафии (2007)
 https://video3.tizam.cc/films/mafia-girlz-porn.mp4
+#EXTINF:-1 tvg-id="Девятка" tvg-name="Девятка" tvg-logo="https://iptvx.one/picons/deviatka.png" group-title="Развлекательные",Девятка
+http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Деньги Ненужны Секс Бесплатный" tvg-name="Деньги Ненужны Секс Бесплатный" tvg-logo="" group-title="XXX 18+",Деньги Ненужны Секс Бесплатный
 https://video2.tizam.cc/files/2105633/private_money_for_nothing_sex_for_free.mp4
 #EXTINF:-1 tvg-id="Детский мир" tvg-name="Детский мир" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-title="Детские",Детский мир
@@ -577,6 +579,8 @@ https://video2.tizam.cc/films/LACOLLECTIONNEUSE.mp4
 https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Командный Игрок" tvg-name="Командный Игрок" tvg-logo="" group-title="XXX 18+",Командный Игрок
 https://video3.tizam.cc/films/team-player.mp4
+#EXTINF:-1 tvg-id="Конгресс ТВ" tvg-name="Конгресс ТВ" tvg-logo="https://epg.iptvx.one/picons/kongresstv.png" group-title="Общественные",Конгресс ТВ
+http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="Королева ночи" tvg-name="Королева ночи" tvg-logo="" group-title="XXX 18+",Королева ночи
 https://video1.tizam.cc/films/DrugQueen.mp4
 #EXTINF:-1 tvg-id="Королева слонов 2 Сахара" tvg-name="Королева слонов 2 Сахара" tvg-logo="" group-title="XXX 18+",Королева слонов 2 Сахара
@@ -975,6 +979,8 @@ http://stream.mcquack.net/204/index.m3u8
 https://video2.tizam.cc/files/2298183/russkiy_institut_4__russkiy_perevod.mp4
 #EXTINF:-1 tvg-id="Русский институт Урок 17" tvg-name="Русский институт Урок 17" tvg-logo="" group-title="XXX 18+",Русский институт Урок 17
 https://video2.tizam.cc/files/2412734/russkiy_institut_urok_17__seks_urok.mp4
+#EXTINF:-1 tvg-id="Русский панк" tvg-name="Русский панк" tvg-logo="https://i.imgur.com/pLM7Lj7.png" group-title="Радио",Русский панк
+http://79.120.77.11:8000/punkru
 #EXTINF:-1 tvg-id="Русский роман" tvg-name="Русский роман" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="Фильмы и сериалы",Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 tvg-id="Русское радио" tvg-name="Русское радио" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png" group-title="Радио",Русское радио
