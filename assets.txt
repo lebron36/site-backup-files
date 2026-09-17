@@ -105,8 +105,6 @@ http://stream.mcquack.net/116/index.m3u8
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 tvg-id="O'zbekiston" tvg-name="O'zbekiston" tvg-logo="https://i.imgur.com/QUIIhTD.png" group-title="Новости",O'zbekiston
 https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Okko Futbol" tvg-name="Okko Futbol" tvg-logo="https://epg.iptvx.one/picons/okko-football.png" group-title="Спортивные",Okko Futbol
-http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 tvg-id="Okko Prajm Sport" tvg-name="Okko Prajm Sport" tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="Спортивные",Okko Prajm Sport
 http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 tvg-id="Okko Sport" tvg-name="Okko Sport" tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="Спортивные",Okko Sport
@@ -119,6 +117,8 @@ https://video1.tizam.cc/films/PrivateMovies41FuckyNewYear.mp4
 https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
 #EXTINF:-1 tvg-id="Qazaqstan International" tvg-name="Qazaqstan International" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Новости",Qazaqstan International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 tvg-id="QazSport" tvg-name="QazSport" tvg-logo="https://epg.iptvx.one/picons/kazsport.png" group-title="Спортивные",QazSport
+http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 tvg-id="RAZ 1" tvg-name="RAZ 1" tvg-logo="https://epg.iptvx.one/picons/raz1.png" group-title="Развлекательные",RAZ 1
 http://stream.mcquack.net/463/index.m3u8
 #EXTINF:-1 tvg-id="RAZ 2" tvg-name="RAZ 2" tvg-logo="https://epg.iptvx.one/picons/raz2.png" group-title="Развлекательные",RAZ 2
@@ -151,8 +151,12 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 http://kinowalk.hopto.org/selecaotv1_live
 #EXTINF:-1 tvg-id="SeleCaoTV Фильмы" tvg-name="SeleCaoTV Фильмы" tvg-logo="" group-title="Кинозалы",SeleCaoTV Фильмы
 http://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 tvg-id="Setanta Sports" tvg-name="Setanta Sports" tvg-logo="https://epg.iptvx.one/picons/setanta-sports.png" group-title="Спортивные",Setanta Sports
+http://315e5a5d.ottrast.com/iptv/PXXFGKYYT6PCZA/6543/index.m3u8
 #EXTINF:-1 tvg-id="Setanta Sports 1 Eurasia" tvg-name="Setanta Sports 1 Eurasia" tvg-logo="https://i.imgur.com/8ANUZAu.png" group-title="Спортивные",Setanta Sports 1 Eurasia
 http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 tvg-id="Setanta Sports 2" tvg-name="Setanta Sports 2" tvg-logo="https://epg.iptvx.one/picons/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2
+http://315e5a5d.ottrast.com/iptv/PXXFGKYYT6PCZA/270/index.m3u8
 #EXTINF:-1 tvg-id="Setanta Sports 2 Eurasia" tvg-name="Setanta Sports 2 Eurasia" tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="Спортивные",Setanta Sports 2 Eurasia
 http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="Sky News (UK)" tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="Новости",Sky News (UK)
@@ -523,6 +527,8 @@ https://video1.tizam.cc/old_films/Les_Vuraces_Italiennes_1993.mp4
 https://video2.tizam.cc/files/1408405/italyanskiy_zver._1996.mp4
 #EXTINF:-1 tvg-id="К.K.K. История насилия в Америке" tvg-name="К.K.K. История насилия в Америке" tvg-logo="" group-title="XXX 18+",К.K.K. История насилия в Америке
 https://video1.tizam.cc/old_films/TheStoryofViolenceinAmerica.mp4
+#EXTINF:-1 tvg-id="Кавказ 24" tvg-name="Кавказ 24" tvg-logo="https://iptvx.one/picons/kavkaz24.png" group-title="Региональные",Кавказ 24
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8
 #EXTINF:-1 tvg-id="Каждый любит Люси" tvg-name="Каждый любит Люси" tvg-logo="" group-title="XXX 18+",Каждый любит Люси
 https://video1.tizam.cc/files/2483437/everybody_loves_lucy.mp4
 #EXTINF:-1 tvg-id="Казино Роял Сексуальное чтиво" tvg-name="Казино Роял Сексуальное чтиво" tvg-logo="" group-title="XXX 18+",Казино Роял Сексуальное чтиво
@@ -600,7 +606,7 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 #EXTINF:-1 tvg-id="Красная Орхидея" tvg-name="Красная Орхидея" tvg-logo="" group-title="XXX 18+",Красная Орхидея
 https://video2.tizam.cc/films/Red-Orchid.mp4
 #EXTINF:-1 tvg-id="Краснодар" tvg-name="Краснодар" tvg-logo="https://iptvx.one/picons/krasnodar.png" group-title="Региональные",Краснодар
-http://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Кремовое преступление" tvg-name="Кремовое преступление" tvg-logo="" group-title="XXX 18+",Кремовое преступление
 https://video2.tizam.cc/files/1113391/cream_crime__rus.mp4
 #EXTINF:-1 tvg-id="Крик ТВ" tvg-name="Крик ТВ" tvg-logo="https://iptvx.one/picons/krik-tv.png" group-title="Новости",Крик ТВ
@@ -671,6 +677,12 @@ https://video2.tizam.cc/files/1540033/massazhistka.mp4
 https://video2.tizam.cc/files/1499171/private_matador_5__the_sex_trip.mp4
 #EXTINF:-1 tvg-id="Матч! HD" tvg-name="Матч! HD" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 tvg-id="Матч! Премьер" tvg-name="Матч! Премьер" tvg-logo="https://epg.iptvx.one/picons/match-premiere.png" group-title="Спортивные",Матч! Премьер
+http://315e5a5d.ottrast.com/iptv/PXXFGKYYT6PCZA/531/index.m3u8
+#EXTINF:-1 tvg-id="Матч! Футбол 1 HD" tvg-name="Матч! Футбол 1 HD" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спортивные",Матч! Футбол 1 HD
+http://315e5a5d.ottrast.com/iptv/PXXFGKYYT6PCZA/124/index.m3u8
+#EXTINF:-1 tvg-id="Матч! Футбол 2 HD" tvg-name="Матч! Футбол 2 HD" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="Спортивные",Матч! Футбол 2 HD
+http://315e5a5d.ottrast.com/iptv/PXXFGKYYT6PCZA/211/index.m3u8
 #EXTINF:-1 tvg-id="Матч! Футбол 3 HD" tvg-name="Матч! Футбол 3 HD" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="Матч!ТВ" tvg-name="Матч!ТВ" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!ТВ
@@ -783,6 +795,8 @@ https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/varian
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1 tvg-id="Ночи Президента" tvg-name="Ночи Президента" tvg-logo="" group-title="XXX 18+",Ночи Президента
 https://video1.tizam.cc/files/2434264/les_nuits_de_la_presidente.mp4
+#EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ
+http://tv.ttk.mx:9003
 #EXTINF:-1 tvg-id="НТВ +1" tvg-name="НТВ +1" tvg-logo="https://epg.iptvx.one/picons/ntv-pl1.png" group-title="Будущее",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="НТВ +2" tvg-name="НТВ +2" tvg-logo="https://epg.iptvx.one/picons/ntv-pl2.png" group-title="Будущее",НТВ +2
@@ -999,8 +1013,6 @@ https://sitv.ru/vgtrk/stv.m3u8
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="Сапфир" tvg-name="Сапфир" tvg-logo="https://epg.iptvx.one/picons/sapfir.png" group-title="Фильмы и сериалы",Сапфир
 http://77.232.131.211/Sapfir/manifest.m3u8
-#EXTINF:-1 tvg-id="Саров 24 HD" tvg-name="Саров 24 HD" tvg-logo="https://iptvx.one/picons/sarov-24.png" group-title="Региональные",Саров 24 HD
-http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Своё ТВ Ставрополь" tvg-name="Своё ТВ Ставрополь" tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="Региональные",Своё ТВ Ставрополь
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Сделаю Всё - Только Не звони Копам!" tvg-name="Сделаю Всё - Только Не звони Копам!" tvg-logo="" group-title="XXX 18+",Сделаю Всё - Только Не звони Копам!
