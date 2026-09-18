@@ -155,8 +155,6 @@ http://kinowalk.hopto.org/selecaotv1_live
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 tvg-id="Setanta Sports" tvg-name="Setanta Sports" tvg-logo="https://epg.iptvx.one/picons/setanta-sports.png" group-title="Спортивные",Setanta Sports
 http://315e5a5d.ottrast.com/iptv/PXXFGKYYT6PCZA/6543/index.m3u8
-#EXTINF:-1 tvg-id="Setanta Sports 1 Eurasia" tvg-name="Setanta Sports 1 Eurasia" tvg-logo="https://i.imgur.com/8ANUZAu.png" group-title="Спортивные",Setanta Sports 1 Eurasia
-http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 tvg-id="Setanta Sports 2" tvg-name="Setanta Sports 2" tvg-logo="https://epg.iptvx.one/picons/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2
 http://315e5a5d.ottrast.com/iptv/PXXFGKYYT6PCZA/270/index.m3u8
 #EXTINF:-1 tvg-id="Setanta Sports 2 Eurasia" tvg-name="Setanta Sports 2 Eurasia" tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="Спортивные",Setanta Sports 2 Eurasia
@@ -911,8 +909,6 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 https://video2.tizam.cc/files/1648990/printsessy_mafii.mp4
 #EXTINF:-1 tvg-id="ПРНК" tvg-name="ПРНК" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="Общественные",ПРНК
 http://serv25.vintera.tv:8081/1pnk/prnk/playlist.m3u8
-#EXTINF:-1 tvg-id="Про бизнес" tvg-name="Про бизнес" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Новости",Про бизнес
-https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Про Любовь HD" tvg-name="Про Любовь HD" tvg-logo="https://i.imgur.com/QpIGAT0.png" group-title="Фильмы и сериалы",Про Любовь HD
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 tvg-id="Продвижение" tvg-name="Продвижение" tvg-logo="https://iptvx.one/picons/prodvizhenie.png" group-title="Развлекательные",Продвижение
