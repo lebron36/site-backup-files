@@ -88,7 +88,7 @@ http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 tvg-id="KTK HD" tvg-name="KTK HD" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="Фильмы и сериалы",KTK HD
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 tvg-id="Kulinar TV" tvg-name="Kulinar TV" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="Досуг",Kulinar TV
-https://api.alpaca.t62a.com/hls/9110/index.m3u8
+https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-id="Match!" tvg-name="Match!" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Спортивные",Match!
 http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="Maximum" tvg-name="Maximum" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-maximum.jpg" group-title="Радио",Maximum
@@ -231,6 +231,8 @@ https://video2.tizam.cc/files/2102634/annina__besedy_o_sekse.mp4
 https://video2.tizam.cc/files/2379645/annina_superzvezda___annina_superstar.mp4
 #EXTINF:-1 tvg-id="Антидевственница" tvg-name="Антидевственница" tvg-logo="" group-title="XXX 18+",Антидевственница
 https://video1.tizam.cc/films/VirginWhore.mp4
+#EXTINF:-1 tvg-id="Арис 24" tvg-name="Арис 24" tvg-logo="https://epg.iptvx.one/picons/aris24.png" group-title="Региональные",Арис 24
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=92J55630qJZPz9iiIJZpVw&e=2076071194&scheme=https
 #EXTINF:-1 tvg-id="Аромат Матильды" tvg-name="Аромат Матильды" tvg-logo="" group-title="XXX 18+",Аромат Матильды
 https://video1.tizam.cc/old_films/aromat_matil_dy.mp4
 #EXTINF:-1 tvg-id="Архыз 24" tvg-name="Архыз 24" tvg-logo="https://iptvx.one/picons/arxyz24.png" group-title="Региональные",Архыз 24
@@ -577,6 +579,8 @@ https://video2.tizam.cc/films/LACOLLECTIONNEUSE.mp4
 https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Командный Игрок" tvg-name="Командный Игрок" tvg-logo="" group-title="XXX 18+",Командный Игрок
 https://video3.tizam.cc/films/team-player.mp4
+#EXTINF:-1 tvg-id="Конгресс ТВ" tvg-name="Конгресс ТВ" tvg-logo="https://epg.iptvx.one/picons/kongresstv.png" group-title="Общественные",Конгресс ТВ
+http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="Королева ночи" tvg-name="Королева ночи" tvg-logo="" group-title="XXX 18+",Королева ночи
 https://video1.tizam.cc/films/DrugQueen.mp4
 #EXTINF:-1 tvg-id="Королева слонов 2 Сахара" tvg-name="Королева слонов 2 Сахара" tvg-logo="" group-title="XXX 18+",Королева слонов 2 Сахара
