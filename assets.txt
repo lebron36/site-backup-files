@@ -857,6 +857,8 @@ http://stream.mcquack.net/214/index.m3u8
 https://vd.obltv.ru/watch/air_hd.m3u8
 #EXTINF:-1 tvg-id="ОТР" tvg-name="ОТР" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 tvg-id="ОТР*" tvg-name="ОТР*" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР*
+http://31.131.141.195:8000/play/1090/index.m3u8
 #EXTINF:-1 tvg-id="Охота и рыбалка HD" tvg-name="Охота и рыбалка HD" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="Досуг",Охота и рыбалка HD
 https://stream8.cinerama.uz/1038/index.m3u8
 #EXTINF:-1 tvg-id="Охотник и рыболов" tvg-name="Охотник и рыболов" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="Досуг",Охотник и рыболов
@@ -1005,8 +1007,6 @@ https://sitv.ru/vgtrk/stv.m3u8
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="Сапфир" tvg-name="Сапфир" tvg-logo="https://epg.iptvx.one/picons/sapfir.png" group-title="Фильмы и сериалы",Сапфир
 http://77.232.131.211/Sapfir/manifest.m3u8
-#EXTINF:-1 tvg-id="Саров 24 HD" tvg-name="Саров 24 HD" tvg-logo="https://iptvx.one/picons/sarov-24.png" group-title="Региональные",Саров 24 HD
-http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Своё ТВ Ставрополь" tvg-name="Своё ТВ Ставрополь" tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="Региональные",Своё ТВ Ставрополь
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Сделаю Всё - Только Не звони Копам!" tvg-name="Сделаю Всё - Только Не звони Копам!" tvg-logo="" group-title="XXX 18+",Сделаю Всё - Только Не звони Копам!
@@ -1243,6 +1243,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="Югра" tvg-name="Югра" tvg-logo="https://iptvx.one/picons/yugra.png" group-title="Региональные",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
+http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
 #EXTINF:-1 tvg-id="Якутия 24" tvg-name="Якутия 24" tvg-logo="https://epg.iptvx.one/picons/yakutia24.png" group-title="Региональные",Якутия 24
