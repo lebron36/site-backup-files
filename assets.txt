@@ -111,8 +111,6 @@ http://stream.mcquack.net/455/index.m3u8
 https://video1.tizam.cc/films/PrivateMovies41FuckyNewYear.mp4
 #EXTINF:-1 tvg-id="Private Film 25 Apocalypse Climax" tvg-name="Private Film 25 Apocalypse Climax" tvg-logo="" group-title="XXX 18+",Private Film 25 Apocalypse Climax
 https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
-#EXTINF:-1 tvg-id="Qazaqstan International" tvg-name="Qazaqstan International" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Новости",Qazaqstan International
-https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="QazSport" tvg-name="QazSport" tvg-logo="https://epg.iptvx.one/picons/kazsport.png" group-title="Спортивные",QazSport
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 tvg-id="RAZ 1" tvg-name="RAZ 1" tvg-logo="https://epg.iptvx.one/picons/raz1.png" group-title="Развлекательные",RAZ 1
@@ -163,6 +161,8 @@ https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Start Air" tvg-name="Start Air" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="Фильмы и сериалы",Start Air
 http://stream.mcquack.net/128/index.m3u8
+#EXTINF:-1 tvg-id="TLC Finland" tvg-name="TLC Finland" tvg-logo="https://i.imgur.com/0d5hP3A.png" group-title="Развлекательные",TLC Finland
+https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="Turkmenistan Sport" tvg-name="Turkmenistan Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814" group-title="Спортивные",Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="TV 21 International" tvg-name="TV 21 International" tvg-logo="https://ibb.co/BH6CZx3K" group-title="Фильмы и сериалы",TV 21 International
@@ -253,8 +253,6 @@ https://video1.tizam.cc/films/Dreams-Of-A-Gigolo.mp4
 https://s1.gtrkrb.ru/540/b24-540.m3u8
 #EXTINF:-1 tvg-id="Беглянка 2" tvg-name="Беглянка 2" tvg-logo="" group-title="XXX 18+",Беглянка 2
 https://video1.tizam.cc/old_films/The-Fugitive-2.mp4
-#EXTINF:-1 tvg-id="Беларусь 1 HD" tvg-name="Беларусь 1 HD" tvg-logo="https://iptvx.one/picons/belarus1hd.png" group-title="Беларусь",Беларусь 1 HD
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
 #EXTINF:-1 tvg-id="Беларусь 2 HD" tvg-name="Беларусь 2 HD" tvg-logo="https://iptvx.one/picons/belarus2hd.png" group-title="Беларусь",Беларусь 2 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="Беларусь 24" tvg-name="Беларусь 24" tvg-logo="https://iptvx.one/picons/belarus24.png" group-title="Беларусь",Беларусь 24
@@ -680,7 +678,7 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/531/index.m3u8
 #EXTINF:-1 tvg-id="Матч! Футбол 1 HD" tvg-name="Матч! Футбол 1 HD" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/222/index.m3u8
 #EXTINF:-1 tvg-id="Матч! Футбол 2 HD" tvg-name="Матч! Футбол 2 HD" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="Спортивные",Матч! Футбол 2 HD
-http://315e5a5d.ottrast.com/iptv/3KZ2W9GEEY49ZV/530/index.m3u8
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/530/index.m3u8
 #EXTINF:-1 tvg-id="Матч! Футбол 3 HD" tvg-name="Матч! Футбол 3 HD" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спортивные",Матч! Футбол 3 HD
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="Матч!ТВ" tvg-name="Матч!ТВ" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!ТВ
@@ -977,8 +975,6 @@ https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_RD_ROSTOVPAPA/variant
 https://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:-1 tvg-id="Русская комедия" tvg-name="Русская комедия" tvg-logo="https://epg.iptvx.one/picons/russkaya-komedia.png" group-title="Фильмы и сериалы",Русская комедия
 http://stream.mcquack.net/68/index.m3u8
-#EXTINF:-1 tvg-id="Русский бестселлер" tvg-name="Русский бестселлер" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="Фильмы и сериалы",Русский бестселлер
-http://stream.mcquack.net/208/index.m3u8
 #EXTINF:-1 tvg-id="Русский детектив" tvg-name="Русский детектив" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Фильмы и сериалы",Русский детектив
 http://stream.mcquack.net/204/index.m3u8
 #EXTINF:-1 tvg-id="Русский институт 4" tvg-name="Русский институт 4" tvg-logo="" group-title="XXX 18+",Русский институт 4
@@ -1041,8 +1037,6 @@ https://cityeden.catcast.tv/content/40783/index.m3u8
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем КиноЭкшен" tvg-name="Сити Эдем КиноЭкшен" tvg-logo="https://i.imgur.com/uuzuvD0.png" group-title="Сити Эдем",Сити Эдем КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-id="Сити Эдем Классическая Музыка" tvg-name="Сити Эдем Классическая Музыка" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Сити Эдем",Сити Эдем Классическая Музыка
-https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем МедЗдрав" tvg-name="Сити Эдем МедЗдрав" tvg-logo="https://i.imgur.com/BM4E0Kr.png" group-title="Сити Эдем",Сити Эдем МедЗдрав
 https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем Сиртаки ТВ" tvg-name="Сити Эдем Сиртаки ТВ" tvg-logo="https://i.imgur.com/V3MTfyc.png" group-title="Сити Эдем",Сити Эдем Сиртаки ТВ
@@ -1241,8 +1235,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="Югра" tvg-name="Югра" tvg-logo="https://iptvx.one/picons/yugra.png" group-title="Региональные",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
-http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
 #EXTINF:-1 tvg-id="Якутия 24" tvg-name="Якутия 24" tvg-logo="https://epg.iptvx.one/picons/yakutia24.png" group-title="Региональные",Якутия 24
