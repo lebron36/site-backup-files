@@ -641,6 +641,8 @@ https://video2.tizam.cc/files/2299565/lesbiyanki_v_tropikah___lesbians_in_the_tr
 https://video2.tizam.cc/films/letnij_veter1997.mp4
 #EXTINF:-1 tvg-id="Лили" tvg-name="Лили" tvg-logo="" group-title="XXX 18+",Лили
 https://video2.tizam.cc/films/Lilly-1997.mp4
+#EXTINF:-1 tvg-id="Липецкое время" tvg-name="Липецкое время" tvg-logo="https://iptvx.one/picons/lipeckoe-vremia.png" group-title="Региональные",Липецкое время
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
 #EXTINF:-1 tvg-id="Личная жизнь Лизы Хоней" tvg-name="Личная жизнь Лизы Хоней" tvg-logo="" group-title="XXX 18+",Личная жизнь Лизы Хоней
 https://video1.tizam.cc/old_films/ThePrivateLifeoflizHoneyrus.mp4
 #EXTINF:-1 tvg-id="Личная Жизнь Мерседес" tvg-name="Личная Жизнь Мерседес" tvg-logo="" group-title="XXX 18+",Личная Жизнь Мерседес
@@ -1243,8 +1245,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="Югра" tvg-name="Югра" tvg-logo="https://iptvx.one/picons/yugra.png" group-title="Региональные",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
-http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
 #EXTINF:-1 tvg-id="Якутия 24" tvg-name="Якутия 24" tvg-logo="https://epg.iptvx.one/picons/yakutia24.png" group-title="Региональные",Якутия 24
