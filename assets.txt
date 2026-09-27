@@ -90,7 +90,7 @@ http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 tvg-id="KTK HD" tvg-name="KTK HD" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="Фильмы и сериалы",KTK HD
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 tvg-id="Kulinar TV" tvg-name="Kulinar TV" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="Досуг",Kulinar TV
-https://api.alpaca.t62a.com/hls/9110/index.m3u8
+https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-id="Match!" tvg-name="Match!" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Спортивные",Match!
 http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="Maximum" tvg-name="Maximum" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-maximum.jpg" group-title="Радио",Maximum
@@ -111,6 +111,8 @@ http://stream.mcquack.net/492/index.m3u8
 https://video1.tizam.cc/films/PrivateMovies41FuckyNewYear.mp4
 #EXTINF:-1 tvg-id="Private Film 25 Apocalypse Climax" tvg-name="Private Film 25 Apocalypse Climax" tvg-logo="" group-title="XXX 18+",Private Film 25 Apocalypse Climax
 https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
+#EXTINF:-1 tvg-id="Qazaqstan International" tvg-name="Qazaqstan International" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Новости",Qazaqstan International
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="QazSport" tvg-name="QazSport" tvg-logo="https://epg.iptvx.one/picons/kazsport.png" group-title="Спортивные",QazSport
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 tvg-id="RAZ 1" tvg-name="RAZ 1" tvg-logo="https://epg.iptvx.one/picons/raz1.png" group-title="Развлекательные",RAZ 1
@@ -789,6 +791,8 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
 #EXTINF:-1 tvg-id="Ночи Президента" tvg-name="Ночи Президента" tvg-logo="" group-title="XXX 18+",Ночи Президента
 https://video1.tizam.cc/files/2434264/les_nuits_de_la_presidente.mp4
+#EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ
+http://tv.ttk.mx:9003
 #EXTINF:-1 tvg-id="НТВ +1" tvg-name="НТВ +1" tvg-logo="https://epg.iptvx.one/picons/ntv-pl1.png" group-title="Будущее",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="НТВ +2" tvg-name="НТВ +2" tvg-logo="https://epg.iptvx.one/picons/ntv-pl2.png" group-title="Будущее",НТВ +2
@@ -1071,8 +1075,6 @@ https://video1.tizam.cc/vk/tattle_tale.mp4
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Страна FM" tvg-name="Страна FM" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыкальные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="СТРК" tvg-name="СТРК" tvg-logo="https://iptvx.one/picons/strk.png" group-title="Развлекательные",СТРК
-https://s19.24h.tv/hlsjwt/5dd6200fc6499c4bb6ff60c9de54d9a79398bd59-3970-0-24h2007606310-1-1113217938-1790460664-e128-MOwgwwMvUEwwWEemCETPct2YBDjG_dGK9Z4BbvoUdcw/index.m3u8?ml=true
 #EXTINF:-1 tvg-id="СТС" tvg-name="СТС" tvg-logo="https://epg.iptvx.one/picons/sts.png" group-title="Развлекательные",СТС
 http://stream.mcquack.net/138/index.m3u8
 #EXTINF:-1 tvg-id="СТС (+2)" tvg-name="СТС (+2)" tvg-logo="https://epg.iptvx.one/picons/sts-pl2.png" group-title="Будущее",СТС (+2)
