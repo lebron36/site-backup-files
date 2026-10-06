@@ -75,6 +75,8 @@ http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="HollywooD HD" tvg-name="HollywooD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",HollywooD HD
 https://stream8.cinerama.uz/1443/index.m3u8
+#EXTINF:-1 tvg-id="Horror TV" tvg-name="Horror TV" tvg-logo="https://epg.iptvx.one/picons/horrortv.png" group-title="Фильмы и сериалы",Horror TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
 #EXTINF:-1 tvg-id="KHL" tvg-name="KHL" tvg-logo="https://epg.iptvx.one/picons/kxl.png" group-title="Спортивные",KHL
 https://stream8.cinerama.uz/1422/index.m3u8
 #EXTINF:-1 tvg-id="KHL Prime" tvg-name="KHL Prime" tvg-logo="https://epg.iptvx.one/picons/kxl-hd.png" group-title="Спортивные",KHL Prime
@@ -943,6 +945,8 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_URAL_CHEL/varian
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 tvg-id="РЕН ТВ HD" tvg-name="РЕН ТВ HD" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Общественные",РЕН ТВ HD
 http://194.152.35.17/ren_tv/index.m3u8
+#EXTINF:-1 tvg-id="Рен ТВ International" tvg-name="Рен ТВ International" tvg-logo="https://epg.iptvx.one/picons/rentv-int.png" group-title="Общественные",Рен ТВ International
+http://fs.uplink.kz/ren/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Ретро" tvg-name="Ретро" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Фильмы и сериалы",Ретро
 https://stream8.cinerama.uz/1047/index.m3u8
 #EXTINF:-1 tvg-id="Родное кино" tvg-name="Родное кино" tvg-logo="https://epg.iptvx.one/picons/rodnoe-kino.png" group-title="Фильмы и сериалы",Родное кино
