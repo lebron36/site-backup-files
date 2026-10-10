@@ -90,7 +90,7 @@ http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 tvg-id="KTK HD" tvg-name="KTK HD" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="Фильмы и сериалы",KTK HD
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 tvg-id="Kulinar TV" tvg-name="Kulinar TV" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="Досуг",Kulinar TV
-https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:-1 tvg-id="Match!" tvg-name="Match!" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Спортивные",Match!
 http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="Maximum" tvg-name="Maximum" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-maximum.jpg" group-title="Радио",Maximum
@@ -273,6 +273,8 @@ https://video2.tizam.cc/files/1601021/belye_devushki__18_let__s_chyornymi_parnya
 https://video1.tizam.cc/old_films/WITHOUT_LIMIT_02.mp4
 #EXTINF:-1 tvg-id="Блокбастер HD" tvg-name="Блокбастер HD" tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="Премьеры и хиты",Блокбастер HD
 http://stream.mcquack.net/364/index.m3u8
+#EXTINF:-1 tvg-id="Бобер HD" tvg-name="Бобер HD" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Досуг",Бобер HD
+https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Божественное удовольствие" tvg-name="Божественное удовольствие" tvg-logo="" group-title="XXX 18+",Божественное удовольствие
 https://video1.tizam.cc/films/GottinnenDerLust.mp4
 #EXTINF:-1 tvg-id="Большая Азия" tvg-name="Большая Азия" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия
@@ -407,6 +409,8 @@ https://video1.tizam.cc/files/2437329/welcome_to_boobsville__rus.mp4
 https://stream8.cinerama.uz/1409/index.m3u8
 #EXTINF:-1 tvg-id="Дом кино" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Фильмы и сериалы",Дом кино
 https://stream8.cinerama.uz/1054/index.m3u8
+#EXTINF:-1 tvg-id="Дом кино International" tvg-name="Дом кино International" tvg-logo="https://epg.iptvx.one/picons/domkino.png" group-title="Фильмы и сериалы",Дом кино International
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Дом Кино Премиум HD" tvg-name="Дом Кино Премиум HD" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Фильмы и сериалы",Дом Кино Премиум HD
 http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-id="Дом любви" tvg-name="Дом любви" tvg-logo="" group-title="XXX 18+",Дом любви
@@ -423,6 +427,8 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_EKT/variant.m3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
 #EXTINF:-1 tvg-id="Домашний +7" tvg-name="Домашний +7" tvg-logo="https://epg.iptvx.one/picons/domashny-pl7.png" group-title="Будущее",Домашний +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:-1 tvg-id="Домашний International" tvg-name="Домашний International" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Общественные",Домашний International
+http://fs.uplink.kz/domashniy/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Дон Сальваторе" tvg-name="Дон Сальваторе" tvg-logo="" group-title="XXX 18+",Дон Сальваторе
 https://video2.tizam.cc/files/1587676/don_salvatore_1995.mp4
 #EXTINF:-1 tvg-id="Дорогая Эбби" tvg-name="Дорогая Эбби" tvg-logo="" group-title="XXX 18+",Дорогая Эбби
@@ -579,8 +585,6 @@ https://video2.tizam.cc/films/LACOLLECTIONNEUSE.mp4
 https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Командный Игрок" tvg-name="Командный Игрок" tvg-logo="" group-title="XXX 18+",Командный Игрок
 https://video3.tizam.cc/films/team-player.mp4
-#EXTINF:-1 tvg-id="Конгресс ТВ" tvg-name="Конгресс ТВ" tvg-logo="https://epg.iptvx.one/picons/kongresstv.png" group-title="Общественные",Конгресс ТВ
-http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="Королева ночи" tvg-name="Королева ночи" tvg-logo="" group-title="XXX 18+",Королева ночи
 https://video1.tizam.cc/films/DrugQueen.mp4
 #EXTINF:-1 tvg-id="Королева слонов 2 Сахара" tvg-name="Королева слонов 2 Сахара" tvg-logo="" group-title="XXX 18+",Королева слонов 2 Сахара
