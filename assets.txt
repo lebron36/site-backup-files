@@ -90,7 +90,7 @@ http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 tvg-id="KTK HD" tvg-name="KTK HD" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="Фильмы и сериалы",KTK HD
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 tvg-id="Kulinar TV" tvg-name="Kulinar TV" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="Досуг",Kulinar TV
-https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:-1 tvg-id="Match!" tvg-name="Match!" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Спортивные",Match!
 http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="Maximum" tvg-name="Maximum" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-maximum.jpg" group-title="Радио",Maximum
@@ -111,6 +111,8 @@ http://stream.mcquack.net/492/index.m3u8
 https://video1.tizam.cc/films/PrivateMovies41FuckyNewYear.mp4
 #EXTINF:-1 tvg-id="Private Film 25 Apocalypse Climax" tvg-name="Private Film 25 Apocalypse Climax" tvg-logo="" group-title="XXX 18+",Private Film 25 Apocalypse Climax
 https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
+#EXTINF:-1 tvg-id="Qazaqstan International" tvg-name="Qazaqstan International" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Новости",Qazaqstan International
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="QazSport" tvg-name="QazSport" tvg-logo="https://epg.iptvx.one/picons/kazsport.png" group-title="Спортивные",QazSport
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 tvg-id="RAZ 1" tvg-name="RAZ 1" tvg-logo="https://epg.iptvx.one/picons/raz1.png" group-title="Развлекательные",RAZ 1
@@ -1041,6 +1043,10 @@ https://cityeden.catcast.tv/content/47519/index.m3u8
 https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 tvg-id="Слайд" tvg-name="Слайд" tvg-logo="" group-title="XXX 18+",Слайд
 https://video3.tizam.cc/films/slide1.mp4
+#EXTINF:-1 tvg-id="Смотрим Кино и сериалы" tvg-name="Смотрим Кино и сериалы" tvg-logo="" group-title="Кинозалы",Смотрим Кино и сериалы
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Смотрим Кино и сериалы*" tvg-name="Смотрим Кино и сериалы*" tvg-logo="" group-title="Кинозалы",Смотрим Кино и сериалы*
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="Советское кино" tvg-name="Советское кино" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="Фильмы и сериалы",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 tvg-id="Солнце" tvg-name="Солнце" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Детские",Солнце
@@ -1115,26 +1121,12 @@ http://194.152.35.17/tv-3/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="Твоё ТВ - Юмор v2" tvg-name="Твоё ТВ - Юмор v2" tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ",Твоё ТВ - Юмор v2
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
-#EXTINF:-1 tvg-id="Твоё ТВ - Юмор v3" tvg-name="Твоё ТВ - Юмор v3" tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ",Твоё ТВ - Юмор v3
-https://tvoetv.space/tvoetv_humor/mpegts
-#EXTINF:-1 tvg-id="Твоё ТВ - Юмор v4" tvg-name="Твоё ТВ - Юмор v4" tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ",Твоё ТВ - Юмор v4
-https://tvoetv.space/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-id="Твоё ТВ - Юмор v5" tvg-name="Твоё ТВ - Юмор v5" tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png" group-title="Твоё ТВ",Твоё ТВ - Юмор v5
-https://tvoetv.space/tvoetv_humor/video.m3u8
 #EXTINF:-1 tvg-id="Твоё ТВ HD v1" tvg-name="Твоё ТВ HD v1" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v1
 http://tvoetv.space:8080/tvoetv/mpegts?token=MkP9_m4vd1
 #EXTINF:-1 tvg-id="Твоё ТВ HD v2" tvg-name="Твоё ТВ HD v2" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v2
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="Твоё ТВ HD v3" tvg-name="Твоё ТВ HD v3" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v3
 http://tvoetv.space:8080/tvoetv/video.m3u8
-#EXTINF:-1 tvg-id="Твоё ТВ HD v4" tvg-name="Твоё ТВ HD v4" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v4
-https://tvoetv.space/tvoetv/mpegts
-#EXTINF:-1 tvg-id="Твоё ТВ HD v5" tvg-name="Твоё ТВ HD v5" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v5
-https://tvoetv.space/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="Твоё ТВ HD v6" tvg-name="Твоё ТВ HD v6" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v6
-https://tvoetv.space/tvoetv/video.m3u8
-#EXTINF:-1 tvg-id="Твоё ТВ HD v7" tvg-name="Твоё ТВ HD v7" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v7
-https://tvoetv.space/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ТВЦ" tvg-name="ТВЦ" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общественные",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Театр" tvg-name="Театр" tvg-logo="https://iptvx.one/picons/teatr.png" group-title="Развлекательные",Театр
