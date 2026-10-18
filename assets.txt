@@ -107,8 +107,6 @@ https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
 https://video1.tizam.cc/films/PrivateMovies41FuckyNewYear.mp4
 #EXTINF:-1 tvg-id="Private Film 25 Apocalypse Climax" tvg-name="Private Film 25 Apocalypse Climax" tvg-logo="" group-title="XXX 18+",Private Film 25 Apocalypse Climax
 https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
-#EXTINF:-1 tvg-id="Qazaqstan International" tvg-name="Qazaqstan International" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Новости",Qazaqstan International
-https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="RAZ 1" tvg-name="RAZ 1" tvg-logo="https://epg.iptvx.one/picons/raz1.png" group-title="Развлекательные",RAZ 1
 http://stream.mcquack.net/463/index.m3u8
 #EXTINF:-1 tvg-id="RAZ 2" tvg-name="RAZ 2" tvg-logo="https://epg.iptvx.one/picons/raz2.png" group-title="Развлекательные",RAZ 2
@@ -117,14 +115,6 @@ http://stream.mcquack.net/464/index.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-id="Retrovision" tvg-name="Retrovision" tvg-logo="" group-title="Кинозалы",Retrovision
 https://lbgo.bozztv.com/07/ushba-rvision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Retrovision Classic" tvg-name="Retrovision Classic" tvg-logo="" group-title="Кинозалы",Retrovision Classic
-https://lbgo.bozztv.com/07/ushba-rvisionclassic/index.m3u8
-#EXTINF:-1 tvg-id="Retrovision Motor" tvg-name="Retrovision Motor" tvg-logo="" group-title="Кинозалы",Retrovision Motor
-https://lbgo.bozztv.com/07/ushba-rvisionmotor/index.m3u8
-#EXTINF:-1 tvg-id="Retrovision Movies" tvg-name="Retrovision Movies" tvg-logo="" group-title="Кинозалы",Retrovision Movies
-https://lbgo.bozztv.com/07/ushba-rvisionmovies/index.m3u8
-#EXTINF:-1 tvg-id="Retrovision Кинопанорама" tvg-name="Retrovision Кинопанорама" tvg-logo="" group-title="Кинозалы",Retrovision Кинопанорама
-https://lbgo.bozztv.com/07/ushba-rvisionkinopanorama/index.m3u8
 #EXTINF:-1 tvg-id="RTG TV" tvg-name="RTG TV" tvg-logo="https://epg.iptvx.one/picons/rtg-tv.png" group-title="Познавательные",RTG TV
 http://stream.mcquack.net/164/index.m3u8
 #EXTINF:-1 tvg-id="RTVI" tvg-name="RTVI" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Общественные",RTVI
@@ -665,8 +655,6 @@ http://315e5a5d.ottrast.com/iptv/PXXFGKYYT6PCZA/522/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-id="Мать и Дочь" tvg-name="Мать и Дочь" tvg-logo="" group-title="XXX 18+",Мать и Дочь
 https://video1.tizam.cc/files/2469437/une_mere_et_sa_fille__mother_and_daughter__versiya_hd.mp4
-#EXTINF:-1 tvg-id="Маша и Медведь" tvg-name="Маша и Медведь" tvg-logo="https://epg.iptvx.one/picons/kernel-mashaimedved.png" group-title="Детские",Маша и Медведь
-https://lbgo.bozztv.com/07/ushba79/index.m3u8
 #EXTINF:-1 tvg-id="Медсестры Без Трусиков" tvg-name="Медсестры Без Трусиков" tvg-logo="" group-title="XXX 18+",Медсестры Без Трусиков
 https://video1.tizam.cc/new_films/Infirmieres-Sans-Culotte.mp4
 #EXTINF:-1 tvg-id="Межрасовые Встречи" tvg-name="Межрасовые Встречи" tvg-logo="" group-title="XXX 18+",Межрасовые Встречи
@@ -725,8 +713,6 @@ http://stream.mcquack.net/153/index.m3u8
 http://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
 #EXTINF:-1 tvg-id="Мультиландия" tvg-name="Мультиландия" tvg-logo="https://epg.iptvx.one/picons/multimania.png" group-title="Детские",Мультиландия
 https://stream8.cinerama.uz/1440/index.m3u8
-#EXTINF:-1 tvg-id="Мультфильмы" tvg-name="Мультфильмы" tvg-logo="" group-title="Детские",Мультфильмы
-https://lbgo.bozztv.com/07/ushba80/index.m3u8
 #EXTINF:-1 tvg-id="На Диване" tvg-name="На Диване" tvg-logo="" group-title="XXX 18+",На Диване
 https://video1.tizam.cc/films/On-The-Couch.mp4
 #EXTINF:-1 tvg-id="Наездница" tvg-name="Наездница" tvg-logo="" group-title="XXX 18+",Наездница
@@ -767,8 +753,6 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
 #EXTINF:-1 tvg-id="Ночи Президента" tvg-name="Ночи Президента" tvg-logo="" group-title="XXX 18+",Ночи Президента
 https://video1.tizam.cc/files/2434264/les_nuits_de_la_presidente.mp4
-#EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ
-http://tv.ttk.mx:9003
 #EXTINF:-1 tvg-id="НТВ +1" tvg-name="НТВ +1" tvg-logo="https://epg.iptvx.one/picons/ntv-pl1.png" group-title="Будущее",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="НТВ +2" tvg-name="НТВ +2" tvg-logo="https://epg.iptvx.one/picons/ntv-pl2.png" group-title="Будущее",НТВ +2
@@ -1141,6 +1125,8 @@ https://stream8.cinerama.uz/1037/index.m3u8
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ТНВ Планета" tvg-name="ТНВ Планета" tvg-logo="https://epg.iptvx.one/picons/tnv.png" group-title="Региональные",ТНВ Планета
 http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ТНВ Татарстан" tvg-name="ТНВ Татарстан" tvg-logo="https://epg.iptvx.one/picons/tnv-tat.png" group-title="Региональные",ТНВ Татарстан
+http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 tvg-id="ТНТ (+2)" tvg-name="ТНТ (+2)" tvg-logo="https://epg.iptvx.one/picons/tnt-pl2.png" group-title="Будущее",ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 tvg-id="ТНТ (+4)" tvg-name="ТНТ (+4)" tvg-logo="https://epg.iptvx.one/picons/tnt-pl4.png" group-title="Будущее",ТНТ (+4)
