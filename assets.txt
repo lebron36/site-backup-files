@@ -13,8 +13,6 @@ http://176.118.197.101/1HD/index.m3u8
 https://video2.tizam.cc/files/2398713/2040__2009.mp4
 #EXTINF:-1 tvg-id="2x2" tvg-name="2x2" tvg-logo="https://iptvx.one/picons/2na2.png" group-title="Развлекательные",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 tvg-id="360" tvg-name="360" tvg-logo="https://epg.iptvx.one/picons/360-podmoskovie.png" group-title="Общественные",360
-https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1 tvg-id="360° Новости" tvg-name="360° Новости" tvg-logo="https://iptvx.one/picons/360-news.png" group-title="Новости",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-id="365 Дней ТВ" tvg-name="365 Дней ТВ" tvg-logo="https://iptvx.one/picons/365-dnej.png" group-title="Познавательные",365 Дней ТВ
@@ -473,8 +471,6 @@ https://video2.tizam.cc/files/2290340/hitrost__s_russkim_perevodom.mp4
 https://video1.tizam.cc/old_films/AlteredAssholes3.mp4
 #EXTINF:-1 tvg-id="Икскалибур 2" tvg-name="Икскалибур 2" tvg-logo="" group-title="XXX 18+",Икскалибур 2
 https://video2.tizam.cc/files/1665118/ikskalibur__povelitel_seksa_2_1cd.mp4
-#EXTINF:-1 tvg-id="Иллюзион+ HD" tvg-name="Иллюзион+ HD" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="Фильмы и сериалы",Иллюзион+ HD
-http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 tvg-id="Империя чувств" tvg-name="Империя чувств" tvg-logo="" group-title="XXX 18+",Империя чувств
 https://video1.tizam.cc/old_films/Pure_iperiya_uvstv.mp4
 #EXTINF:-1 tvg-id="Индийское кино" tvg-name="Индийское кино" tvg-logo="https://epg.iptvx.one/picons/indijskoe-kino.png" group-title="Фильмы и сериалы",Индийское кино
@@ -763,8 +759,6 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
 #EXTINF:-1 tvg-id="Ночи Президента" tvg-name="Ночи Президента" tvg-logo="" group-title="XXX 18+",Ночи Президента
 https://video1.tizam.cc/files/2434264/les_nuits_de_la_presidente.mp4
-#EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ
-http://tv.ttk.mx:9003
 #EXTINF:-1 tvg-id="НТВ +1" tvg-name="НТВ +1" tvg-logo="https://epg.iptvx.one/picons/ntv-pl1.png" group-title="Будущее",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="НТВ +2" tvg-name="НТВ +2" tvg-logo="https://epg.iptvx.one/picons/ntv-pl2.png" group-title="Будущее",НТВ +2
@@ -947,8 +941,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-id="Ростов-папа HD" tvg-name="Ростов-папа HD" tvg-logo="http://epg.it999.ru/img2/5708.png" group-title="Региональные",Ростов-папа HD
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_RD_ROSTOVPAPA/variant.m3u8
-#EXTINF:-1 tvg-id="РТВ HD" tvg-name="РТВ HD" tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png" group-title="Региональные",РТВ HD
-https://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:-1 tvg-id="Русская комедия" tvg-name="Русская комедия" tvg-logo="https://epg.iptvx.one/picons/russkaya-komedia.png" group-title="Фильмы и сериалы",Русская комедия
 http://stream.mcquack.net/68/index.m3u8
 #EXTINF:-1 tvg-id="Русский бестселлер" tvg-name="Русский бестселлер" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="Фильмы и сериалы",Русский бестселлер
@@ -1035,8 +1027,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-id="Сочи 24" tvg-name="Сочи 24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Союзный" tvg-name="Союзный" tvg-logo="https://epg.iptvx.one/picons/belros.png" group-title="Беларусь",Союзный
-http://souzny.mediacdn.ru/cdn/souzny/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Сплетник" tvg-name="Сплетник" tvg-logo="" group-title="XXX 18+",Сплетник
 https://video1.tizam.cc/vk/tattle_tale.mp4
 #EXTINF:-1 tvg-id="Страна FM" tvg-name="Страна FM" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыкальные",Страна FM
@@ -1161,6 +1151,8 @@ https://video1.tizam.cc/vk/Parties-Fines.mp4
 https://stream8.cinerama.uz/1031/index.m3u8
 #EXTINF:-1 tvg-id="Три парня и одна девушка" tvg-name="Три парня и одна девушка" tvg-logo="" group-title="XXX 18+",Три парня и одна девушка
 https://video3.tizam.cc/films/31-three-guys-on-one-girl.mp4
+#EXTINF:-1 tvg-id="ТСВ" tvg-name="ТСВ" tvg-logo="https://iptvx.one/picons/tcb.png" group-title="Общественные",ТСВ
+https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 tvg-id="Тюменское время" tvg-name="Тюменское время" tvg-logo="https://iptvx.one/picons/tumenskoe-vremia.png" group-title="Региональные",Тюменское время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1 tvg-id="Тётина гостеприимность История Райли Рейес" tvg-name="Тётина гостеприимность История Райли Рейес" tvg-logo="" group-title="XXX 18+",Тётина гостеприимность История Райли Рейес
