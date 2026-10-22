@@ -157,6 +157,8 @@ https://alpha.tv.online.tm/hls/ch004.m3u8
 http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1 tvg-id="TV BRICS" tvg-name="TV BRICS" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Общественные",TV BRICS
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 tvg-id="Ultra" tvg-name="Ultra" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Радио",Ultra
+http://nashe1.hostingradio.ru/ultra-64.mp3
 #EXTINF:-1 tvg-id="Viasat Explore HD" tvg-name="Viasat Explore HD" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Познавательные",Viasat Explore HD
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-id="Viasat History HD" tvg-name="Viasat History HD" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Познавательные",Viasat History HD
@@ -679,6 +681,8 @@ http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
 #EXTINF:-1 tvg-id="Мир 24" tvg-name="Мир 24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="Мир Белогорья" tvg-name="Мир Белогорья" tvg-logo="https://iptvx.one/picons/mir-belogoria.png" group-title="Региональные",Мир Белогорья
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-id="Мир зрелых красоток" tvg-name="Мир зрелых красоток" tvg-logo="" group-title="XXX 18+",Мир зрелых красоток
 https://video1.tizam.cc/old_films/Cougarland.mp4
 #EXTINF:-1 tvg-id="Мир Сериала" tvg-name="Мир Сериала" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="Фильмы и сериалы",Мир Сериала
@@ -757,6 +761,8 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
 #EXTINF:-1 tvg-id="Ночи Президента" tvg-name="Ночи Президента" tvg-logo="" group-title="XXX 18+",Ночи Президента
 https://video1.tizam.cc/files/2434264/les_nuits_de_la_presidente.mp4
+#EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ
+http://tv.ttk.mx:9003
 #EXTINF:-1 tvg-id="НТВ +1" tvg-name="НТВ +1" tvg-logo="https://epg.iptvx.one/picons/ntv-pl1.png" group-title="Будущее",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="НТВ +2" tvg-name="НТВ +2" tvg-logo="https://epg.iptvx.one/picons/ntv-pl2.png" group-title="Будущее",НТВ +2
@@ -1027,8 +1033,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-id="Сочи 24" tvg-name="Сочи 24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Союзный" tvg-name="Союзный" tvg-logo="https://epg.iptvx.one/picons/belros.png" group-title="Беларусь",Союзный
-http://souzny.mediacdn.ru/cdn/souzny/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Сплетник" tvg-name="Сплетник" tvg-logo="" group-title="XXX 18+",Сплетник
 https://video1.tizam.cc/vk/tattle_tale.mp4
 #EXTINF:-1 tvg-id="Страна FM" tvg-name="Страна FM" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыкальные",Страна FM
