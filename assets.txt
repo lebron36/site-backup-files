@@ -795,8 +795,6 @@ http://194.158.222.36:6107
 http://stream.mcquack.net/389/index.m3u8
 #EXTINF:-1 tvg-id="НТРК Ингушетия" tvg-name="НТРК Ингушетия" tvg-logo="https://iptvx.one/picons/ntrk-ingushetia.png" group-title="Региональные",НТРК Ингушетия
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-#EXTINF:-1 tvg-id="НТС Севастополь" tvg-name="НТС Севастополь" tvg-logo="https://iptvx.one/picons/nts-sevastopol.png" group-title="Региональные",НТС Севастополь
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Оближи Мой Огонь" tvg-name="Оближи Мой Огонь" tvg-logo="" group-title="XXX 18+",Оближи Мой Огонь
 https://video2.tizam.cc/files/2306623/oblizhi_moy_ogon_2009.mp4
 #EXTINF:-1 tvg-id="Обман всегда выявляется" tvg-name="Обман всегда выявляется" tvg-logo="" group-title="XXX 18+",Обман всегда выявляется
@@ -863,8 +861,6 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 https://video2.tizam.cc/files/1648990/printsessy_mafii.mp4
 #EXTINF:-1 tvg-id="ПРНК" tvg-name="ПРНК" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="Общественные",ПРНК
 http://serv25.vintera.tv:8081/1pnk/prnk/playlist.m3u8
-#EXTINF:-1 tvg-id="Про бизнес" tvg-name="Про бизнес" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Новости",Про бизнес
-https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Продвижение" tvg-name="Продвижение" tvg-logo="https://iptvx.one/picons/prodvizhenie.png" group-title="Развлекательные",Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 tvg-id="Пятница!" tvg-name="Пятница!" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные",Пятница!
@@ -1111,8 +1107,6 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 https://sitv.ru/hls/s86.m3u8
 #EXTINF:-1 tvg-id="Телеканал Футбол" tvg-name="Телеканал Футбол" tvg-logo="https://iptvx.one/picons/football-ru.png" group-title="Спортивные",Телеканал Футбол
 http://178.124.179.122:8088/Setanta1/index.m3u8
-#EXTINF:-1 tvg-id="Телерадиокомпания 555 (Алушта)" tvg-name="Телерадиокомпания 555 (Алушта)" tvg-logo="https://i.imgur.com/JQZkxeA.png" group-title="Региональные",Телерадиокомпания 555 (Алушта)
-http://trk555.tv:8888/live
 #EXTINF:-1 tvg-id="Техно 24" tvg-name="Техно 24" tvg-logo="https://epg.iptvx.one/picons/texno-24.png" group-title="Досуг",Техно 24
 https://stream8.cinerama.uz/1037/index.m3u8
 #EXTINF:-1 tvg-id="ТКР Рязань" tvg-name="ТКР Рязань" tvg-logo="https://epg.iptvx.one/picons/trk-ryazan.png" group-title="Региональные",ТКР Рязань
@@ -1195,6 +1189,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="Югра" tvg-name="Югра" tvg-logo="https://iptvx.one/picons/yugra.png" group-title="Региональные",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
+http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
 #EXTINF:-1 tvg-id="Якутия 24" tvg-name="Якутия 24" tvg-logo="https://epg.iptvx.one/picons/yakutia24.png" group-title="Региональные",Якутия 24
