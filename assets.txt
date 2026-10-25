@@ -131,10 +131,6 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 http://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
 #EXTINF:-1 tvg-id="Russia Today" tvg-name="Russia Today" tvg-logo="https://iptvx.one/picons/rt-news.png" group-title="Новости",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="SeleCaoTV Сериалы" tvg-name="SeleCaoTV Сериалы" tvg-logo="" group-title="Кинозалы",SeleCaoTV Сериалы
-http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 tvg-id="SeleCaoTV Фильмы" tvg-name="SeleCaoTV Фильмы" tvg-logo="" group-title="Кинозалы",SeleCaoTV Фильмы
-http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 tvg-id="Setanta Sports" tvg-name="Setanta Sports" tvg-logo="https://epg.iptvx.one/picons/setanta-sports.png" group-title="Спортивные",Setanta Sports
 http://315e5a5d.ottrast.com/iptv/CWL2N4KECYYAXS/6543/index.m3u8
 #EXTINF:-1 tvg-id="Setanta Sports 1 Eurasia" tvg-name="Setanta Sports 1 Eurasia" tvg-logo="https://i.imgur.com/8ANUZAu.png" group-title="Спортивные",Setanta Sports 1 Eurasia
@@ -289,8 +285,6 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
 https://video2.tizam.cc/files/2103041/venice_masquerade.mp4
 #EXTINF:-1 tvg-id="Ветта 24 Пермь" tvg-name="Ветта 24 Пермь" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Региональные",Ветта 24 Пермь
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 tvg-id="Видеокассета HD" tvg-name="Видеокассета HD" tvg-logo="http://epg.one/img2/6005.png" group-title="Фильмы и сериалы",Видеокассета HD
-https://kinowalk.hopto.org/vhs90e_live
 #EXTINF:-1 tvg-id="Визит в попу" tvg-name="Визит в попу" tvg-logo="" group-title="XXX 18+",Визит в попу
 https://video2.tizam.cc/files/2102604/vizit_v_popu.mp4
 #EXTINF:-1 tvg-id="Витебск" tvg-name="Витебск" tvg-logo="https://epg.iptvx.one/picons/vitebsk.png" group-title="Региональные",Витебск
@@ -1025,8 +1019,6 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 tvg-id="Сочи 24" tvg-name="Сочи 24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Союзный" tvg-name="Союзный" tvg-logo="https://epg.iptvx.one/picons/belros.png" group-title="Беларусь",Союзный
-http://souzny.mediacdn.ru/cdn/souzny/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Сплетник" tvg-name="Сплетник" tvg-logo="" group-title="XXX 18+",Сплетник
 https://video1.tizam.cc/vk/tattle_tale.mp4
 #EXTINF:-1 tvg-id="Страна FM" tvg-name="Страна FM" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыкальные",Страна FM
@@ -1107,8 +1099,6 @@ https://tvoetv.space/tvoetv/index.m3u8
 https://tvoetv.space/tvoetv/video.m3u8
 #EXTINF:-1 tvg-id="Твоё ТВ HD v7" tvg-name="Твоё ТВ HD v7" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Твоё ТВ",Твоё ТВ HD v7
 https://tvoetv.space/tvoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ТВЦ" tvg-name="ТВЦ" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общественные",ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Теледом HD" tvg-name="Теледом HD" tvg-logo="https://iptvx.one/picons/teledom.png" group-title="Развлекательные",Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="Телеканал 86 Сургут" tvg-name="Телеканал 86 Сургут" tvg-logo="https://iptvx.one/picons/86-surgut.png" group-title="Региональные",Телеканал 86 Сургут
