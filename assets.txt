@@ -13,8 +13,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="312 ТВ" tvg-name="312 ТВ" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" group-title="Фильмы и сериалы",312 ТВ
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 tvg-id="360" tvg-name="360" tvg-logo="https://epg.iptvx.one/picons/360-podmoskovie.png" group-title="Общественные",360
-https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1 tvg-id="360° Новости" tvg-name="360° Новости" tvg-logo="https://iptvx.one/picons/360-news.png" group-title="Новости",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-id="365 Дней ТВ" tvg-name="365 Дней ТВ" tvg-logo="https://iptvx.one/picons/365-dnej.png" group-title="Познавательные",365 Дней ТВ
@@ -473,6 +471,8 @@ https://video2.tizam.cc/films/LACOLLECTIONNEUSE.mp4
 https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Командный Игрок" tvg-name="Командный Игрок" tvg-logo="" group-title="XXX 18+",Командный Игрок
 https://video3.tizam.cc/films/team-player.mp4
+#EXTINF:-1 tvg-id="Конгресс ТВ" tvg-name="Конгресс ТВ" tvg-logo="https://epg.iptvx.one/picons/kongresstv.png" group-title="Общественные",Конгресс ТВ
+http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="Королева ночи" tvg-name="Королева ночи" tvg-logo="" group-title="XXX 18+",Королева ночи
 https://video1.tizam.cc/films/DrugQueen.mp4
 #EXTINF:-1 tvg-id="Королева слонов 2 Сахара" tvg-name="Королева слонов 2 Сахара" tvg-logo="" group-title="XXX 18+",Королева слонов 2 Сахара
@@ -649,6 +649,8 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
 #EXTINF:-1 tvg-id="Ночи Президента" tvg-name="Ночи Президента" tvg-logo="" group-title="XXX 18+",Ночи Президента
 https://video1.tizam.cc/files/2434264/les_nuits_de_la_presidente.mp4
+#EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ
+http://tv.ttk.mx:9003
 #EXTINF:-1 tvg-id="НТВ +1" tvg-name="НТВ +1" tvg-logo="https://epg.iptvx.one/picons/ntv-pl1.png" group-title="Будущее",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="НТВ +2" tvg-name="НТВ +2" tvg-logo="https://epg.iptvx.one/picons/ntv-pl2.png" group-title="Будущее",НТВ +2
@@ -707,8 +709,6 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 https://vd.obltv.ru/watch/air_hd.m3u8
 #EXTINF:-1 tvg-id="ОТР" tvg-name="ОТР" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 tvg-id="ОТР*" tvg-name="ОТР*" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР*
-http://31.131.141.195:8000/play/1090/index.m3u8
 #EXTINF:-1 tvg-id="Охота и рыбалка HD" tvg-name="Охота и рыбалка HD" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="Досуг",Охота и рыбалка HD
 https://stream8.cinerama.uz/1038/index.m3u8
 #EXTINF:-1 tvg-id="Охотник и рыболов" tvg-name="Охотник и рыболов" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="Досуг",Охотник и рыболов
@@ -821,8 +821,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-id="Ростов-папа HD" tvg-name="Ростов-папа HD" tvg-logo="http://epg.it999.ru/img2/5708.png" group-title="Региональные",Ростов-папа HD
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_RD_ROSTOVPAPA/variant.m3u8
-#EXTINF:-1 tvg-id="РТВ HD" tvg-name="РТВ HD" tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png" group-title="Региональные",РТВ HD
-https://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:-1 tvg-id="Русский институт 4" tvg-name="Русский институт 4" tvg-logo="" group-title="XXX 18+",Русский институт 4
 https://video2.tizam.cc/files/2298183/russkiy_institut_4__russkiy_perevod.mp4
 #EXTINF:-1 tvg-id="Русский институт Урок 17" tvg-name="Русский институт Урок 17" tvg-logo="" group-title="XXX 18+",Русский институт Урок 17
@@ -841,6 +839,8 @@ https://stream8.cinerama.uz/1407/index.m3u8
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 tvg-id="Салям УФА" tvg-name="Салям УФА" tvg-logo="https://iptvx.one/picons/salam.png" group-title="Региональные",Салям УФА
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 tvg-id="Саров 24 HD" tvg-name="Саров 24 HD" tvg-logo="https://iptvx.one/picons/sarov-24.png" group-title="Региональные",Саров 24 HD
+http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Своё ТВ Ставрополь" tvg-name="Своё ТВ Ставрополь" tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="Региональные",Своё ТВ Ставрополь
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Сделаю Всё - Только Не звони Копам!" tvg-name="Сделаю Всё - Только Не звони Копам!" tvg-logo="" group-title="XXX 18+",Сделаю Всё - Только Не звони Копам!
@@ -899,6 +899,8 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 tvg-id="Сочи 24" tvg-name="Сочи 24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Союзный" tvg-name="Союзный" tvg-logo="https://epg.iptvx.one/picons/belros.png" group-title="Беларусь",Союзный
+http://souzny.mediacdn.ru/cdn/souzny/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Сплетник" tvg-name="Сплетник" tvg-logo="" group-title="XXX 18+",Сплетник
 https://video1.tizam.cc/vk/tattle_tale.mp4
 #EXTINF:-1 tvg-id="Страна FM" tvg-name="Страна FM" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыкальные",Страна FM
@@ -1059,8 +1061,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="Югра" tvg-name="Югра" tvg-logo="https://iptvx.one/picons/yugra.png" group-title="Региональные",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
-http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
 #EXTINF:-1 tvg-id="Якутия 24" tvg-name="Якутия 24" tvg-logo="https://epg.iptvx.one/picons/yakutia24.png" group-title="Региональные",Якутия 24
